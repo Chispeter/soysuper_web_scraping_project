@@ -1,7 +1,10 @@
-test = {'Aperitivos': {'nombre_de_categoria': 'Aperitivos', 'nombre_de_ruta': '/c/aperitivos', 'numero_de_productos': '6.377', 'subcategorias': [{'nombre_de_subcategoria': 'Snacks', 'nombre_de_ruta': '/c/aperitivos/snacks#products', 'numero_de_productos': '1.270'}, {'nombre_de_subcategoria': 'Pepito', 'nombre_de_ruta': '/pepito', 'numero_de_productos': '1'}]}}
+else:
+    categories_list["subcategorías"].append({"nombre_de_subcategoría": category["title"],
+                                                        "nombre_de_ruta": category["href"].replace("#products", ""),
+                                                        "numero_de_productos": category.find("span", class_="number").text,
+                                                        "subcategorías": []})
 
-for value in test.values():
-    for dict in value['subcategorias']:
-        print(dict)
-
-print(len({'1': '3'}))
+    # Extraccion de subcategorías (primera)
+    actual_category = categories_list[index]
+    new_url = hostname + actual_category["nombre_de_ruta"]
+    categories_list = extract_categories(url=new_url, categories_list=actual_category)
