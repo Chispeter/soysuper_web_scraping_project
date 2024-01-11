@@ -35,7 +35,7 @@ def extract_categories(categories_list, url="") -> list:
         print("Error al realizar el web scraping")
 
     # Preparar la búsqueda de los datos por categorias y subcategorías
-    for cat in li:
+    for index, cat in enumerate(li):
         # Buscar el elemento <a> que contiene la información de la categoría
         category = cat.find("a")
         # Primera extracción de categorías
@@ -49,7 +49,7 @@ def extract_categories(categories_list, url="") -> list:
 
             except:
                 # Mostrar un mensaje de error si no se pueden extraer los datos de las categorías principales
-                print("Error al realizar el web scraping de las categorías principales")
+                print(f"Error al realizar el web scraping de las categoría principal {categories_list[index]['nombre_de_categoría']}")
 
         else:
             try:
@@ -61,12 +61,9 @@ def extract_categories(categories_list, url="") -> list:
 
             except:
                 # Mostrar un mensaje de error si no se pueden más datos de las subcategorías
-                print(f"Web scraping de {categories_list['subcategorías']['nombre_de_subcategoría']} finalizado")
+                print(f"Error al realizar el web scraping de la subcategoría {categories_list[index]['subcategorías']['nombre_de_subcategoría']}")
 
     return categories_list
-
-# Inicializar lista
-categories_list = []
 
 # Primera extracción de categorías
 
