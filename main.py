@@ -41,15 +41,15 @@ def extract_categories(categories_list=[], url="") -> list:
         # Extraer las categorías y subcategorías
         if category is not None:
             try:
-                # Extraer el nombre de la categoría, el nombre de la ruta (remodelado, ya que se añade #products y no queremos que pase esto) y el número de productos y guardarlos como un diccionario en cada elemento de la lista
+                # Extraer el nombre de la categoría, el nombre de la ruta (remodelado, ya que se añade #products y no queremos que pase esto) y el número de productos; y guardarlos como un diccionario en cada elemento de la lista
                 categories_list.append({"nombre_de_categoría": category["title"],
                                         "nombre_de_ruta": category["href"].replace("#products", ""),
                                         "numero_de_productos": category.find("span", class_="number").text,
                                         "subcategorías": []})
                 extract_categories(categories_list=categories_list[index]["subcategorías"], url=categories_list[index]['nombre_de_ruta'])
             except:
-                # Mostrar un mensaje de error si no se pueden extraer los datos de las categorías principales
-                print(f"Error al realizar el web scraping de las categoría principal X")
+                # Mostrar un mensaje de error si no se pueden extraer los datos de las categorías
+                print(f"Error al realizar el web scraping de las categoría {category['title']}")
 
     return categories_list
 
