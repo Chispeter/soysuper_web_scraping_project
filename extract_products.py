@@ -49,8 +49,8 @@ def get_soup_array(soup: BeautifulSoup, extract_mode: str = "categories" or "pro
     if extract_mode == "categories":
         try:
             # Buscar los elementos que contienen las categorías de los productos
-            section = soup.find_all("section", class_="product-nav")[1]
-            ul = section.find_all("ul")[0]
+            categories_section = soup.find_all("section", class_="product-nav")[1]
+            ul = categories_section.find_all("ul")[0]
             soup_array = ul.find_all("li")
         except:
             # Mostrar un mensaje de error si no se pueden extraer los datos de la web según el procedimiento anterior
@@ -72,7 +72,7 @@ def extract_categories(categories_list: list, category: any):
         # Extraer el nombre de la categoría, el nombre de la ruta (remodelado, ya que se añade #products y no queremos que pase esto) y el número de productos; y guardarlos como un diccionario en cada elemento de la lista
         categories_list.append({"nombre_de_categoría": category["title"],
                                 "nombre_de_ruta": category["href"].replace("#products", ""),
-                                "numero_de_productos": category.find("span", class_="number").text,
+                                "numero_de_productos": category.find("span", class_="number").text.strip(),
                                 "subcategorías": []})
         # Activar para hacer scraping de todas las categorías
         #extract_categories(categories_list=categories_list[index]["subcategorías"], url=categories_list[index]["nombre_de_ruta"], categories_dict=categories_list[index])
@@ -80,7 +80,7 @@ def extract_categories(categories_list: list, category: any):
         # Mostrar un mensaje de error si no se pueden extraer los datos de las categorías
         print(f"Error al realizar el web scraping de los datos de la categoría {category["title"]}")
 
-# Función para extraer los datos de los productos
+# Función para extraer los datos de todos los productos por cada página de productos
 def extract_products(categories_dict: dict, category: any):
     try:
         # Cambiar la clave "subcategorías" por "productos"
