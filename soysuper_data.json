@@ -1,0 +1,3407 @@
+[
+   {
+      "nombre_de_categoría": "Cóctel de aceitunas",
+      "nombre_de_ruta": "/c/aperitivos/aceitunas/coctel-de-aceitunas",
+      "numero_de_productos": "3",
+      "productos": [
+         {
+            "product_id": "4fc910fbcc75fa2a35006d27",
+            "product_name": "Encurtidos surtidos rioverde",
+            "product_brand": "Rioverde",
+            "product_variant": "Frasco de 180 g",
+            "product_pathname": "/p/cocktail-rioverde-180g",
+            "product_image_url": "https://a2.soysuper.com/c565dd4c362a411ddf0aaadfd5971cd0.110.110.0.min.wmark.8705f8e5.jpg",
+            "product_price": "1,51€  / Frasco de 180 g",
+            "product_unitprice": "8,39€ / 1 kg"
+         },
+         {
+            "product_id": "4fc9166bcc75fa2a3501b622",
+            "product_name": "Cóctel de aceitunas",
+            "product_brand": "La Guipuzcoana",
+            "product_variant": "Envase 200 g neto escurrido",
+            "product_pathname": "/p/coctail-sabor-anchoa-la-guipuzkoana-frasco-200-g",
+            "product_image_url": "https://a1.soysuper.com/5212196d9d00f3969444dc69cd9724aa.110.110.0.min.wmark.a8a1fbc4.jpg",
+            "product_price": "2,65€  / Envase 200 g neto escurrido",
+            "product_unitprice": "13,25€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa2e93cdf3b2378beb5",
+            "product_name": "Cóctel de aceitunas manzanilla con cebollitas y pepinillos",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 250 g neto escurrido",
+            "product_pathname": "/p/coctel-de-aceitunas-manzanilla-con-cebollitas-y-pepinillos-envase-250-g-neto-escurrido-guerra-envase-250-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/7c08e5d37c9947428c8c4ffea0b295a5.110.110.0.min.wmark.1857c1bc.jpg",
+            "product_price": "3,87€  / Envase 250 g neto escurrido",
+            "product_unitprice": "15,48€ / 1 kg"
+         }
+      ]
+   },
+   {
+      "nombre_de_categoría": "Eco",
+      "nombre_de_ruta": "/c/aperitivos/aceitunas/eco",
+      "numero_de_productos": "4",
+      "productos": [
+         {
+            "product_id": "53976f0a1963da361b0039b5",
+            "product_name": "Alcampo ecológico Aceitunas negras enteras alcampo ecológico",
+            "product_brand": "Alcampo",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-negra-entera-biologica-procedente-de-agricultura-ecologica-auchan-200-gramos",
+            "product_image_url": "https://a0.soysuper.com/cca784c43b260d5a869c3ac5ebe318f5.110.110.0.min.wmark.eb450173.jpg",
+            "product_price": "2,07€  / 200 g",
+            "product_unitprice": "10,35€ / 1 kg"
+         },
+         {
+            "product_id": "53976f0ae603b93b1b00362b",
+            "product_name": "Alcampo ecológico Aceitunas verdes deshuesadas alcampo ecológico",
+            "product_brand": "Alcampo",
+            "product_variant": "170 g",
+            "product_pathname": "/p/aceituna-verde-deshuesada-biologica-procedente-de-agricultura-ecologica-auchan-170-gramos",
+            "product_image_url": "https://a0.soysuper.com/4c8f6be3eae38cfe8d67ec186129763f.110.110.0.min.wmark.1062b8f8.jpg",
+            "product_price": "1,66€  / 170 g",
+            "product_unitprice": "9,76€ / 1 kg"
+         },
+         {
+            "product_id": "5404db119f82aa5d15000d71",
+            "product_name": "Campomar nature Aceituna arbequina de cultivo ecológico campomar",
+            "product_brand": "Campomar Nature",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-arbequina-de-cultivo-ecologico-campomar-200-gramos",
+            "product_image_url": "https://a1.soysuper.com/507768556b55c2d189c2244b545059f0.110.110.0.min.wmark.4987b4fc.jpg",
+            "product_price": "1,59€  / 200 g",
+            "product_unitprice": "7,95€ / 1 kg"
+         },
+         {
+            "product_id": "594e60712508c171ff4caed4",
+            "product_name": "Campomar nature Manzanilla Sabor Natural ecológica campomar",
+            "product_brand": "Campomar Nature",
+            "product_variant": "200 g",
+            "product_pathname": "/p/manzanilla-sabor-natural-ecologica-campomar-nature-200-gr",
+            "product_image_url": "https://a2.soysuper.com/971832707577251adb1858b824c840ff.110.110.0.min.wmark.45cf0eb9.jpg",
+            "product_price": "1,60€  / 200 g",
+            "product_unitprice": "8€ / 1 kg"
+         }
+      ]
+   },
+   {
+      "nombre_de_categoría": "Moradas",
+      "nombre_de_ruta": "/c/aperitivos/aceitunas/moradas",
+      "numero_de_productos": "11",
+      "productos": [
+         {
+            "product_id": "4fc91664cc75fa2a3501b416",
+            "product_name": "Aceitunas moradas",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 900 g",
+            "product_pathname": "/p/aceitunas-moradas-bravo-frasco-900-g",
+            "product_image_url": "https://a2.soysuper.com/6a2099e1e7770d3cb0d9eec5ea2a4699.110.110.0.min.wmark.d03d865f.jpg",
+            "product_price": "3,29€  / Frasco 900 g",
+            "product_unitprice": "3,66€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b410",
+            "product_name": "Aceitunas moradas",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 2 kg",
+            "product_pathname": "/p/aceitunas-moradas-bravo-frasco-2-kg",
+            "product_image_url": "https://a2.soysuper.com/74ef8983c20e617e4b3c13d8b7ba1b1e.110.110.0.min.wmark.f8031d42.jpg",
+            "product_price": "7,20€  / Frasco 2 kg",
+            "product_unitprice": "3,60€ / 1 kg"
+         },
+         {
+            "product_id": "5cdb1b6f2508c1616916de12",
+            "product_name": "Aceituna morada Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-moradas-rossello-frasco-500-g",
+            "product_image_url": "https://a2.soysuper.com/da4e623176a14d1cf74a13dbf7487c05.110.110.0.min.wmark.2d53b5cb.jpg",
+            "product_price": "1,51€  / 500 g",
+            "product_unitprice": "3,02€ / 1 kg"
+         },
+         {
+            "product_id": "594e7ac82508c12100019d5c",
+            "product_name": "Aceitunas verdes manzanilla con mojo canario",
+            "product_brand": "Escamilla",
+            "product_variant": "Frasco de 600 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-con-mojo-canario-escamilla-frasco-de-600-grs",
+            "product_image_url": "https://a0.soysuper.com/f969264ae35eb4d9ac2ffa682faedf9c.110.110.0.min.wmark.ab85c59b.jpg",
+            "product_price": "2,72€  / Frasco de 600 g",
+            "product_unitprice": "4,53€ / 1 kg"
+         },
+         {
+            "product_id": "5130a2d9c400339f5f000000",
+            "product_name": "Aceitunas manzanilla morada aliñadas con mojo canario",
+            "product_brand": "Escamilla",
+            "product_variant": "Frasco 570 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-morada-alinadas-con-mojo-canario-escamilla-frasco-570-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/d7c5022d3cef35a8660f47ea92d4e206.110.110.0.min.wmark.b836260b.jpg",
+            "product_price": "4,05€  / Frasco 570 g neto escurrido",
+            "product_unitprice": "7,11€ / 1 kg"
+         },
+         {
+            "product_id": "5b598766c24064488245c125",
+            "product_name": "Aceitunas moradas manzanilla Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "100 g",
+            "product_pathname": "/p/aceituna-manzanilla-morada-escamilla-100-g-1",
+            "product_image_url": "https://a1.soysuper.com/96479c611b7655c1aaf94c31e689e748.110.110.0.min.wmark.52afc71e.jpg",
+            "product_price": "0,37€  / 100 g",
+            "product_unitprice": "3,70€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91661cc75fa2a3501b332",
+            "product_name": "Aceitunas manzanilla morada",
+            "product_brand": "Escamilla",
+            "product_variant": "Bolsa 95 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-morada-escamilla-bolsa-95-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/6518295a573f63096b71f4014304bbbe.110.110.0.min.wmark.6b503d2d.jpg",
+            "product_price": "0,68€  / Bolsa 95 g neto escurrido",
+            "product_unitprice": "7,16€ / 1 kg"
+         },
+         {
+            "product_id": "5767c11f1452a0200f4ddc4b",
+            "product_name": "aceitunas manzanilla morada",
+            "product_brand": "El Bote de Oro",
+            "product_variant": "frasco 550 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-morada-el-bote-de-oro-frasco-550-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/9b9c2777d020fbd5839c0f84b464788d.110.110.0.min.wmark.4b2dff6c.jpg",
+            "product_price": "3,95€  / frasco 550 g neto escurrido",
+            "product_unitprice": "7,18€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b438",
+            "product_name": "Aceitunas moradas sabor manzanilla",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 900 g",
+            "product_pathname": "/p/aceitunas-sabor-manzanilla-morada-bravo-frasco-900-g",
+            "product_image_url": "https://a2.soysuper.com/fba6901804dbb47ad957badefdf21b08.110.110.0.min.wmark.839893a0.jpg",
+            "product_price": "3,99€  / Frasco 900 g",
+            "product_unitprice": "4,43€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91667cc75fa2a3501b4ef",
+            "product_name": "Aceitunas moradas manzanilla Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-manzanilla-morada-escamilla-200-g",
+            "product_image_url": "https://a1.soysuper.com/344646a0b721907ad077d47eaa258baa.110.110.0.min.wmark.dfaf3e2d.jpg",
+            "product_price": "1€  / 200 g",
+            "product_unitprice": "5€ / 1 kg"
+         }
+      ]
+   },
+   {
+      "nombre_de_categoría": "Negras",
+      "nombre_de_ruta": "/c/aperitivos/aceitunas/negras",
+      "numero_de_productos": "83",
+      "productos": [
+         {
+            "product_id": "583e0f891452a0304718fb9e",
+            "product_name": "Aceituna negra sin hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-negra-cacerena-sin-hueso-hacendado-lata-350-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/142ef1220ada2ca1845d8e03fea39125.110.110.0.min.wmark.a91f5804.jpg",
+            "product_price": "1,20€  / Lata 150 g neto escurrido",
+            "product_unitprice": "8€ / 1 kg"
+         },
+         {
+            "product_id": "63831937e6ed4018fb7ba2d0",
+            "product_name": "Aceituna negra rodajas",
+            "product_brand": "Hacendado",
+            "product_variant": "U x 50 g",
+            "product_pathname": "/p/aceitunas-negras-hacendado-a-rodajas-hacendado-3-botes-x-50-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/cfade7697393ae21d2a5bc85d5560a37.110.110.0.min.wmark.882f20b9.jpg",
+            "product_price": "2,20€  / U x 50 g",
+            "product_unitprice": "44€ / 1 kg"
+         },
+         {
+            "product_id": "602b8d67d7918742166086ed",
+            "product_name": "Aceituna negra con hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 185 g neto escurrido",
+            "product_pathname": "/p/aceituna-negra-con-hueso-hacendado-lata-350-g-escurrido-185-g",
+            "product_image_url": "https://a2.soysuper.com/a5254002f6a9a41eff1c8fecb19200f3.110.110.0.min.wmark.82ddc032.jpg",
+            "product_price": "1,15€  / Lata 185 g neto escurrido",
+            "product_unitprice": "6,22€ / 1 kg"
+         },
+         {
+            "product_id": "655cf9bd722d6a17c652f449",
+            "product_name": "Aceituna negra sin hueso P-3",
+            "product_brand": "Hacendado",
+            "product_variant": "3 x 110 g",
+            "product_pathname": "/p/aceituna-negra-sin-hueso-p-3-novedad-hacendado-3-x-110-g",
+            "product_image_url": "https://a2.soysuper.com/2fdecd0a0451136cc4d0e13a09e909c5.110.110.0.min.wmark.ce2b4664.jpg",
+            "product_price": "2,10€  / 3 x 110 g",
+            "product_unitprice": "6,36€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3cc",
+            "product_name": "Aceitunas negras sin hueso",
+            "product_brand": "Eroski",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-eroski-lata-150-g",
+            "product_image_url": "https://a0.soysuper.com/20c71f92eeb6ae00525e68a76b188621.110.110.0.min.wmark.75f49d01.jpg",
+            "product_price": "1,17€  / Lata 150 g",
+            "product_unitprice": "7,80€ / 1 kg"
+         },
+         {
+            "product_id": "527a24cf48730c373f000233",
+            "product_name": "Aceitunas negras sin hueso Vegecampo",
+            "product_brand": "VEGECAMPO",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-dia-lata-150-gr",
+            "product_image_url": "https://a2.soysuper.com/5d5f2ef5847c6d2f0495c5234985cd4c.110.110.0.min.wmark.89620de5.jpg",
+            "product_price": "1,22€  / Lata 150 g",
+            "product_unitprice": "8,13€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91666cc75fa2a3501b4cf",
+            "product_name": "Aceituna negra cacereña sin hueso",
+            "product_brand": "Serpis",
+            "product_variant": "Bote 350 g (neto escurrido 150 g)",
+            "product_pathname": "/p/aceituna-cacerenas-negras-sin-hueso-serpis-350-g",
+            "product_image_url": "https://a0.soysuper.com/8afcab42556f0175a3a7c6918b91755d.110.110.0.min.wmark.dd1da3c0.jpg",
+            "product_price": "1,94€  / Bote 350 g (neto escurrido 150 g)",
+            "product_unitprice": "5,54€ / 1 kg"
+         },
+         {
+            "product_id": "64db1fd18ca63c5c6e4117d5",
+            "product_name": "Aceituna negra aragon",
+            "product_brand": "Campo nature",
+            "product_variant": "Tarro 200 g",
+            "product_pathname": "/p/aceitunas-negras-naturales-de-aragon-campo-nature-campo-nature-tarro-200-g",
+            "product_image_url": "https://a1.soysuper.com/77d49c9a90effc9b894f8a37e4583381.110.110.0.min.wmark.767e766a.jpg",
+            "product_price": "2,30€  / Tarro 200 g",
+            "product_unitprice": "11,50€ / 1 kg"
+         },
+         {
+            "product_id": "5ec9ffeb722d6a73027e1238",
+            "product_name": "Aceitunas negras Cacereñas sin hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-negras-cacerenas-sin-hueso-carrefour-150-g-150-g",
+            "product_image_url": "https://a2.soysuper.com/c60c217a2e69656ffaeb00d75607fe25.110.110.0.min.wmark.c38341dd.jpg",
+            "product_price": "0,60€  / 150 g",
+            "product_unitprice": "4€ / 1 kg"
+         },
+         {
+            "product_id": "624ffac41452a0546169036c",
+            "product_name": "Aceituna negra gordal con hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 220 g neto escurrido",
+            "product_pathname": "/p/aceituna-negra-gordal-con-hueso-hacendado-lata-425-g-escurrido-220-g",
+            "product_image_url": "https://a0.soysuper.com/b99cbdf773870589f9cd32598af20119.110.110.0.min.wmark.d6a237ab.jpg",
+            "product_price": "1,15€  / Lata 220 g neto escurrido",
+            "product_unitprice": "5,23€ / 1 kg"
+         },
+         {
+            "product_id": "4fc9113ccc75fa2a35007caa",
+            "product_name": "Producto alcampo Aceitunas negras sin hueso producto alcampo",
+            "product_brand": "Producto Alcampo",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-auchan-150g",
+            "product_image_url": "https://a0.soysuper.com/9563d45d8f14d6652283887b801b0bad.110.110.0.min.wmark.a22d36be.jpg",
+            "product_price": "1,12€  / 150 g",
+            "product_unitprice": "7,47€ / 1 kg"
+         },
+         {
+            "product_id": "639e8dcc722d6a2c3a0a09a4",
+            "product_name": "Aceituna kalamata Iruela sin gluten",
+            "product_brand": "FAMILIA IRUELA",
+            "product_variant": "450 g",
+            "product_pathname": "/p/aceituna-kalamata-iruela-sin-gluten-450-g-450-g",
+            "product_image_url": "https://a2.soysuper.com/2cc8ed42d798c45ddf55e307b0966338.110.110.0.min.wmark.df8a3df9.jpg",
+            "product_price": "3,35€  / 450 g",
+            "product_unitprice": "7,44€ / 1 kg"
+         },
+         {
+            "product_id": "57e6571353c97b162e77fed4",
+            "product_name": "Aceituna negra aragon arrugada",
+            "product_brand": "Campo nature",
+            "product_variant": "Tarro 210 g",
+            "product_pathname": "/p/aceituna-negra-aragon-arrugada-campo-nature-tarro-210-g",
+            "product_image_url": "https://a2.soysuper.com/b75ca3c338ab056e37a9f885c93670c7.110.110.0.min.wmark.548c6cc7.jpg",
+            "product_price": "2,60€  / Tarro 210 g",
+            "product_unitprice": "12,38€ / 1 kg"
+         },
+         {
+            "product_id": "5965e57a2508c1343845063b",
+            "product_name": "LOU oliva Aceitunas negra del bajo Aragón LOU oliva",
+            "product_brand": "Lou-oliva",
+            "product_variant": "Bolsa de 1 kilogramo",
+            "product_pathname": "/p/aceitunas-negra-del-bajo-aragon-lou-oliva-bolsa-de-1-kilogramo",
+            "product_image_url": "https://a0.soysuper.com/bf0c6a4edb37ec967ed52f3259b2c518.110.110.0.min.wmark.e28bb695.jpg",
+            "product_price": "4,08€  / Bolsa de 1 kilogramo",
+            "product_unitprice": "4,08€ / 1 kg"
+         },
+         {
+            "product_id": "56febaf12508c1765428c002",
+            "product_name": "Aceitunas negras sin hueso",
+            "product_brand": "Serpis",
+            "product_variant": "2 uds x 85 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-lata-serpis-2-x-85-gr",
+            "product_image_url": "https://a0.soysuper.com/541640a2540d2420f1ab0e7fa03bf6e7.110.110.0.min.wmark.93c73b90.jpg",
+            "product_price": "2,76€  / 2 uds x 85 g",
+            "product_unitprice": "16,24€ / 1 kg"
+         },
+         {
+            "product_id": "4fc9117fcc75fa2a35008c9e",
+            "product_name": "Aceituna negra sin hueso",
+            "product_brand": "Carbonell",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-carbonell-lata-150-g",
+            "product_image_url": "https://a0.soysuper.com/60300871fe89396f1523bfcf05ed5023.110.110.0.min.wmark.39fbe175.jpg",
+            "product_price": "1,80€  / 150 g",
+            "product_unitprice": "12€ / 1 kg"
+         },
+         {
+            "product_id": "5dc4ad242508c16ccc5df1db",
+            "product_name": "Aceituna negras, variedad Cacereña",
+            "product_brand": "Jolca",
+            "product_variant": "Pack 3 ud x 40 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-variedad-cacerena-pack-3-latas-50-g-neto-escurrido-jolca-pack-3-latas-50-g-1",
+            "product_image_url": "https://a1.soysuper.com/4150f62d17d189701736c7d61bc31aaf.110.110.0.min.wmark.3651a62d.jpg",
+            "product_price": "2,79€  / Pack 3 ud x 40 g",
+            "product_unitprice": "23,25€ / 1 kg"
+         },
+         {
+            "product_id": "621cc083e6ed401b4c7cc02e",
+            "product_name": "Aceitunas marcida con aceite Roselló",
+            "product_brand": "Roselló",
+            "product_variant": "550 g",
+            "product_pathname": "/p/aceitunas-marcida-frasco-550-g-neto-escurrido-rossello-frasco-550-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/29392d07b3553ed4caa7b7fd7b4412ab.110.110.0.min.wmark.e36e19ca.jpg",
+            "product_price": "4,53€  / 550 g",
+            "product_unitprice": "8,24€ / 1 kg"
+         },
+         {
+            "product_id": "58d6dd321452a012463ee514",
+            "product_name": "Aceituna Negra Ecológica de Aragón",
+            "product_brand": "Campomar Nature",
+            "product_variant": "Tarro 200 g",
+            "product_pathname": "/p/aceitunas-negras-ecologicas-de-aragon-al-natural-campomar-nature-frasco-200-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/db1857915f1db6be58c6ad02493ac429.110.110.0.min.wmark.e9a6c964.jpg",
+            "product_price": "1,88€  / Tarro 200 g",
+            "product_unitprice": "9,40€ / 1 kg"
+         },
+         {
+            "product_id": "5bd6cde91452a054654c1b34",
+            "product_name": "Aceitunas negras sin hueso",
+            "product_brand": "La Española",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceitunas-negras-la-espanola-sin-hueso-150-g-la-espanola-150-g",
+            "product_image_url": "https://a0.soysuper.com/5e3032b1a6abecf2336f5eeab13ec6b5.110.110.0.min.wmark.308928e7.jpg",
+            "product_price": "1,72€  / Lata 150 g",
+            "product_unitprice": "11,47€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3ce",
+            "product_name": "Aceitunas negras con hueso LA española",
+            "product_brand": "La Española",
+            "product_variant": "Lata de 185 g",
+            "product_pathname": "/p/aceitunas-negras-la-espanola-lata-185-g",
+            "product_image_url": "https://a2.soysuper.com/2a6a898aeccbb2795f99dfa3ceabba60.110.110.0.min.wmark.4b25640f.jpg",
+            "product_price": "2,45€  / Lata de 185 g",
+            "product_unitprice": "13,24€ / 1 kg"
+         },
+         {
+            "product_id": "50b1aa48dcaf76180f0005bd",
+            "product_name": "Aceituna verde aloreña partida aliñada",
+            "product_brand": "Jolca",
+            "product_variant": "500 gr",
+            "product_pathname": "/p/aceituna-verde-alorena-partida-alinada-jolca-frasco-500-g",
+            "product_image_url": "https://a0.soysuper.com/451b40e49c5e5d64aec8db9c0022a1d3.110.110.0.min.wmark.c272373c.jpg",
+            "product_price": "4,12€  / 500 gr",
+            "product_unitprice": "8,24€ / 1 kg"
+         },
+         {
+            "product_id": "57ed78222508c148f70a4c4b",
+            "product_name": "Aceituna negra manzanilla sin hueso",
+            "product_brand": "Jolca",
+            "product_variant": "75 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-jolca-bolsa-de-75-gramos",
+            "product_image_url": "https://a2.soysuper.com/01e7989d71f3991dac00d01a3ea3a60a.110.110.0.min.wmark.3027ad7a.jpg",
+            "product_price": "0,74€  / 75 g",
+            "product_unitprice": "9,87€ / 1 kg"
+         },
+         {
+            "product_id": "56269b5c53c97b580f02d7da",
+            "product_name": "Aceitunas verdes partidas La Masrojana",
+            "product_brand": "La Masrojana",
+            "product_variant": "220 g",
+            "product_pathname": "/p/aceitunas-partidas-la-masrojana-220-g",
+            "product_image_url": "https://a1.soysuper.com/44c0faf050f38d0999ebfa72d1f2829a.110.110.0.min.wmark.382ad026.jpg",
+            "product_price": "2,01€  / 220 g",
+            "product_unitprice": "9,14€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbf942508c112311804de",
+            "product_name": "Aceitunas negras Cacereñas con hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-negras-cacerenas-con-hueso-carrefour-500-g-carrefour",
+            "product_image_url": "https://a2.soysuper.com/c6c4916e6b0923aad473916a0920e3bc.110.110.0.min.wmark.1664907f.jpg",
+            "product_price": "1,73€  / 500 g",
+            "product_unitprice": "3,46€ / 1 kg"
+         },
+         {
+            "product_id": "5b5f65b0722d6a754858b51b",
+            "product_name": "Aceitunas partidas aliñadas Jolca",
+            "product_brand": "Jolca",
+            "product_variant": "Lata 185 g",
+            "product_pathname": "/p/aceitunas-partidas-alinadas-lata-185-gr-jolca-lata-185-gr",
+            "product_image_url": "https://a0.soysuper.com/fb27f119ea449ced316e3c4602c7832d.110.110.0.min.wmark.b9edfad0.jpg",
+            "product_price": "1,89€  / Lata 185 g",
+            "product_unitprice": "10,22€ / 1 kg"
+         },
+         {
+            "product_id": "59553ae998ec9130e864eacc",
+            "product_name": "Aceitunas negras sin hueso",
+            "product_brand": "Fragata",
+            "product_variant": "Lata 350 g (Neto escurrido 150 g)",
+            "product_pathname": "/p/aceitunas-negra-sin-hueso-fragata-lata-150-g",
+            "product_image_url": "https://a0.soysuper.com/faac4631e87c4518654f83a138a5253c.110.110.0.min.wmark.83b1072e.jpg",
+            "product_price": "2,05€  / Lata 350 g (Neto escurrido 150 g)",
+            "product_unitprice": "5,86€ / 1 kg"
+         },
+         {
+            "product_id": "5bd767611452a06f9c480858",
+            "product_name": "Olivas negras empeltre Blai",
+            "product_brand": "Blai Peris",
+            "product_variant": "210 g",
+            "product_pathname": "/p/aceitunas-empeltre-blai-peris-180-gr-blai-peris-180-gr",
+            "product_image_url": "https://a2.soysuper.com/2e3d69e87f7a31615589e32db3e1ca1c.110.110.0.min.wmark.b458b771.jpg",
+            "product_price": "2,84€  / 210 g",
+            "product_unitprice": "13,52€ / 1 kg"
+         },
+         {
+            "product_id": "5bbbacf41452a0509a62b10a",
+            "product_name": "Aceitunas negras en rodajas",
+            "product_brand": "Serpis",
+            "product_variant": "Frasco 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-negras-manzanilla-en-rodajas-serpis-frasco-150-gr",
+            "product_image_url": "https://a0.soysuper.com/e79ca4b872901d99040b346f882d4618.110.110.0.min.wmark.2ef0b837.jpg",
+            "product_price": "1,94€  / Frasco 150 g neto escurrido",
+            "product_unitprice": "12,93€ / 1 kg"
+         },
+         {
+            "product_id": "56269b791452a00e07704459",
+            "product_name": "Aceitunas negras",
+            "product_brand": "La Masrojana",
+            "product_variant": "Frasco 220 g",
+            "product_pathname": "/p/aceitunas-negras-de-aragon-la-masrojana-220-g",
+            "product_image_url": "https://a1.soysuper.com/4f47aadfd2316aa004da96d157ba69c5.110.110.0.min.wmark.4d99c04b.jpg",
+            "product_price": "2,53€  / Frasco 220 g",
+            "product_unitprice": "11,50€ / 1 kg"
+         },
+         {
+            "product_id": "5cb4af9f2508c146db008ab2",
+            "product_name": "Aceituna negra ecológica La masrojana",
+            "product_brand": "La Masrojana",
+            "product_variant": "220 g",
+            "product_pathname": "/p/aceitunas-negras-arrugadas-ecologicas-la-masrojana-0-22-kg",
+            "product_image_url": "https://a0.soysuper.com/f1d88c21170e93ddb72a7ece000d9724.110.110.0.min.wmark.c632cd23.jpg",
+            "product_price": "1,30€  / 220 g",
+            "product_unitprice": "5,91€ / 1 kg"
+         },
+         {
+            "product_id": "5f21d8dd0932f76188705901",
+            "product_name": "Aceitunas negras seleccionadas variedad Aragon Muerta",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-negras-seleccionadas-variedad-aragon-muerta-aperitivos-la-real-100-gramos-1",
+            "product_image_url": "https://a0.soysuper.com/cae5801c98d8865f6fde24082f689cb0.110.110.0.min.wmark.b4096dba.jpg",
+            "product_price": "1,56€  / 100 gramos",
+            "product_unitprice": "15,60€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3d8",
+            "product_name": "Olivas negras aceite de oliva y especias",
+            "product_brand": "Sarasa",
+            "product_variant": "185 g",
+            "product_pathname": "/p/aceitunas-negras-especiadas-sarasa-frasco-185-g",
+            "product_image_url": "https://a2.soysuper.com/0a81b3fdd2895e2e3b24eac0739d92a9.110.110.0.min.wmark.5a0cf19a.jpg",
+            "product_price": "1,92€  / 185 g",
+            "product_unitprice": "10,38€ / 1 kg"
+         },
+         {
+            "product_id": "6511dd6f53c97b0e8a6690b1",
+            "product_name": "Aceitunas negras en rodajas neto escurrido",
+            "product_brand": "Fragata",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/aceitunas-negras-en-rodajas-pack-3-latas-50-g-neto-escurrido-fragata-pack-3-latas-50-g",
+            "product_image_url": "https://a1.soysuper.com/59c931dde31083e03a93326897f05af0.110.110.0.min.wmark.ac58937f.jpg",
+            "product_price": "2,52€  / Pack 3 latas 50 g",
+            "product_unitprice": "16,80€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3d4",
+            "product_name": "Aceitunas negras con hueso",
+            "product_brand": "Eroski",
+            "product_variant": "Lata 185 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-eroski-lata-185-g",
+            "product_image_url": "https://a0.soysuper.com/6fb82756c800ccedab6ae2ae4a9744da.110.110.0.min.wmark.08190220.jpg",
+            "product_price": "1,15€  / Lata 185 g",
+            "product_unitprice": "6,22€ / 1 kg"
+         },
+         {
+            "product_id": "5be0d7db98ec91511931fcf3",
+            "product_name": "Drops aceitunas negras esféricas creada por Albert Adriá",
+            "product_brand": "Caviaroli",
+            "product_variant": "Tarro 50 g",
+            "product_pathname": "/p/drops-aceitunas-negras-esfericas-creada-por-albert-adria-tarro-50-g-caviaroli-tarro-50-g",
+            "product_image_url": "https://a0.soysuper.com/d0f2997c5c571f958b3a0912df1a1689.110.110.0.min.wmark.704bf0bd.jpg",
+            "product_price": "13,90€  / Tarro 50 g",
+            "product_unitprice": "278€ / 1 kg"
+         },
+         {
+            "product_id": "55e89d101452a043bb65c7f2",
+            "product_name": "Aceitunas negras ecológicas sabor natural sin caldo",
+            "product_brand": "Campomar Nature",
+            "product_variant": "Frasco 210 g neto escurrido",
+            "product_pathname": "/p/aceitunas-negras-ecologicas-sabor-natural-sin-caldo-campomar-nature-frasco-220-g-neto-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/0d7bc1793e1dc48856b8a73857c76d58.110.110.0.min.wmark.685e41c7.jpg",
+            "product_price": "2,38€  / Frasco 210 g neto escurrido",
+            "product_unitprice": "11,33€ / 1 kg"
+         },
+         {
+            "product_id": "628fd1a7d79187016e57a005",
+            "product_name": "Aceitunas cacereñas negras con hueso",
+            "product_brand": "Serpis",
+            "product_variant": "Lata 160 g neto escurrido",
+            "product_pathname": "/p/aceitunas-cacerenas-negras-con-hueso-lata-160-g-neto-escurrido-serpis-lata-160-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/756f1e14f58a51ebe3df4b3fcad55136.110.110.0.min.wmark.36d0d4ab.jpg",
+            "product_price": "2,07€  / Lata 160 g neto escurrido",
+            "product_unitprice": "12,94€ / 1 kg"
+         },
+         {
+            "product_id": "5963b85298ec916a64737d95",
+            "product_name": "Aceitunas de kalamata al natural Peloponeso Grecia",
+            "product_brand": "Kalios",
+            "product_variant": "Frasco 310 g",
+            "product_pathname": "/p/kalios-aceitunas-kalamata-al-natural-310-gr-kalios",
+            "product_image_url": "https://a1.soysuper.com/2b9d9bb38d14ff836505ea87d3109319.110.110.0.min.wmark.641266f6.jpg",
+            "product_price": "7,08€  / Frasco 310 g",
+            "product_unitprice": "22,84€ / 1 kg"
+         },
+         {
+            "product_id": "5f3ed147d79187185169813c",
+            "product_name": "Aceitunas negras deshuesadas",
+            "product_brand": "El Faro",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-deshuesadas-faro-lata-370-ml",
+            "product_image_url": "https://a2.soysuper.com/2273074180cb0071097e9e3632c978fa.110.110.0.min.wmark.31caacb8.jpg",
+            "product_price": "1,21€  / 150 g",
+            "product_unitprice": "8,07€ / 1 kg"
+         },
+         {
+            "product_id": "586c92d61452a0610b09d241",
+            "product_name": "Aceitunas negras sin hueso Serpis",
+            "product_brand": "Serpis",
+            "product_variant": "Lata 85 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-serpis-lata-85-gr",
+            "product_image_url": "https://a1.soysuper.com/a7253b90c5d5eab698732e27aac4ba1a.110.110.0.min.wmark.2def4eb6.jpg",
+            "product_price": "1,60€  / Lata 85 g",
+            "product_unitprice": "18,82€ / 1 kg"
+         },
+         {
+            "product_id": "5e459e380932f71e020c3501",
+            "product_name": "Aceitunas negras ecológicas Carrefour Bio",
+            "product_brand": "Carrefour Bio",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-negras-ecologicas-carrefour-bio-200-g-340-g",
+            "product_image_url": "https://a1.soysuper.com/742e56b863076c65cc4178b0cf21789a.110.110.0.min.wmark.cc835f55.jpg",
+            "product_price": "2,19€  / 200 g",
+            "product_unitprice": "10,95€ / 1 kg"
+         },
+         {
+            "product_id": "5eea1afb1452a063b932c238",
+            "product_name": "Aceituna negra arrugada de Aragón con hueso De Nuestra Tierra",
+            "product_brand": "De Nuestra Tierra",
+            "product_variant": "220 g",
+            "product_pathname": "/p/aceituna-negra-arrugada-de-aragon-con-hueso-de-nuestra-tierra-220-g-225-g",
+            "product_image_url": "https://a0.soysuper.com/8f99fbb074dbc35cd16c571b8d38af3a.110.110.0.min.wmark.0c9b5d3c.jpg",
+            "product_price": "2,19€  / 220 g",
+            "product_unitprice": "9,95€ / 1 kg"
+         },
+         {
+            "product_id": "5ec9ffebd7918749d46ee7be",
+            "product_name": "Aceitunas negras Cacereñas con hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-negras-cacerenas-con-hueso-carrefour-200-g-200-g",
+            "product_image_url": "https://a1.soysuper.com/361487a41bf91f0610c498a395ce8353.110.110.0.min.wmark.243cf201.jpg",
+            "product_price": "0,62€  / 200 g",
+            "product_unitprice": "3,10€ / 1 kg"
+         },
+         {
+            "product_id": "5851470f2508c1461f24559c",
+            "product_name": "Aceitunas verdes de Mallorca Olis Sóller",
+            "product_brand": "Soller",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-verdes-enteras-d-o-mallorca-soller-lata-200-g",
+            "product_image_url": "https://a1.soysuper.com/f77fb8cb01255143d00e359fab447fe1.110.110.0.min.wmark.4ba741c9.jpg",
+            "product_price": "3€  / 200 g",
+            "product_unitprice": "15€ / 1 kg"
+         },
+         {
+            "product_id": "600894ee2508c16cd10d5438",
+            "product_name": "Aceitunas negras en rodajas Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "Pack 3 unidades de 50 g",
+            "product_pathname": "/p/aceitunas-negras-en-rodajas-carrefour-pack-3-unidades-de-50-g-pack-3-unidades-de-50-g",
+            "product_image_url": "https://a0.soysuper.com/8550c9136e739856d53b76622b49f75a.110.110.0.min.wmark.52db43f9.jpg",
+            "product_price": "1,01€  / Pack 3 unidades de 50 g",
+            "product_unitprice": "6,73€ / 1 kg"
+         },
+         {
+            "product_id": "5e958a1b722d6a48c768ab1e",
+            "product_name": "Aceitunas negras Kalamata Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-negras-kalamata-carrefour-200-g-200-g",
+            "product_image_url": "https://a2.soysuper.com/80eb1207063bcc8586e8eb065423b6f9.110.110.0.min.wmark.6d96395a.jpg",
+            "product_price": "1€  / 200 g",
+            "product_unitprice": "5€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbfde1452a063e11d3de7",
+            "product_name": "Aceitunas negras sin hueso bajo contenido en sal Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-bajo-contenido-en-sal-carrefour-150-g-carrefour",
+            "product_image_url": "https://a2.soysuper.com/ed3d83f46b3e589815511730b610d850.110.110.0.min.wmark.c1eac27b.jpg",
+            "product_price": "0,78€  / 150 g",
+            "product_unitprice": "5,20€ / 1 kg"
+         },
+         {
+            "product_id": "5e333af0e93cdf37176b6407",
+            "product_name": "Aceitunas Negras con Hueso Manzanilla Cacereña de Nuestra Tierra",
+            "product_brand": "De Nuestra Tierra",
+            "product_variant": "350 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-manzanilla-cacerena-de-nuestra-tierra-350-g-350-g",
+            "product_image_url": "https://a0.soysuper.com/f41499e143af91b73b5a0bebbe4cf980.110.110.0.min.wmark.d8f68e26.jpg",
+            "product_price": "0,75€  / 350 g",
+            "product_unitprice": "2,14€ / 1 kg"
+         },
+         {
+            "product_id": "5a989dbb2508c10e3f22c92f",
+            "product_name": "Aceitunas negra entera 1 ª con hueso variedad empeltre con ajo seleccionadas de Aragón",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-negra-entera-1-a-con-hueso-variedad-empeltre-con-ajo-seleccionadas-de-aragon-la-real-100-gramos-1",
+            "product_image_url": "https://a1.soysuper.com/d0ca635428fdae2b3c3d8d75e0c5cedb.110.110.0.min.wmark.d702f770.jpg",
+            "product_price": "1,56€  / 100 gramos",
+            "product_unitprice": "15,60€ / 1 kg"
+         },
+         {
+            "product_id": "594ee51a98ec910e292a104a",
+            "product_name": "Aceitunas negras con hueso de Aragón",
+            "product_brand": "La Sota",
+            "product_variant": "Frasco 260 g peso neto escurrido",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-de-aragon-la-sota-frasco-de-260-grs",
+            "product_image_url": "https://a1.soysuper.com/c02edab8d6be509452e8079d98f5652a.110.110.0.min.wmark.c92c73c2.jpg",
+            "product_price": "3,86€  / Frasco 260 g peso neto escurrido",
+            "product_unitprice": "14,85€ / 1 kg"
+         },
+         {
+            "product_id": "621cc0ce98ec9120764b7aff",
+            "product_name": "Aceituna Negra Pansida",
+            "product_brand": "Caimari",
+            "product_variant": "220 gramos",
+            "product_pathname": "/p/aceitunas-negras-pansidas-mallorquina-frasco-250-g-neto-escurrido-caimari-frasco-250-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/d887b3020663308b0388c87e01987dfd.110.110.0.min.wmark.0d99971a.jpg",
+            "product_price": "2,06€  / 220 gramos",
+            "product_unitprice": "9,36€ / 1 kg"
+         },
+         {
+            "product_id": "554332782508c16f227125e3",
+            "product_name": "Aceitunas negras con hueso Jose Lou",
+            "product_brand": "Jose Lou",
+            "product_variant": "900 g",
+            "product_pathname": "/p/aceituna-negra-natural-con-hueso-jose-lou-900-g",
+            "product_image_url": "https://a2.soysuper.com/9a42475b19d90c17da89c20976a68257.110.110.0.min.wmark.635c8b82.jpg",
+            "product_price": "2,55€  / 900 g",
+            "product_unitprice": "2,83€ / 1 kg"
+         },
+         {
+            "product_id": "5a0c58cb98ec9128632a08d1",
+            "product_name": "Aceituna negra cuquillo con hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro  160 g neto escurrido",
+            "product_pathname": "/p/aceituna-negra-cuquillo-con-hueso-hacendado-tarro-170-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/f322426fa358d2064687a5871f77478d.110.110.0.min.wmark.b38aea37.jpg",
+            "product_price": "1,65€  / Tarro  160 g neto escurrido",
+            "product_unitprice": "10,31€ / 1 kg"
+         },
+         {
+            "product_id": "575f08b298ec9169821895c0",
+            "product_name": "Olivas negras masrojana",
+            "product_brand": "La Masrojana",
+            "product_variant": "Lata 400 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-la-masrojana-450g",
+            "product_image_url": "https://a0.soysuper.com/b1e9e2ff7a2299de594f1d14d291dd85.110.110.0.min.wmark.783c2055.jpg",
+            "product_price": "3,80€  / Lata 400 g",
+            "product_unitprice": "9,50€ / 1 kg"
+         },
+         {
+            "product_id": "62e18bbf0932f7413f186ed3",
+            "product_name": "Aceitunas negras en rodajas serpis, frasco 150 G",
+            "product_brand": "Serpis",
+            "product_variant": "Frasco 150 g",
+            "product_pathname": "/p/aceitunas-negras-en-rodajas-serpis-frasco-150-g-serpis-frasco-150-g",
+            "product_image_url": "https://a0.soysuper.com/762e65d69d5e6ab6a103fc63dda12b7d.110.110.0.min.wmark.e26ee213.jpg",
+            "product_price": "1,99€  / Frasco 150 g",
+            "product_unitprice": "13,27€ / 1 kg"
+         },
+         {
+            "product_id": "5191550faec9027d42000015",
+            "product_name": "Aceitunas negras con hueso",
+            "product_brand": "El Faro",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceituna-negra-c-h-faro-150-gr",
+            "product_image_url": "https://a1.soysuper.com/6a8591e1f0fc6f10d7ec026d7984eb65.110.110.0.min.wmark.e8591033.jpg",
+            "product_price": "1,98€  / Lata 150 g",
+            "product_unitprice": "13,20€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b42d",
+            "product_name": "Aceitunas negras de Aragón Eroski",
+            "product_brand": "Eroski Seleqtia",
+            "product_variant": "Frasco 200 g",
+            "product_pathname": "/p/aceitunas-negras-de-aragon-eroski-seleqtia-frasco-200-g",
+            "product_image_url": "https://a2.soysuper.com/4338579aa938de3b222eb049a97e353e.110.110.0.min.wmark.6002d302.jpg",
+            "product_price": "2,10€  / Frasco 200 g",
+            "product_unitprice": "10,50€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91027cc75fa2a35003009",
+            "product_name": "Aceitunas negras con hueso hijos DE",
+            "product_brand": "LOU",
+            "product_variant": "Bolsa 300 g",
+            "product_pathname": "/p/aceituna-negra-lou-300gr",
+            "product_image_url": "https://a1.soysuper.com/dd7022c2d9094ccf293c06b67751f54c.110.110.0.min.wmark.49a7635e.jpg",
+            "product_price": "2,89€  / Bolsa 300 g",
+            "product_unitprice": "9,63€ / 1 kg"
+         },
+         {
+            "product_id": "5b2b23d198ec91607e247621",
+            "product_name": "Pinchos de aceitunas negras aliñadas con pimentón seleccionadas con sabor suave",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/pinchos-de-aceitunas-negras-alinadas-con-pimenton-seleccionadas-con-sabor-suave-la-real-100-gramos-1",
+            "product_image_url": "https://a0.soysuper.com/21d706a83832e71cb216d3883af7a51d.110.110.0.min.wmark.97daaa06.jpg",
+            "product_price": "1,32€  / 100 gramos",
+            "product_unitprice": "13,20€ / 1 kg"
+         },
+         {
+            "product_id": "5a989dbb0932f77b6c09ccbc",
+            "product_name": "Aceitunas seleccionadas con un sabor suave variedad Kalamata",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-seleccionadas-con-un-sabor-suave-variedad-kalamata-la-real-100-gramos-1",
+            "product_image_url": "https://a0.soysuper.com/163830c8226199f562cbaaa2fe6c62b7.110.110.0.min.wmark.d496f1dd.jpg",
+            "product_price": "2,81€  / 100 gramos",
+            "product_unitprice": "28,10€ / 1 kg"
+         },
+         {
+            "product_id": "5a989dbb53c97b7121365a38",
+            "product_name": "Aceitunas negras seleccionadas con hueso",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-negras-seleccionadas-con-hueso-la-real-100-gramos-1",
+            "product_image_url": "https://a0.soysuper.com/1de30021f31a3b7b8db2788cce533669.110.110.0.min.wmark.ffdaa998.jpg",
+            "product_price": "1,15€  / 100 gramos",
+            "product_unitprice": "11,50€ / 1 kg"
+         },
+         {
+            "product_id": "5b19ba06722d6a6d063c0e67",
+            "product_name": "Aceitunas negras seleccionadas sin hueso",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-negras-seleccionadas-sin-hueso-la-real-100-gramos-1",
+            "product_image_url": "https://a1.soysuper.com/abe51928c8ff37ea9a179e9465849804.110.110.0.min.wmark.2cc79c8b.jpg",
+            "product_price": "1,47€  / 100 gramos",
+            "product_unitprice": "14,70€ / 1 kg"
+         },
+         {
+            "product_id": "5fece68c0932f75f4a18ae91",
+            "product_name": "Aceitunas negras con hueso ecológicas La masrojana",
+            "product_brand": "La Masrojana",
+            "product_variant": "220 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-ecologicas-la-masrojana-220-g-220-g",
+            "product_image_url": "https://a0.soysuper.com/3fb16d27fda1acbdd1a23ebd50792845.110.110.0.min.wmark.e2e12de2.jpg",
+            "product_price": "1,23€  / 220 g",
+            "product_unitprice": "5,59€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3d9",
+            "product_name": "Aceitunas negras de Aragón hijos de josé",
+            "product_brand": "LOU",
+            "product_variant": "Frasco 600 g",
+            "product_pathname": "/p/aceitunas-negras-de-aragon-hijos-de-jose-lou-frasco-600-g",
+            "product_image_url": "https://a2.soysuper.com/3072343ad087eb47aae611a8140011bb.110.110.0.min.wmark.96ccf435.jpg",
+            "product_price": "5,12€  / Frasco 600 g",
+            "product_unitprice": "8,53€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91666cc75fa2a3501b4db",
+            "product_name": "Aceitunas cacereña aliñada Reina de la Vega Sarasa sin gluten",
+            "product_brand": "Sarasa",
+            "product_variant": "185 g",
+            "product_pathname": "/p/aceituna-negra-aceitunas-especias-lata-aceituras-sarasa-150-g",
+            "product_image_url": "https://a0.soysuper.com/805beae73a03209ed951e252a520dce1.110.110.0.min.wmark.0c03bc15.jpg",
+            "product_price": "1,25€  / 185 g",
+            "product_unitprice": "6,76€ / 1 kg"
+         },
+         {
+            "product_id": "4fc910c3cc75fa2a35005df1",
+            "product_name": "Serpis Aceituna negra cacereña con hueso serpis",
+            "product_brand": "Serpis",
+            "product_variant": "160 g",
+            "product_pathname": "/p/aceituna-cacerenas-negras-con-hueso-serpis-350-g",
+            "product_image_url": "https://a1.soysuper.com/66e4162118faae39daa39cecb34ec2c5.110.110.0.min.wmark.583ecbb7.jpg",
+            "product_price": "2,06€  / 160 g",
+            "product_unitprice": "12,88€ / 1 kg"
+         },
+         {
+            "product_id": "51163b006481561752001b3d",
+            "product_name": "Aceitunas negras con hueso",
+            "product_brand": "Excelencia",
+            "product_variant": "Lata de 200 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-excelencia-aceituna-negra-c-h-200g",
+            "product_image_url": "https://a2.soysuper.com/db101d18acedfac88e695e595e68b24e.110.110.0.min.wmark.54ac38eb.jpg",
+            "product_price": "1,76€  / Lata de 200 g",
+            "product_unitprice": "8,80€ / 1 kg"
+         },
+         {
+            "product_id": "5e542e2053c97b3634607524",
+            "product_name": "Aceitunas negras sin hueso LA española, lata 150 G",
+            "product_brand": "La Española",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceitunas-negras-sin-hueso-la-espanola-lata-150-g-la-espanola-lata-150-g",
+            "product_image_url": "https://a0.soysuper.com/020069600b01394ec1171fea28bbdaad.110.110.0.min.wmark.f9258927.jpg",
+            "product_price": "2,09€  / Lata 150 g",
+            "product_unitprice": "13,93€ / 1 kg"
+         },
+         {
+            "product_id": "593850861452a016cd2bdad5",
+            "product_name": "Aceitunas negras enteras El Faro",
+            "product_brand": "El Faro",
+            "product_variant": "190 g",
+            "product_pathname": "/p/aceitunas-negras-enteras-el-faro-190-g",
+            "product_image_url": "https://a2.soysuper.com/0c83cf325e779b3265ee8d9d51d99dba.110.110.0.min.wmark.6a96de82.jpg",
+            "product_price": "1,20€  / 190 g",
+            "product_unitprice": "6,32€ / 1 kg"
+         },
+         {
+            "product_id": "5ac57c791452a063e07a7809",
+            "product_name": "Aceitunas negras con hueso en aceite DOP Aceituna de Mallorca",
+            "product_brand": "Olis soller",
+            "product_variant": "Envase 200 g neto escurrido",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-en-aceite-d-o-p-mallorca-envase-200-g-neto-escurrido-olis-soller-envase-200-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/1d80b0d6c05e1ed0374be2c8e73840d3.110.110.0.min.wmark.acde30e9.jpg",
+            "product_price": "5,50€  / Envase 200 g neto escurrido",
+            "product_unitprice": "27,50€ / 1 kg"
+         },
+         {
+            "product_id": "60005a2a0932f73a7b50bfae",
+            "product_name": "Aceitunas negras Cano",
+            "product_brand": "Cano",
+            "product_variant": "2500 g",
+            "product_pathname": "/p/aceituna-negras-lata-p-escurrido-2500-gr-p-neto-2800-gr-cano-escurrido-2500-gr",
+            "product_image_url": "https://a2.soysuper.com/ae3a611434ffde7220f534ccc62faecd.110.110.0.min.wmark.f8d914ae.jpg",
+            "product_price": "6,23€  / 2500 g",
+            "product_unitprice": "2,49€ / 1 kg"
+         },
+         {
+            "product_id": "5250e6bf97bdc6d84900006a",
+            "product_name": "Excelencia Aceitunas negras sin hueso en rodajas excelencia",
+            "product_brand": "Excelencia",
+            "product_variant": "Lata de 175 g",
+            "product_pathname": "/p/aceitunas-negras-en-rodajas-excelencia-175-gramos",
+            "product_image_url": "https://a0.soysuper.com/ea3d55d8251010cfe161c843cc7dfb33.110.110.0.min.wmark.95b046c0.jpg",
+            "product_price": "1,44€  / Lata de 175 g",
+            "product_unitprice": "8,23€ / 1 kg"
+         },
+         {
+            "product_id": "5ab8c384725a615973243e1f",
+            "product_name": "Sarasa Aceitunas negras de Aragón sarasa",
+            "product_brand": "Sarasa",
+            "product_variant": "450 gr",
+            "product_pathname": "/p/aceituna-negra-aragon-sarasa-450-g",
+            "product_image_url": "https://a0.soysuper.com/50d8adc41a41faee789453df3b32fea8.110.110.0.min.wmark.52f65ea7.jpg",
+            "product_price": "2,81€  / 450 gr",
+            "product_unitprice": "6,24€ / 1 kg"
+         },
+         {
+            "product_id": "5a91f5aa98ec91136c7dc2b3",
+            "product_name": "Sarasa Aceituna negra cacereña sarasa",
+            "product_brand": "Sarasa",
+            "product_variant": "750 g",
+            "product_pathname": "/p/aceituna-negra-cacerena-sarasa-750-g",
+            "product_image_url": "https://a2.soysuper.com/44e76e46c0597c68d42caebc9157b90e.110.110.0.min.wmark.263eacfe.jpg",
+            "product_price": "4,79€  / 750 g",
+            "product_unitprice": "6,39€ / 1 kg"
+         },
+         {
+            "product_id": "5a6d0df498ec917a4932c089",
+            "product_name": "Sarasa Aceituna negra de Aragón sarasa",
+            "product_brand": "Sarasa",
+            "product_variant": "210 gr",
+            "product_pathname": "/p/aceituna-negra-de-aragon-sarasa-210-gr",
+            "product_image_url": "https://a1.soysuper.com/00ec637c3b265e80ac9dccf989c531c1.110.110.0.min.wmark.d8a52c19.jpg",
+            "product_price": "1,65€  / 210 gr",
+            "product_unitprice": "7,86€ / 1 kg"
+         },
+         {
+            "product_id": "5db4c3e353c97b1f550ee1c3",
+            "product_name": "Casa amella Aceitunas de Aragón casa amella",
+            "product_brand": "Casa Amella",
+            "product_variant": "330 g",
+            "product_pathname": "/p/aceitunas-de-aragon-casa-amella-330-g",
+            "product_image_url": "https://a0.soysuper.com/08857bd2a521f7f402a98f0ba1d74c05.110.110.0.min.wmark.1c53e4bc.jpg",
+            "product_price": "2,86€  / 330 g",
+            "product_unitprice": "8,67€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91171cc75fa2a35008996",
+            "product_name": "Alcampo gourmet Aceitunas negras con hueso alcampo gourmet",
+            "product_brand": "Alcampo Gourmet",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-cacerenas-negras-con-hueso-auchan-mmm-150g",
+            "product_image_url": "https://a0.soysuper.com/d864f745187a9328b9fbbe9568b9c839.110.110.0.min.wmark.57189379.jpg",
+            "product_price": "1,24€  / 150 g",
+            "product_unitprice": "8,27€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91660cc75fa2a3501b31c",
+            "product_name": "Producto alcampo Aceitunas negras con hueso producto alcampo",
+            "product_brand": "Producto Alcampo",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-negras-con-hueso-auchan-200g",
+            "product_image_url": "https://a2.soysuper.com/cdd3a1b44c4da1057a4dde38442f818c.110.110.0.min.wmark.469b5ed3.jpg",
+            "product_price": "1,18€  / 200 g",
+            "product_unitprice": "5,90€ / 1 kg"
+         },
+         {
+            "product_id": "61731dc053c97b3807057c94",
+            "product_name": "Aceitunas negras Cuquillo",
+            "product_brand": "La almazara de canjayar",
+            "product_variant": "Envase 550 g neto escurrido",
+            "product_pathname": "/p/aceitunas-negras-cuquillo-envase-550-g-neto-escurrido-la-almazara-de-canjayar-envase-550-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/19740690f045785c43e7dcfbe84ffcda.110.110.0.min.wmark.9210a670.jpg",
+            "product_price": "5,21€  / Envase 550 g neto escurrido",
+            "product_unitprice": "9,47€ / 1 kg"
+         }
+      ]
+   },
+   {
+      "nombre_de_categoría": "Verdes",
+      "nombre_de_ruta": "/c/aperitivos/aceitunas/verdes",
+      "numero_de_productos": "449",
+      "productos": [
+         {
+            "product_id": "51dc67efb21b8b291400002a",
+            "product_name": "Aceituna rellena anchoa",
+            "product_brand": "Hacendado",
+            "product_variant": "U x 150 g",
+            "product_pathname": "/p/aceituna-rellena-anchoa-verano-hacendado-lata-pack-3",
+            "product_image_url": "https://a1.soysuper.com/cebf2bdc09faf169cfc68aaa68a236e7.110.110.0.min.wmark.c2e7f9b2.jpg",
+            "product_price": "2,70€  / U x 150 g",
+            "product_unitprice": "18€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b449",
+            "product_name": "Aceituna rellena anchoa suave",
+            "product_brand": "Hacendado",
+            "product_variant": "3 x 50 g",
+            "product_pathname": "/p/aceituna-rellena-anchoa-suave-hacendado-pack-3-u-360-g",
+            "product_image_url": "https://a1.soysuper.com/f79c850fd703408e3ed20f80d1b6e5ec.110.110.0.min.wmark.fb5de46d.jpg",
+            "product_price": "1,65€  / 3 x 50 g",
+            "product_unitprice": "11€ / 1 kg"
+         },
+         {
+            "product_id": "621f335753c97b297d70dc64",
+            "product_name": "Aceituna rellena anchoa",
+            "product_brand": "Hacendado",
+            "product_variant": "3 ud x 50 g peso neto escurrido",
+            "product_pathname": "/p/aceituna-rellena-anchoa-hacendado-u-x-50-g",
+            "product_image_url": "https://a0.soysuper.com/4c1d573ccfc394c1f91935a4de86c0d2.110.110.0.min.wmark.a4556992.jpg",
+            "product_price": "1,50€  / 3 ud x 50 g peso neto escurrido",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b48f",
+            "product_name": "Aceituna manzanilla sin hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Pack 3 sobres x 75 g",
+            "product_pathname": "/p/aceituna-manzanilla-sin-hueso-hacendado-pack-3-x-175-g",
+            "product_image_url": "https://a0.soysuper.com/d399a2bf86123f81c347cb5602f300d6.110.110.0.min.wmark.ca7a491c.jpg",
+            "product_price": "1,47€  / Pack 3 sobres x 75 g",
+            "product_unitprice": "6,53€ / 1 kg"
+         },
+         {
+            "product_id": "623d13812508c12fad18f091",
+            "product_name": "Aceituna rellena anchoa selección",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-rellena-anchoa-seleccion-hacendado-lata-350-g-escurrido-150-g",
+            "product_image_url": "https://a0.soysuper.com/56a96fa61c2aa39221fc8eca96ccd810.110.110.0.min.wmark.10c9c1e5.jpg",
+            "product_price": "1,45€  / Lata 150 g neto escurrido",
+            "product_unitprice": "9,67€ / 1 kg"
+         },
+         {
+            "product_id": "60dc184053c97b30011a2545",
+            "product_name": "Aceituna partida verde con especias estilo caseras",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 940 g escurrido 550 g",
+            "product_pathname": "/p/aceitunas-estilo-caseras-hacendado-alinadas-hacendado-tarro-550-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/54dfaee0eade9b83a62bc7956288f52f.110.110.0.min.wmark.9041a938.jpg",
+            "product_price": "2,70€  / Tarro 940 g escurrido 550 g",
+            "product_unitprice": "2,87€ / 1 kg"
+         },
+         {
+            "product_id": "5aa8d5292508c121622330c2",
+            "product_name": "Aceituna partida verde aliñada estilo chupadedos",
+            "product_brand": "Huerta de barros",
+            "product_variant": "Tarro 600 g neto escurrido",
+            "product_pathname": "/p/aceituna-partida-verde-alinada-estilo-chupadedos-huerta-de-barros-tarro-980-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/ee39a8048c3ee1423523864319a9f3be.110.110.0.min.wmark.b55563d3.jpg",
+            "product_price": "3€  / Tarro 600 g neto escurrido",
+            "product_unitprice": "5€ / 1 kg"
+         },
+         {
+            "product_id": "59845e71722d6a5ce102baac",
+            "product_name": "Aceituna manzanilla sin hueso aliñada",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 200 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-sin-hueso-alinada-hacendado-tarro-420-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/64bf5d2086f43f013c1f8098d1d17373.110.110.0.min.wmark.14a0c0db.jpg",
+            "product_price": "1,85€  / Tarro 200 g neto escurrido",
+            "product_unitprice": "9,25€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b443",
+            "product_name": "Aceituna rellena jalapeño (picante)",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-rellena-jalapeno-picante-hacendado-lata-350-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/ec0d0b534049b5f8d620f89e0da1272e.110.110.0.min.wmark.c2916507.jpg",
+            "product_price": "1,50€  / Lata 150 g neto escurrido",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "64da208497fce9f207a820a2",
+            "product_name": "LA española Aceitunas verdes rellenas de pimiento LA española Valientes",
+            "product_brand": "La Española",
+            "product_variant": "Pack 3 latas de 50 g",
+            "product_pathname": "/p/la-espanola-aceitunas-verdes-rellenas-de-pimiento-la-espanola-valientes-pack-3-latas-de-50-g-la-espanola-pack-3-latas-de-50-g",
+            "product_image_url": "https://a2.soysuper.com/27391617b6c67eac1fd282c8a5b7015d.110.110.0.min.wmark.c8f75e8d.jpg",
+            "product_price": "3,48€  / Pack 3 latas de 50 g",
+            "product_unitprice": "23,20€ / 1 kg"
+         },
+         {
+            "product_id": "61e2da3bd7918774a0657450",
+            "product_name": "Aceituna rellena anchoa",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 350 g escurrido 150 g",
+            "product_pathname": "/p/aceituna-rellena-anchoa-hacendado-lata-350-g-escurrido-150-g",
+            "product_image_url": "https://a0.soysuper.com/795f1bc5697442403d04d2117f30fc2e.110.110.0.min.wmark.47058672.jpg",
+            "product_price": "0,90€  / Lata 350 g escurrido 150 g",
+            "product_unitprice": "2,57€ / 1 kg"
+         },
+         {
+            "product_id": "64b577768ca63c79a63c1df4",
+            "product_name": "Aceituna rellena boqueron en vinagred",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 350 g escurrido 150 g",
+            "product_pathname": "/p/aceituna-rellena-boqueron-novedad-hacendado-lata-350-g-escurrido-150-g",
+            "product_image_url": "https://a2.soysuper.com/588f789a662981352984397e7a1d1f2c.110.110.0.min.wmark.b4efd9f3.jpg",
+            "product_price": "1,65€  / Lata 350 g escurrido 150 g",
+            "product_unitprice": "4,71€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91106cc75fa2a35006fb6",
+            "product_name": "Aceitunas rellenas de anchoa Hacendado",
+            "product_brand": "Hacendado",
+            "product_variant": "Bote 600 g escurrido",
+            "product_pathname": "/p/aceituna-rellena-anchoa-seleccion-hacendado-bote-1460-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/4f36dfe3dc7085654f70c3614c22e378.110.110.0.min.wmark.66c03601.jpg",
+            "product_price": "3,60€  / Bote 600 g escurrido",
+            "product_unitprice": "6€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91028cc75fa2a3500305b",
+            "product_name": "Aceituna gazpacha",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 500 g neto escurrido",
+            "product_pathname": "/p/aceituna-gazpacha-hacendado-835-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/244429811930188217ab9e488d0624f5.110.110.0.min.wmark.f19e7a14.jpg",
+            "product_price": "2,35€  / Tarro 500 g neto escurrido",
+            "product_unitprice": "4,70€ / 1 kg"
+         },
+         {
+            "product_id": "625282032508c171010fbca5",
+            "product_name": "Aceituna partida verde aliñada estilo chupadedos",
+            "product_brand": "Huerta de barros",
+            "product_variant": "Lata 350 g escurrido 185 g",
+            "product_pathname": "/p/aceitunas-chupadedos-huerta-de-barros-partidas-alinadas-con-hueso-huerta-de-barros-tarro-185-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/2eeb6d349d294080c2e47aa60aa92726.110.110.0.min.wmark.967d92d1.jpg",
+            "product_price": "1,70€  / Lata 350 g escurrido 185 g",
+            "product_unitprice": "4,86€ / 1 kg"
+         },
+         {
+            "product_id": "62b9598d2508c1539a4b329e",
+            "product_name": "Aceituna arbequina",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 210 g neto escurrido",
+            "product_pathname": "/p/aceitunas-arbequinas-hacendado-con-hueso-hacendado-tarro-210-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/57d315bf2b6d561f9a761db9e32e0075.110.110.0.min.wmark.ff3726d6.jpg",
+            "product_price": "1,75€  / Tarro 210 g neto escurrido",
+            "product_unitprice": "8,33€ / 1 kg"
+         },
+         {
+            "product_id": "527a24de48730c373f00023f",
+            "product_name": "Aceitunas verdes sin hueso Vegecampo bolsa",
+            "product_brand": "VEGECAMPO",
+            "product_variant": "3 x 75 g",
+            "product_pathname": "/p/aceituna-verde-s-h-dia-bolsa-540-gr",
+            "product_image_url": "https://a1.soysuper.com/72a85fe75405d4064aa7e1facdcba326.110.110.0.min.wmark.d8fd383b.jpg",
+            "product_price": "1,55€  / 3 x 75 g",
+            "product_unitprice": "6,89€ / 1 kg"
+         },
+         {
+            "product_id": "628f4ede8ca63c01453f4496",
+            "product_name": "Aceituna gordal con pepinillo",
+            "product_brand": "El Cabildo",
+            "product_variant": "Tarro 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-gordal-con-pepinillo-el-cabildo-tarro-345-g-escurrido-150-g",
+            "product_image_url": "https://a0.soysuper.com/9f29b408bae13428753d548aeca204bb.110.110.0.min.wmark.20410667.jpg",
+            "product_price": "2,25€  / Tarro 150 g neto escurrido",
+            "product_unitprice": "15€ / 1 kg"
+         },
+         {
+            "product_id": "621cc160e93cdf36e23c5ba0",
+            "product_name": "Aceitunas verdes partidas Mallorquinas",
+            "product_brand": "Roselló",
+            "product_variant": "Frasco de 550 g",
+            "product_pathname": "/p/aceitunas-mallorquina-alinadas-frasco-550-g-neto-escurrido-rossello-frasco-550-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/7d458e5d3c9e813464f06b1a25464017.110.110.0.min.wmark.b3d49aa5.jpg",
+            "product_price": "3,18€  / Frasco de 550 g",
+            "product_unitprice": "5,78€ / 1 kg"
+         },
+         {
+            "product_id": "5e7be384d7918756b4470a55",
+            "product_name": "Aceitunas verdes rodajas",
+            "product_brand": "Serpis",
+            "product_variant": "Frasco 150 gr",
+            "product_pathname": "/p/aceitunas-rodajas-serpis-260-gr-serpis-260-gr",
+            "product_image_url": "https://a1.soysuper.com/e282890287e681a9598eb6151cb9a938.110.110.0.min.wmark.d9a93647.jpg",
+            "product_price": "1,94€  / Frasco 150 gr",
+            "product_unitprice": "12,93€ / 1 kg"
+         },
+         {
+            "product_id": "52d9a1a78c2cfd214f000052",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Eroski Basic",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceituna-rellena-anchoa-eroski-basic-150-gr",
+            "product_image_url": "https://a0.soysuper.com/33d42cfc821b55eb4755470f39117734.110.110.0.min.wmark.1784dafd.jpg",
+            "product_price": "0,91€  / Lata 150 g",
+            "product_unitprice": "6,07€ / 1 kg"
+         },
+         {
+            "product_id": "53f947ed5504f21c61003b38",
+            "product_name": "Aceitunas rellenas de anchoas suaves",
+            "product_brand": "Eroski",
+            "product_variant": "150g",
+            "product_pathname": "/p/aceit-rell-anchoa-suave-150g",
+            "product_image_url": "https://a2.soysuper.com/9863dad314e2654ef92bfccd9956b720.110.110.0.min.wmark.e1557a16.jpg",
+            "product_price": "1,10€  / 150g",
+            "product_unitprice": "7,33€ / 1 kg"
+         },
+         {
+            "product_id": "527a24e648730c373f000247",
+            "product_name": "Aceitunas verdes sin hueso Vegecampo",
+            "product_brand": "VEGECAMPO",
+            "product_variant": "Frasco 400 g",
+            "product_pathname": "/p/aceitunas-manzanilla-verde-sin-hueso-dia-frasco-400-gr",
+            "product_image_url": "https://a2.soysuper.com/812383d365e0d29a675b6441b22dae5a.110.110.0.min.wmark.2bc39076.jpg",
+            "product_price": "2,17€  / Frasco 400 g",
+            "product_unitprice": "5,42€ / 1 kg"
+         },
+         {
+            "product_id": "57617808725a61347076e712",
+            "product_name": "Aceitunas rellenas Benefit 75% menos sal",
+            "product_brand": "Serpis",
+            "product_variant": "Bote 300 g (peso neto escurrido 130 g)",
+            "product_pathname": "/p/aceituna-rellena-de-anchoa-serpis-benefit-70-130-grs-pne-serpis-130-grs",
+            "product_image_url": "https://a1.soysuper.com/7976dc3175bbd51170c9710221186858.110.110.0.min.wmark.0e1ca1f7.jpg",
+            "product_price": "1,97€  / Bote 300 g (peso neto escurrido 130 g)",
+            "product_unitprice": "6,57€ / 1 kg"
+         },
+         {
+            "product_id": "4fc916c6cc75fa2a3501cd8c",
+            "product_name": "Aceitunas rellenas de anchoas más ligeras, 35% menos de sal serpis",
+            "product_brand": "Serpis",
+            "product_variant": "3 x 120 gr",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoas-mas-ligeras-35-menos-de-sal-serpis-serpis-3-x-120-gr",
+            "product_image_url": "https://a2.soysuper.com/687c54c5b4c79af95aca09d96687e790.110.110.0.min.wmark.34e62f54.jpg",
+            "product_price": "3,58€  / 3 x 120 gr",
+            "product_unitprice": "9,94€ / 1 kg"
+         },
+         {
+            "product_id": "63f3d5422508c11905259cd6",
+            "product_name": "Aceitunas gordal deshuesadas con sabor a anchoas",
+            "product_brand": "La Sabrosita",
+            "product_variant": "350 g",
+            "product_pathname": "/p/aceitunas-gordal-sabor-anchoa-sin-hueso-frasco-340-g-neto-escurrido-la-sabrosita-frasco-340-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/ec8498369091bfe0d2c85d3d30143dcc.110.110.0.min.wmark.ef86e48b.jpg",
+            "product_price": "4,02€  / 350 g",
+            "product_unitprice": "11,49€ / 1 kg"
+         },
+         {
+            "product_id": "5278ddd3bfd7a61b7f000016",
+            "product_name": "Aceituna verde Verdial partida, gazpacha",
+            "product_brand": "Jolca",
+            "product_variant": "850 g",
+            "product_pathname": "/p/aceit-verde-jolca-500-gazpacha",
+            "product_image_url": "https://a0.soysuper.com/a71c326d3fc15e6693aacac79160e788.110.110.0.min.wmark.64d33ba6.jpg",
+            "product_price": "3,98€  / 850 g",
+            "product_unitprice": "4,68€ / 1 kg"
+         },
+         {
+            "product_id": "527a24db48730c373f00023b",
+            "product_name": "Aceitunas verdes con hueso Vegecampo",
+            "product_brand": "VEGECAMPO",
+            "product_variant": "Frasco 500 g",
+            "product_pathname": "/p/aceituna-manzani-c-h-dia-tarro-500gr",
+            "product_image_url": "https://a0.soysuper.com/27ebaf3b65ad1312f795b361050cfee3.110.110.0.min.wmark.3d31173e.jpg",
+            "product_price": "2,15€  / Frasco 500 g",
+            "product_unitprice": "4,30€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b444",
+            "product_name": "Aceituna rellena anchoa suave reducida en sal",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-rellena-anchoa-suave-hacendado-lata-350-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/e420a15bf45bf694f1c91cf837974b4d.110.110.0.min.wmark.b6551040.jpg",
+            "product_price": "1,20€  / Lata 150 g neto escurrido",
+            "product_unitprice": "8€ / 1 kg"
+         },
+         {
+            "product_id": "63890c0198ec914bc960c7dc",
+            "product_name": "Aceituna manzanilla en rodajas",
+            "product_brand": "Jolca",
+            "product_variant": "pack 3 bolsas x 120 gr",
+            "product_pathname": "/p/aceitunas-manzanilla-fina-en-rodajas-pack-3-bolsas-50-g-neto-escurrido-jolca-pack-3-bolsas-50-g-1",
+            "product_image_url": "https://a2.soysuper.com/86926861d87eb49acbf6650b51f1946e.110.110.0.min.wmark.f190d2e9.jpg",
+            "product_price": "1,82€  / pack 3 bolsas x 120 gr",
+            "product_unitprice": "5,06€ / 1 kg"
+         },
+         {
+            "product_id": "620c098dd791870d038643c4",
+            "product_name": "Aceituna verdial aliñada Hechizos del Sur Sarasa sin gluten",
+            "product_brand": "Sarasa",
+            "product_variant": "185 g",
+            "product_pathname": "/p/los-hechizos-del-sur-aceitunas-verdes-con-hueso-alinadas-con-aceite-y-especias-lata-185-g-neto-escurrido-sarasa-lata-185-g-neto-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/2c7c910d9c74977601225add6b5e600b.110.110.0.min.wmark.15adff27.jpg",
+            "product_price": "2,05€  / 185 g",
+            "product_unitprice": "11,08€ / 1 kg"
+         },
+         {
+            "product_id": "5ae1ea422508c1756123e720",
+            "product_name": "Aceitunas verdes sin hueso",
+            "product_brand": "Jolca",
+            "product_variant": "Bolsa 90 gr",
+            "product_pathname": "/p/aceitunas-manzanilla-sin-hueso-bolsa-jolca-75-gr",
+            "product_image_url": "https://a0.soysuper.com/3777b377f83745ee07ac294a703a089d.110.110.0.min.wmark.cdf5d480.jpg",
+            "product_price": "0,74€  / Bolsa 90 gr",
+            "product_unitprice": "8,22€ / 1 kg"
+         },
+         {
+            "product_id": "53c44aceb8a9a6973e014379",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Espinaler",
+            "product_variant": "350 g",
+            "product_pathname": "/p/aceitunas-rellenas-lata",
+            "product_image_url": "https://a2.soysuper.com/1ba8ec9071df741e3ad4b1c6491e9f98.110.110.0.min.wmark.8037fd0c.jpg",
+            "product_price": "1,63€  / 350 g",
+            "product_unitprice": "4,66€ / 1 kg"
+         },
+         {
+            "product_id": "4fc910f1cc75fa2a35006aeb",
+            "product_name": "Aceitunas verdes rellenas de anchoa",
+            "product_brand": "Serpis",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-anchoa-serpis-150-g",
+            "product_image_url": "https://a2.soysuper.com/c6a5e617f519d82560936a0927ec35d0.110.110.0.min.wmark.487b7b76.jpg",
+            "product_price": "2,11€  / 150 g",
+            "product_unitprice": "14,07€ / 1 kg"
+         },
+         {
+            "product_id": "560b18c52508c13cdd4618ea",
+            "product_name": "Aceitunas verdes La Receta del Cortijo sarasa",
+            "product_brand": "Sarasa",
+            "product_variant": "185 g",
+            "product_pathname": "/p/aceituna-del-cortijo-sarasa-370gr",
+            "product_image_url": "https://a0.soysuper.com/a1614e55ec2d8496c4918b6ed8f1687b.110.110.0.min.wmark.b189ce00.jpg",
+            "product_price": "1,49€  / 185 g",
+            "product_unitprice": "8,05€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b39a",
+            "product_name": "Aceitunas verdes manzanilla rellenas de pimiento",
+            "product_brand": "La Española",
+            "product_variant": "Lata de 130 gramos",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-la-lata-300-g",
+            "product_image_url": "https://a1.soysuper.com/74bf706df2f12025aff4ab53f59b9ee5.110.110.0.min.wmark.21c3dad7.jpg",
+            "product_price": "2,05€  / Lata de 130 gramos",
+            "product_unitprice": "15,77€ / 1 kg"
+         },
+         {
+            "product_id": "527a24e448730c373f000245",
+            "product_name": "Aceitunas verdes con hueso sabor anchoa Vegecampo",
+            "product_brand": "VEGECAMPO",
+            "product_variant": "Frasco 500 g",
+            "product_pathname": "/p/aceit-verde-sabor-anchoa-dia-tarro-500gr",
+            "product_image_url": "https://a1.soysuper.com/c68cb0fad5c50525d29cc0d3b1d043da.110.110.0.min.wmark.be5ca76c.jpg",
+            "product_price": "3€  / Frasco 500 g",
+            "product_unitprice": "6€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b490",
+            "product_name": "Aceituna manzanilla con hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 500 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-hacendado-835-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/988652dac57b7fa30adc854549a74810.110.110.0.min.wmark.32fc706b.jpg",
+            "product_price": "2,10€  / Tarro 500 g neto escurrido",
+            "product_unitprice": "4,20€ / 1 kg"
+         },
+         {
+            "product_id": "5a829227722d6a54951c8fe3",
+            "product_name": "Aceituna aloreña (malagueña) verde, partida y refrigerada",
+            "product_brand": "Dcoop",
+            "product_variant": "Tarro 700 g neto escurrido",
+            "product_pathname": "/p/aceituna-alorena-malaguena-verdes-partidas-y-refrigeradas-dcoop-tarro-1234-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/8ae88bfbe4b9cff6c98eb2a3772d8715.110.110.0.min.wmark.5fe3acc7.jpg",
+            "product_price": "3,95€  / Tarro 700 g neto escurrido",
+            "product_unitprice": "5,64€ / 1 kg"
+         },
+         {
+            "product_id": "591d62dc2508c12ce723aeba",
+            "product_name": "Aceituna manzanilla con hueso sabor anchoa (calibre grande)",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 530 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-sabor-anchoa-calibre-grande-hacendado-tarro-940-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/17155714d8e94cd329a6f7b72ce11f9e.110.110.0.min.wmark.c76cff75.jpg",
+            "product_price": "2,95€  / Tarro 530 g neto escurrido",
+            "product_unitprice": "3,14€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbfd9722d6a5cab79c347",
+            "product_name": "Aceitunas verdes manzanilla sin hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "400 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-sin-hueso-carrefour-400-g-carrefour-1",
+            "product_image_url": "https://a2.soysuper.com/159958ea412f0557dbded0dde769acc3.110.110.0.min.wmark.388a76bf.jpg",
+            "product_price": "1,05€  / 400 g",
+            "product_unitprice": "2,62€ / 1 kg"
+         },
+         {
+            "product_id": "5e333af053c97b1d137850b9",
+            "product_name": "Aceitunas verdes rellenas de anchoa nueva receta Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "Pack de 6 latas de 50 g",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-nueva-receta-carrefour-pack-de-6-latas-de-50-g-pack-de-6-latas-de-50-g",
+            "product_image_url": "https://a0.soysuper.com/eb5173185474701af17eee1ae14f2d96.110.110.0.min.wmark.16dd54ac.jpg",
+            "product_price": "1,48€  / Pack de 6 latas de 50 g",
+            "product_unitprice": "4,93€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b411",
+            "product_name": "Aceitunas gordal",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 2 kg",
+            "product_pathname": "/p/aceitunas-gordal-bravo-frasco-2-kg",
+            "product_image_url": "https://a0.soysuper.com/8660748de03d2a86cb1be96cd481b15c.110.110.0.min.wmark.d87e4f5e.jpg",
+            "product_price": "12,50€  / Frasco 2 kg",
+            "product_unitprice": "6,25€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b37d",
+            "product_name": "Aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "La Española",
+            "product_variant": "Pack 6 lata 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-neto-escurrido-la-espanola-pack-6-lata-50-g",
+            "product_image_url": "https://a1.soysuper.com/de4db374117a6d4c09b482e39c414992.110.110.0.min.wmark.66cccdc2.jpg",
+            "product_price": "5,93€  / Pack 6 lata 50 g",
+            "product_unitprice": "19,77€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91027cc75fa2a3500300b",
+            "product_name": "Aceituna gordal aliñada sin hueso",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 400 g neto escurrido",
+            "product_pathname": "/p/aceituna-gordal-alinada-sin-hueso-hacendado-835-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/1c6434d70ebbf04b55c32b9f2383aa8a.110.110.0.min.wmark.9d45d3f2.jpg",
+            "product_price": "3,25€  / Tarro 400 g neto escurrido",
+            "product_unitprice": "8,12€ / 1 kg"
+         },
+         {
+            "product_id": "6244b305722d6a0f281d2a43",
+            "product_name": "Aceitunas verdes partidas Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-verdes-partidas-rosello-500-g-500-g",
+            "product_image_url": "https://a2.soysuper.com/1c0d6c66309b32ff468e0086c5ea9e61.110.110.0.min.wmark.f3882346.jpg",
+            "product_price": "1,51€  / 500 g",
+            "product_unitprice": "3,02€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b447",
+            "product_name": "Aceituna aloreña malagueña (verdes, partidas y con hueso)",
+            "product_brand": "Roldan",
+            "product_variant": "Tarro 830 g neto escurrido",
+            "product_pathname": "/p/aceituna-alorena-malaguena-verdes-partidas-y-alinadas-tapa-amarilla-roldan-1440-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/f7ca917cc166594be17db9bdd0dfa355.110.110.0.min.wmark.c1184430.jpg",
+            "product_price": "4,20€  / Tarro 830 g neto escurrido",
+            "product_unitprice": "5,06€ / 1 kg"
+         },
+         {
+            "product_id": "650d67f02508c1371c2f9ca4",
+            "product_name": "Aceituna picadedos aliñada sin hueso *****novedad*****",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 710 g escurrido 350 g",
+            "product_pathname": "/p/aceituna-picadedos-alinada-sin-hueso-novedad-hacendado-tarro-710-g-escurrido-350-g",
+            "product_image_url": "https://a2.soysuper.com/795a12ba82781d2b84f710ceae01e59f.110.110.0.min.wmark.98db825b.jpg",
+            "product_price": "3,25€  / Tarro 710 g escurrido 350 g",
+            "product_unitprice": "4,58€ / 1 kg"
+         },
+         {
+            "product_id": "62664b32e6ed4037e801920f",
+            "product_name": "Aceituna rellena pimiento asado",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 350 g escurrido 150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-asado-hacendado-hacendado-bote-150-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/f40a493e3560d748ebbbbabe76dc68bd.110.110.0.min.wmark.9ecdff3f.jpg",
+            "product_price": "1,50€  / Lata 350 g escurrido 150 g",
+            "product_unitprice": "4,29€ / 1 kg"
+         },
+         {
+            "product_id": "59f84c9998ec91679802dd03",
+            "product_name": "Aceituna rellena pimiento asado",
+            "product_brand": "Hacendado",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceituna-rellena-pimiento-asado-hacendado-lata-350-g-escurrido",
+            "product_image_url": "https://a1.soysuper.com/b881cc0b39f828f2f93f3ca8c745c194.110.110.0.min.wmark.e5653ad2.jpg",
+            "product_price": "1,50€  / Lata 150 g neto escurrido",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "5012f37b0f8e48d05d000270",
+            "product_name": "Aceitunas verdes sin hueso",
+            "product_brand": "Eroski",
+            "product_variant": "Pack 3 x 75 g",
+            "product_pathname": "/p/aceituna-sin-hueso-eroski-basic-3x75-g",
+            "product_image_url": "https://a2.soysuper.com/a01894009bc17be556fb2412cc75a7a9.110.110.0.min.wmark.ef4e8917.jpg",
+            "product_price": "1,50€  / Pack 3 x 75 g",
+            "product_unitprice": "6,67€ / 1 kg"
+         },
+         {
+            "product_id": "5767c11f53c97b375430b9d8",
+            "product_name": "Aceitunas manzanilla morada",
+            "product_brand": "Escamilla",
+            "product_variant": "Frasco 570 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-morada-escamilla-frasco-570-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/b5ba31e207e57a9b4c3742f250043152.110.110.0.min.wmark.9f966702.jpg",
+            "product_price": "3,56€  / Frasco 570 g neto escurrido",
+            "product_unitprice": "6,25€ / 1 kg"
+         },
+         {
+            "product_id": "5f58626ed7918757fb1c37e0",
+            "product_name": "Aceituna hojiblanca partida natural",
+            "product_brand": "Roldan",
+            "product_variant": "Tarro 700 g neto escurrido",
+            "product_pathname": "/p/aceitunas-hojiblanca-roldan-partida-con-hueso-roldan-bote-700-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/38d0824f4e6cf828942775c0cba7efc3.110.110.0.min.wmark.ba0c1136.jpg",
+            "product_price": "3,70€  / Tarro 700 g neto escurrido",
+            "product_unitprice": "5,29€ / 1 kg"
+         },
+         {
+            "product_id": "56febaf01452a07b1e7bb465",
+            "product_name": "Aceitunas verdes rellenas de anchoa LA española Clásicas",
+            "product_brand": "La Española",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/espanola-aceitunas-rellenas-de-anchoa-la-lata-150-gr",
+            "product_image_url": "https://a1.soysuper.com/82f866664b9d44746f826054542b08c9.110.110.0.min.wmark.4f2cb56a.jpg",
+            "product_price": "1,98€  / Lata de 150 g",
+            "product_unitprice": "13,20€ / 1 kg"
+         },
+         {
+            "product_id": "4fc910c3cc75fa2a35005dfa",
+            "product_name": "Aceitunas hojiblanca partidas",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 900 g",
+            "product_pathname": "/p/aceituna-partida-hojiblanca",
+            "product_image_url": "https://a2.soysuper.com/9e69a54440e374d776907526fa55f373.110.110.0.min.wmark.f69e09bc.jpg",
+            "product_price": "2,50€  / Frasco 900 g",
+            "product_unitprice": "2,78€ / 1 kg"
+         },
+         {
+            "product_id": "6408ec1f98ec9120bc7d218a",
+            "product_name": "Aceitunas verdes rellenas de boquerón Marinas La Española sin gluten",
+            "product_brand": "La Española",
+            "product_variant": "130 g",
+            "product_pathname": "/p/marinas-aceitunas-verdes-rellenas-de-boqueron-alinadas-con-vinagre-ajo-y-perejil-lata-130-g-neto-escurrido-la-espanola-lata-130-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/ac6640ae7f5ba325efb69397ed432d4f.110.110.0.min.wmark.72f8e7b7.jpg",
+            "product_price": "2,10€  / 130 g",
+            "product_unitprice": "16,15€ / 1 kg"
+         },
+         {
+            "product_id": "5e4c2e60d791874aed51801c",
+            "product_name": "Aceitunas verdes manzanillas con hueso Lupy",
+            "product_brand": "Lupy",
+            "product_variant": "100 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanillas-con-hueso-lupy-100-g-100-g",
+            "product_image_url": "https://a0.soysuper.com/43f9669444b643d1e84e55c69ae8bf8e.110.110.0.min.wmark.c4aa58d8.jpg",
+            "product_price": "0,33€  / 100 g",
+            "product_unitprice": "3,30€ / 1 kg"
+         },
+         {
+            "product_id": "52270b25a37936b44a000000",
+            "product_name": "Aceituna camporeal refrigerada",
+            "product_brand": "Guerra",
+            "product_variant": "Tarro 950 g neto escurrido",
+            "product_pathname": "/p/aceituna-camporeal-refrigerada-guerra-tarro-1400-g-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/14e55d83af773903c67078c1e0f31c0c.110.110.0.min.wmark.1c2a8310.jpg",
+            "product_price": "4,60€  / Tarro 950 g neto escurrido",
+            "product_unitprice": "4,84€ / 1 kg"
+         },
+         {
+            "product_id": "5add1117722d6a7b44264d5f",
+            "product_name": "Aceitunas verdes rellenas de anchoa",
+            "product_brand": "Maestranza",
+            "product_variant": "Lata de 150 grs",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-lata-130-g-neto-escurrido-maestranza-lata-130-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/6a0a01b0350ef0a4822cf19344918d40.110.110.0.min.wmark.8e690277.jpg",
+            "product_price": "1,84€  / Lata de 150 grs",
+            "product_unitprice": "12,27€ / 1 kg"
+         },
+         {
+            "product_id": "5d82b3c353c97b29fa7e0545",
+            "product_name": "Aceitunas verdes aliñadas sin hueso Los Hechizos del Sur",
+            "product_brand": "Sarasa",
+            "product_variant": "Frasco 190 g neto escurrido",
+            "product_pathname": "/p/los-hechizos-del-sur-aceitunas-verdes-alinadas-sin-hueso-frasco-410-g-neto-escurrido-sarasa-frasco-410-g-neto-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/c4e75e2eaaa8c9e2b88026b202d6397b.110.110.0.min.wmark.56ac5156.jpg",
+            "product_price": "3,38€  / Frasco 190 g neto escurrido",
+            "product_unitprice": "17,79€ / 1 kg"
+         },
+         {
+            "product_id": "6565bd09e6ed407157279881",
+            "product_name": "Aceituna manzanilla con hueso sabor anchoa",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 935 g escurrido 530 g",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-sabor-anchoa-novedad-hacendado-tarro-935-g-escurrido-530-g",
+            "product_image_url": "https://a0.soysuper.com/b426979c7a6b90c1aafb89488b335f9a.110.110.0.min.wmark.233650a7.jpg",
+            "product_price": "2,80€  / Tarro 935 g escurrido 530 g",
+            "product_unitprice": "2,99€ / 1 kg"
+         },
+         {
+            "product_id": "4fc910c3cc75fa2a35005de1",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "La Explanada",
+            "product_variant": "Lata 150 gr",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-la-explanada-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/1e966ceb669d248d4141b6ab6deddaf0.110.110.0.min.wmark.511e844c.jpg",
+            "product_price": "1,74€  / Lata 150 gr",
+            "product_unitprice": "11,60€ / 1 kg"
+         },
+         {
+            "product_id": "64dca4591452a01da4455e65",
+            "product_name": "Aceituna con mojo canario",
+            "product_brand": "Iruela",
+            "product_variant": "Tarro 200 g",
+            "product_pathname": "/p/aceituna-con-mojo-canario-iruela-tarro-200-g",
+            "product_image_url": null,
+            "product_price": "2,80€  / Tarro 200 g",
+            "product_unitprice": "14€ / 1 kg"
+         },
+         {
+            "product_id": "653340a11452a006dc23b970",
+            "product_name": "Aceitunas rellenas de trufa La explanada",
+            "product_brand": "La Explanada",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/la-explanada-gourmet-pack-15-latas-aceitunas-rellenas-trufa-aceitunas-cazorla-aceitunas-manzanilla-rellenas-de-trufa-formato-lata-peso-neto-escurrido-150-g-origen-espana-lata-peso-neto-escurrido-150-g",
+            "product_image_url": "https://a1.soysuper.com/7934e4b75b2127af396caa4935e3024c.110.110.0.min.wmark.d3c63c84.jpg",
+            "product_price": "2,02€  / Lata 150 g",
+            "product_unitprice": "13,47€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91661cc75fa2a3501b348",
+            "product_name": "Producto alcampo Aceitunas verdes sin hueso producto alcampo",
+            "product_brand": "Producto Alcampo",
+            "product_variant": "450 g",
+            "product_pathname": "/p/aceituna-sin-hueso-auchan-450g",
+            "product_image_url": "https://a2.soysuper.com/c398f67d0ce95c61e51985c143aa5a2c.110.110.0.min.wmark.210e1520.jpg",
+            "product_price": "2,35€  / 450 g",
+            "product_unitprice": "5,22€ / 1 kg"
+         },
+         {
+            "product_id": "558a4b792508c10dd94c6f09",
+            "product_name": "Aceitunas verdes rellenas de anchoa Diamir",
+            "product_brand": "Diamir",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-diamir-600-g",
+            "product_image_url": "https://a0.soysuper.com/48cb19df9ad233739bcbcda182e435ce.110.110.0.min.wmark.f8691d5e.jpg",
+            "product_price": "1,56€  / 600 g",
+            "product_unitprice": "2,60€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91668cc75fa2a3501b537",
+            "product_name": "Aceitunas verdes manzanilla rellenas de pasta de pimiento Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "100 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-escamilla-bolsa-de-100-g",
+            "product_image_url": "https://a1.soysuper.com/050e07f17200c447fb612c33d635ea5a.110.110.0.min.wmark.893c174e.jpg",
+            "product_price": "0,39€  / 100 g",
+            "product_unitprice": "3,90€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbfdd1452a063e11d3de5",
+            "product_name": "Aceitunas verdes manzanilla con hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-con-hueso-carrefour-500-g-carrefour",
+            "product_image_url": "https://a1.soysuper.com/18f1611e9e79d65962e02840915aec77.110.110.0.min.wmark.2a72d561.jpg",
+            "product_price": "1,05€  / 500 g",
+            "product_unitprice": "2,10€ / 1 kg"
+         },
+         {
+            "product_id": "6238576ae6ed40499e676557",
+            "product_name": "Aceituna camporeal refrigerada",
+            "product_brand": "Guerra",
+            "product_variant": "Tarro 700 g neto escurrido",
+            "product_pathname": "/p/aceituna-camporeal-refrigerada-guerra-tarro-1100-g-escurrido-700-g",
+            "product_image_url": "https://a1.soysuper.com/8b4c5168aeda510894d62bf7bce97031.110.110.0.min.wmark.5f79b391.jpg",
+            "product_price": "4,30€  / Tarro 700 g neto escurrido",
+            "product_unitprice": "6,14€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91667cc75fa2a3501b4ec",
+            "product_name": "Aceitunas verdes manzanilla Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "570 g",
+            "product_pathname": "/p/aceituna-manzanilla-lisa-verde-escamilla-570-g",
+            "product_image_url": "https://a2.soysuper.com/f64512fa9a71cd8b57aaa8d6041267b0.110.110.0.min.wmark.60aab1d8.jpg",
+            "product_price": "3,09€  / 570 g",
+            "product_unitprice": "5,42€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b43a",
+            "product_name": "Aceitunas aliñadas",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 550 g",
+            "product_pathname": "/p/aceitunas-alinadas-bravo-frasco-550-g",
+            "product_image_url": "https://a0.soysuper.com/114c06734c1772c377e5ed96c251866c.110.110.0.min.wmark.f3dab3bf.jpg",
+            "product_price": "3,29€  / Frasco 550 g",
+            "product_unitprice": "5,98€ / 1 kg"
+         },
+         {
+            "product_id": "5c4824b02508c11cdf541610",
+            "product_name": "Aceituna manzanilla con hueso sabor anchoa (calibre pequeño)",
+            "product_brand": "Hacendado",
+            "product_variant": "Tarro 250 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-sabor-anchoa-calibre-pequeno-hacendado-tarro-430-g-escurrido-250-g",
+            "product_image_url": "https://a2.soysuper.com/d245e58cc17c1d9b42a9719a81cd8ea4.110.110.0.min.wmark.5a633b7c.jpg",
+            "product_price": "1,50€  / Tarro 250 g neto escurrido",
+            "product_unitprice": "6€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b49b",
+            "product_name": "Aceitunas verdes manzanilla sin hueso con sabor a anchoa",
+            "product_brand": "Escamilla",
+            "product_variant": "Frasco de 150 g",
+            "product_pathname": "/p/aceituna-manzanilla-deshuesada-sabor-anchoa-escamilla-150-g",
+            "product_image_url": "https://a1.soysuper.com/67867ac609aa4a6383316cee6680676a.110.110.0.min.wmark.d702c41f.jpg",
+            "product_price": "1,65€  / Frasco de 150 g",
+            "product_unitprice": "11€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91125cc75fa2a35007735",
+            "product_name": "Jolca Aceitunas verdes manzanilla rellenas de queso azul jolca",
+            "product_brand": "Jolca",
+            "product_variant": "Lata de 130 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-queso-azul-jolca-130g",
+            "product_image_url": "https://a1.soysuper.com/cc82efdea10b1c5b044a00b8d5cd5435.110.110.0.min.wmark.5bd35cec.jpg",
+            "product_price": "2,27€  / Lata de 130 g",
+            "product_unitprice": "17,46€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91667cc75fa2a3501b4e6",
+            "product_name": "Aceitunas gordal Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceituna-gordal-escamilla-frasco-de-600-g",
+            "product_image_url": "https://a2.soysuper.com/f8b68782c4b4d9d9f78e07ba3cf21924.110.110.0.min.wmark.c07268f6.jpg",
+            "product_price": "3,85€  / 600 g",
+            "product_unitprice": "6,42€ / 1 kg"
+         },
+         {
+            "product_id": "5e333e190932f7796a310da9",
+            "product_name": "Aceitunas verdes rellenas de anchoa Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-nueva-receta-carrefour-150-g-carrefour-150-g",
+            "product_image_url": "https://a2.soysuper.com/b42242d1f12dddffeee01295026b40d3.110.110.0.min.wmark.dde6cd04.jpg",
+            "product_price": "0,56€  / 150 g",
+            "product_unitprice": "3,73€ / 1 kg"
+         },
+         {
+            "product_id": "62aa1a44e6ed404c4e082156",
+            "product_name": "Aceituna verde partida refrigerada",
+            "product_brand": "OLIVESGARCIA",
+            "product_variant": "Tarro 450 g neto escurrido",
+            "product_pathname": "/p/aceituna-verde-partida-refrigerada-olivesgarcia-tarro-800-g-escurrido-450-g",
+            "product_image_url": "https://a2.soysuper.com/620565ec4e9a613b0d98a42ad2769c59.110.110.0.min.wmark.1a0219be.jpg",
+            "product_price": "3,95€  / Tarro 450 g neto escurrido",
+            "product_unitprice": "8,78€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b382",
+            "product_name": "LA española Aceitunas verdes rellenas de anchoas LA española Suaves",
+            "product_brand": "La Española",
+            "product_variant": "Pack de 3 latas de 50 g",
+            "product_pathname": "/p/aceitunas-suaves-rellenas-de-anchoa-neto-escurrido-la-pack-3-latas-50-g",
+            "product_image_url": "https://a2.soysuper.com/8314670170b0fe46958b425890965e5d.110.110.0.min.wmark.c6cd02e8.jpg",
+            "product_price": "3,11€  / Pack de 3 latas de 50 g",
+            "product_unitprice": "20,73€ / 1 kg"
+         },
+         {
+            "product_id": "5b4bceef1452a039d40543aa",
+            "product_name": "Aceituna´verdes aliñadas, Verdiales",
+            "product_brand": "Jolca",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceituna-partida-alinada-variedad-verdial-frasco-500-g-jolca-frasco-500-g-1",
+            "product_image_url": "https://a0.soysuper.com/a8892c1c8c7bcbca7925288c5ca7a9bf.110.110.0.min.wmark.146b3b39.jpg",
+            "product_price": "3,86€  / 500 g",
+            "product_unitprice": "7,72€ / 1 kg"
+         },
+         {
+            "product_id": "5819d51dd115207d821bc1d6",
+            "product_name": "LA española Aceitunas verdes rellenas de anchoa LA española Clásicas",
+            "product_brand": "La Española",
+            "product_variant": "Pack de 3 latas de 50 g",
+            "product_pathname": "/p/la-espanola-aceitunas-verdes-rellenas-de-anchoa-la-espanola-clasicas-la-espanola-pack-de-3-latas-de-50-g",
+            "product_image_url": "https://a2.soysuper.com/c66848ef5dead69d4c2e0dea57e92113.110.110.0.min.wmark.1b215d22.jpg",
+            "product_price": "3,20€  / Pack de 3 latas de 50 g",
+            "product_unitprice": "21,33€ / 1 kg"
+         },
+         {
+            "product_id": "628f09c653c97b01480ab974",
+            "product_name": "Aceituna gordal con guindilla",
+            "product_brand": "El Cabildo",
+            "product_variant": "Tarro 140 g neto escurrido",
+            "product_pathname": "/p/aceitunas-gordales-con-guindilla-el-cabildo-sabor-anchoa-el-cabildo-tarro-140-g-escurrido",
+            "product_image_url": "https://a2.soysuper.com/25b51e1b31a9b6d8ec062f04068e743a.110.110.0.min.wmark.fc1f1f6d.jpg",
+            "product_price": "2,25€  / Tarro 140 g neto escurrido",
+            "product_unitprice": "16,07€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3e5",
+            "product_name": "Aceitunas verdes rellenas de anchoa LA española Suaves",
+            "product_brand": "La Española",
+            "product_variant": "Lata 130 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-suave-la-espanola-lata-130-g",
+            "product_image_url": "https://a2.soysuper.com/c868a2f11a873b5586c893f9f0c4effc.110.110.0.min.wmark.e31d6141.jpg",
+            "product_price": "1,86€  / Lata 130 g",
+            "product_unitprice": "14,31€ / 1 kg"
+         },
+         {
+            "product_id": "5b642784d115202809373182",
+            "product_name": "Aceitunas verdes manzanilla fina con hueso jolca",
+            "product_brand": "Jolca",
+            "product_variant": "Bolsa de 100 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-fina-con-hueso-jolca-bolsa-de-100-g",
+            "product_image_url": "https://a2.soysuper.com/ca770b2c8bbe4748a6f36672920f16b5.110.110.0.min.wmark.d12720a3.jpg",
+            "product_price": "0,72€  / Bolsa de 100 g",
+            "product_unitprice": "7,20€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3fd",
+            "product_name": "Aceitunas verdes rellenas de anchoa del Cantábrico",
+            "product_brand": "Jolca",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-del-cantabrico-jolca-lata-350-g",
+            "product_image_url": "https://a0.soysuper.com/4af731cd3c3c99e095289deac1698cea.110.110.0.min.wmark.9573fa88.jpg",
+            "product_price": "2,04€  / Lata de 150 g",
+            "product_unitprice": "13,60€ / 1 kg"
+         },
+         {
+            "product_id": "60005a28722d6a57bb7af811",
+            "product_name": "Aceituna entera sevillana Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "2,5 kg",
+            "product_pathname": "/p/aceitunas-sevillanas-rossello-peso-escurrido-2-5-kg-peso-net-rosello-peso-escurrido-2-5-kg",
+            "product_image_url": "https://a1.soysuper.com/6b5b38f72974ec1155499310337b7add.110.110.0.min.wmark.fd40b5f5.jpg",
+            "product_price": "11,42€  / 2,5 kg",
+            "product_unitprice": "4,57€ / 1 kg"
+         },
+         {
+            "product_id": "58d6dd3553c97b7dd24c28f6",
+            "product_name": "Aceitunas verdes rellenas de anchoa más ligeras",
+            "product_brand": "Serpis",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-ligeras-serpis-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/fbbec6ee29fc0f9c8c23028270603169.110.110.0.min.wmark.5f0fdbf8.jpg",
+            "product_price": "1,90€  / 150 g",
+            "product_unitprice": "12,67€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b478",
+            "product_name": "Aceitunas verdes picantes con hueso",
+            "product_brand": "Serpis",
+            "product_variant": "Frasco 340 g",
+            "product_pathname": "/p/aceitunas-verdes-picantes-con-hueso-serpis-frasco-340-g",
+            "product_image_url": "https://a2.soysuper.com/8a5cd1de4d4c87d7cfb8b4f5055791b7.110.110.0.min.wmark.6ffdf305.jpg",
+            "product_price": "3,55€  / Frasco 340 g",
+            "product_unitprice": "10,44€ / 1 kg"
+         },
+         {
+            "product_id": "5d955880d791876c3940964e",
+            "product_name": "Aceituna partida verde aliñada extra",
+            "product_brand": "Bravo",
+            "product_variant": "800 g",
+            "product_pathname": "/p/aceituna-partida-verde-alinada-extra-bravo-800-g-bravo-800-g",
+            "product_image_url": "https://a1.soysuper.com/6595bae92c7f866dbfb0ba66c7a1ad5f.110.110.0.min.wmark.6ad614de.jpg",
+            "product_price": "4,46€  / 800 g",
+            "product_unitprice": "5,58€ / 1 kg"
+         },
+         {
+            "product_id": "55e89d0098ec91111e498963",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "El Corte Inglés",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-el-corte-ingles-lata-150-g",
+            "product_image_url": "https://a1.soysuper.com/b974d519bceec4287561c0150aa4008b.110.110.0.min.wmark.ce0591d0.jpg",
+            "product_price": "1,88€  / Lata de 150 g",
+            "product_unitprice": "12,53€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91661cc75fa2a3501b327",
+            "product_name": "Aceitunas verdes manzanilla con sabor a anchoa con hueso",
+            "product_brand": "Jolca",
+            "product_variant": "185 g",
+            "product_pathname": "/p/aceitunas-manzanilla-sabor-anchoa-jolca-lata-190-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/d70151759390aa62e3ec4f938f8c5a2e.110.110.0.min.wmark.1be7d7d9.jpg",
+            "product_price": "1,74€  / 185 g",
+            "product_unitprice": "9,41€ / 1 kg"
+         },
+         {
+            "product_id": "55e389e153c97b7fc55f7ec2",
+            "product_name": "Aceituna manzanilla rellena de anchoa",
+            "product_brand": "Fragata",
+            "product_variant": "Lata 150 gr",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-fragata-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/7f636dbe95dc4d4f46026fb5066d4b3d.110.110.0.min.wmark.1215b450.jpg",
+            "product_price": "1,99€  / Lata 150 gr",
+            "product_unitprice": "13,27€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3f1",
+            "product_name": "Jolca Aceitunas verdes tipo manzanilla fina, rellenas de anchoa jolca",
+            "product_brand": "Jolca",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-jolca-lata-150-g",
+            "product_image_url": "https://a0.soysuper.com/76b843951c2d9fc9b01bf10e1a9eb3d9.110.110.0.min.wmark.499700d5.jpg",
+            "product_price": "1,59€  / 150 g",
+            "product_unitprice": "10,60€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91125cc75fa2a35007734",
+            "product_name": "Aceitunas verdes manzanilla rellenas de pimiento",
+            "product_brand": "Serpis",
+            "product_variant": "Lata de 130 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-rellenas-de-pimiento-serpis-lata-de-150-g",
+            "product_image_url": "https://a2.soysuper.com/248f940da140136d0ce938ced7bb9937.110.110.0.min.wmark.30fabbac.jpg",
+            "product_price": "1,96€  / Lata de 130 g",
+            "product_unitprice": "15,08€ / 1 kg"
+         },
+         {
+            "product_id": "6261aa0853c97b7b8852a0d3",
+            "product_name": "LA española Aceitunas rellenas de jalapeños LA española Pícaras",
+            "product_brand": "La Española",
+            "product_variant": "130 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-jalapeno-la-espanola-0-13-kg",
+            "product_image_url": "https://a2.soysuper.com/00bc66dfef8e1a5fffba72bb453993ac.110.110.0.min.wmark.63c6fe9d.jpg",
+            "product_price": "2,24€  / 130 g",
+            "product_unitprice": "17,23€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b397",
+            "product_name": "Aceitunas verdes gordal con pepinillo",
+            "product_brand": "Rioverde",
+            "product_variant": "Frasco de 180 gramos",
+            "product_pathname": "/p/aceitunas-gordal-rellenas-de-pepinillo-rioverde-frasco-180-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/fb74935e85a997ede7a38f10c565ff96.110.110.0.min.wmark.9846898e.jpg",
+            "product_price": "2,87€  / Frasco de 180 gramos",
+            "product_unitprice": "15,94€ / 1 kg"
+         },
+         {
+            "product_id": "527bad1545d4cb735d000007",
+            "product_name": "Aceituna rellena de anchoa suave",
+            "product_brand": "Jolca",
+            "product_variant": "Lata 130 gr",
+            "product_pathname": "/p/aceituna-rellena-de-anchoa-suave-jolca-lata-130gr",
+            "product_image_url": "https://a0.soysuper.com/d8d84cfb7b2876edd8bd1735efc58f03.110.110.0.min.wmark.4ec9686c.jpg",
+            "product_price": "1,70€  / Lata 130 gr",
+            "product_unitprice": "13,08€ / 1 kg"
+         },
+         {
+            "product_id": "5852f86d53c97b0a751d61ea",
+            "product_name": "Aceitunas verdes rellenas de anchoa",
+            "product_brand": "Carbonell",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-carbonell-150g-1",
+            "product_image_url": "https://a2.soysuper.com/88999e9f33f05e386b40e343497a9d62.110.110.0.min.wmark.39ae9dff.jpg",
+            "product_price": "1,69€  / Lata 150 g neto escurrido",
+            "product_unitprice": "11,27€ / 1 kg"
+         },
+         {
+            "product_id": "5767c11f2508c11f7108d2ef",
+            "product_name": "Aceitunas verdes manzanilla en rodajas Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceitunas-manzanilla-en-rodajas-escamilla-frasco-190-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/0a662b9a3d12db0101683ed3691ce3be.110.110.0.min.wmark.8114f6f0.jpg",
+            "product_price": "1,59€  / 200 g",
+            "product_unitprice": "7,95€ / 1 kg"
+         },
+         {
+            "product_id": "52a87e8b3b7a560d6b00001e",
+            "product_name": "EL faro Aceitunas verdes manzanilla rellenas de anchoa gigantes EL faro",
+            "product_brand": "El Faro",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/aceitunas-gigantes-rellenas-de-anchoa-el-faro-lata-150-g-neto-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/72776660ae437e8365ec589fe2fc59b0.110.110.0.min.wmark.2716266a.jpg",
+            "product_price": "1,91€  / Lata de 150 g",
+            "product_unitprice": "12,73€ / 1 kg"
+         },
+         {
+            "product_id": "51577fed05299eb65d00052b",
+            "product_name": "Aceitunas rellenas",
+            "product_brand": "Serpis",
+            "product_variant": "2 x 85 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-serpis-pack-2x85-g",
+            "product_image_url": "https://a0.soysuper.com/1545b0953e5f29ec0b71b1f460725923.110.110.0.min.wmark.5c287972.jpg",
+            "product_price": "2,60€  / 2 x 85 g",
+            "product_unitprice": "15,29€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b494",
+            "product_name": "Aceitunas verdes sin hueso Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "450 g",
+            "product_pathname": "/p/aceitunas-verdes-deshuesadas-bajo-en-sal-escamilla-frasco-de-450-g",
+            "product_image_url": "https://a0.soysuper.com/4e004ba9b99a5ae75c649c08e62d6678.110.110.0.min.wmark.7aebb178.jpg",
+            "product_price": "3,68€  / 450 g",
+            "product_unitprice": "8,18€ / 1 kg"
+         },
+         {
+            "product_id": "5e333af0e93cdf37132fa673",
+            "product_name": "Aceitunas verdes rellenas de anchoa Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "Pack de 3 unidades de 150 g",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-carrefour-pack-de-3-unidades-de-150-g-pack-de-3-unidades-de-150-g",
+            "product_image_url": "https://a2.soysuper.com/7b1a4325619d1bcb0e11a69c7f136e59.110.110.0.min.wmark.ce91a0a2.jpg",
+            "product_price": "1,53€  / Pack de 3 unidades de 150 g",
+            "product_unitprice": "3,40€ / 1 kg"
+         },
+         {
+            "product_id": "5754321a1452a07a6d4886e7",
+            "product_name": "Aceitunas gordal picante",
+            "product_brand": "Lupy",
+            "product_variant": "Frasco 550 g",
+            "product_pathname": "/p/aceitunas-gordales-picantes-lupy-frasco-600-gr",
+            "product_image_url": "https://a0.soysuper.com/b74fe8448c678df2775daab1e783bc54.110.110.0.min.wmark.dc2bccc0.jpg",
+            "product_price": "4,65€  / Frasco 550 g",
+            "product_unitprice": "8,45€ / 1 kg"
+         },
+         {
+            "product_id": "63b48ca5d791874e1c78dd39",
+            "product_name": "Aceitunas verdes estilo Chupadedos",
+            "product_brand": "El Faro",
+            "product_variant": "Lata 185 g neto escurrido",
+            "product_pathname": "/p/aceitunas-verdes-estilo-chupadedos-lata-185-g-neto-escurrido-el-faro-lata-185-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/b40e9f7f9b4d2dea61cff57c423761f1.110.110.0.min.wmark.a0a7f122.jpg",
+            "product_price": "1,91€  / Lata 185 g neto escurrido",
+            "product_unitprice": "10,32€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b415",
+            "product_name": "Aceitunas partidas extra",
+            "product_brand": "Bravo",
+            "product_variant": "Frasco 900 g",
+            "product_pathname": "/p/aceitunas-partidas-extra-bravo-frasco-900-g",
+            "product_image_url": "https://a1.soysuper.com/8a98f805735e25ce4a511a6936f46fc2.110.110.0.min.wmark.e366cde8.jpg",
+            "product_price": "4,50€  / Frasco 900 g",
+            "product_unitprice": "5€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b398",
+            "product_name": "Aceitunas rellenas de anchoa EL faro",
+            "product_brand": "El Faro",
+            "product_variant": "Lata 150 g",
+            "product_pathname": "/p/aceitunas-gigantes-rellenas-de-anchoa-el-faro-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/841aae0c06c44c2cdec53633de45929a.110.110.0.min.wmark.4db722cd.jpg",
+            "product_price": "1,57€  / Lata 150 g",
+            "product_unitprice": "10,47€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b381",
+            "product_name": "Aceitunas rellenas omega 3",
+            "product_brand": "La Española",
+            "product_variant": "3 x 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-con-omega-3-neto-escurrido-la-pack-3-latas-50-g",
+            "product_image_url": "https://a1.soysuper.com/f111ac966df90b61a1379f4a847fde8d.110.110.0.min.wmark.fcdea2b4.jpg",
+            "product_price": "3,62€  / 3 x 50 g",
+            "product_unitprice": "24,13€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b37c",
+            "product_name": "Aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "La Española",
+            "product_variant": "Pack 3 latas 150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-neto-escurrido-la-pack-3-latas-150-g",
+            "product_image_url": "https://a0.soysuper.com/7838788695285edc58ee1fe314ae2d09.110.110.0.min.wmark.03c6a70f.jpg",
+            "product_price": "5,64€  / Pack 3 latas 150 g",
+            "product_unitprice": "12,53€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b389",
+            "product_name": "Aceitunas rellenas Gran Selección",
+            "product_brand": "Serpis",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-neto-escurrido-serpis-gran-seleccion-pack-3-latas-50-g",
+            "product_image_url": "https://a1.soysuper.com/08a1a974fe4b3c3e668e6f2fedf753c6.110.110.0.min.wmark.8bdcf62e.jpg",
+            "product_price": "3,38€  / 150 g",
+            "product_unitprice": "22,53€ / 1 kg"
+         },
+         {
+            "product_id": "533bed312f27ff2563000001",
+            "product_name": "Aceituna rellena de anchoa suave PNE",
+            "product_brand": "La Española",
+            "product_variant": "Lata 150 grs.",
+            "product_pathname": "/p/aceitunas-suaves-rellenas-de-anchoa-la-espanola-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/60596ac24faabc7e55b6f2b9a14d3e9a.110.110.0.min.wmark.175b09a8.jpg",
+            "product_price": "2,38€  / Lata 150 grs.",
+            "product_unitprice": "15,87€ / 1 kg"
+         },
+         {
+            "product_id": "5e2612b653c97b314266ceec",
+            "product_name": "Aceitunas verdes manzanilla sin hueso con limón y albahaca Serpis sin gluten doy G",
+            "product_brand": "Serpis",
+            "product_variant": "Pack 70",
+            "product_pathname": "/p/aceitunas-verdes-sin-hueso-con-limon-y-albahaca-bolsa-70-g-neto-escurrido-serpis-lets-go-bolsa-70-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/61398160864bafec916786409eb82acb.110.110.0.min.wmark.cd4448c2.jpg",
+            "product_price": "1,20€  / Pack 70",
+            "product_unitprice": "0,02€ / 1 unidad"
+         },
+         {
+            "product_id": "5e2612b62508c12b392d468c",
+            "product_name": "Aceitunas verdes sin hueso con paprika lets GO",
+            "product_brand": "Serpis",
+            "product_variant": "Bolsa 70 g neto escurrido",
+            "product_pathname": "/p/aceitunas-verdes-sin-hueso-con-paprika-bolsa-70-g-neto-escurrido-serpis-lets-go-bolsa-70-g-neto-escurrido-1",
+            "product_image_url": "https://a2.soysuper.com/b2463162ce48f148ca09f5accd43758b.110.110.0.min.wmark.0ae2e33b.jpg",
+            "product_price": "1,20€  / Bolsa 70 g neto escurrido",
+            "product_unitprice": "17,14€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91667cc75fa2a3501b4ee",
+            "product_name": "Aceitunas verdes manzanilla",
+            "product_brand": "Escamilla",
+            "product_variant": "100 g",
+            "product_pathname": "/p/aceitunas-manzanilla-enteras-escamilla-bolsa-95-g",
+            "product_image_url": "https://a1.soysuper.com/9ed2a2de656ad0650a8982aafa7dde7e.110.110.0.min.wmark.1471ed36.jpg",
+            "product_price": "0,55€  / 100 g",
+            "product_unitprice": "5,50€ / 1 kg"
+         },
+         {
+            "product_id": "55e89cd798ec91111e498948",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Aliada",
+            "product_variant": "6 latas de 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-aliada-pack-6-latas-50-g",
+            "product_image_url": "https://a0.soysuper.com/038d9220072ab2ee524a26814902ffe7.110.110.0.min.wmark.be2840e0.jpg",
+            "product_price": "2,91€  / 6 latas de 50 g",
+            "product_unitprice": "9,70€ / 1 kg"
+         },
+         {
+            "product_id": "57bf42b91452a054201d0f84",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Espinaler",
+            "product_variant": "3 uds. x 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-conservas-espinaler-3x50gr",
+            "product_image_url": "https://a0.soysuper.com/72bdf83b5e782f852ea36f5c7d9a4175.110.110.0.min.wmark.3ec3832f.jpg",
+            "product_price": "1,98€  / 3 uds. x 50 g",
+            "product_unitprice": "13,20€ / 1 kg"
+         },
+         {
+            "product_id": "5add1119722d6a7b44264d62",
+            "product_name": "Aceituna aliñada manzanilla sin hueso",
+            "product_brand": "Maestranza",
+            "product_variant": "570 g",
+            "product_pathname": "/p/aceitunas-manzanilla-deshuesadas-alinadas-barril-570-g-neto-escurrido-maestranza-570-g-neto-escurrido-1",
+            "product_image_url": "https://a2.soysuper.com/b1b1988c5b4e0c0f71134bd8b62b6f9b.110.110.0.min.wmark.108c5c49.jpg",
+            "product_price": "5,08€  / 570 g",
+            "product_unitprice": "8,91€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b393",
+            "product_name": "Aceitunas verdes manzanilla rellenas de anchoa",
+            "product_brand": "Serpis",
+            "product_variant": "3 uds x 50 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-rellenas-de-anchoa-serpis-pack-de-3-unidades-de-50-gramos",
+            "product_image_url": "https://a2.soysuper.com/9c6b4634a2867e70ea8fb3893113c177.110.110.0.min.wmark.1758e81b.jpg",
+            "product_price": "3,48€  / 3 uds x 50 g",
+            "product_unitprice": "23,20€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b39b",
+            "product_name": "Ybarra aceituna verde rellena anchoa lata (3x50 g)",
+            "product_brand": "Ybarra",
+            "product_variant": "3 x 120 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoas-ybarra-pack-3-latas-50-g",
+            "product_image_url": "https://a0.soysuper.com/4950fb96fdc8cc14b4716a594c434efc.110.110.0.min.wmark.b6cce36c.jpg",
+            "product_price": "1,75€  / 3 x 120 g",
+            "product_unitprice": "4,86€ / 1 kg"
+         },
+         {
+            "product_id": "5afaf2b61452a026c37b42d1",
+            "product_name": "Aceitunas arbequinas LA masrojana",
+            "product_brand": "La Masrojana",
+            "product_variant": "Tarro 220 g",
+            "product_pathname": "/p/aceitunas-arbequinas-verdes-con-hueso-220-gr-la-masrojana-220-gr",
+            "product_image_url": "https://a2.soysuper.com/6bb69a8a1b73d8553ca37ed90eef4773.110.110.0.min.wmark.9688e630.jpg",
+            "product_price": "1,56€  / Tarro 220 g",
+            "product_unitprice": "7,09€ / 1 kg"
+         },
+         {
+            "product_id": "5a8f24861452a05bc94b9343",
+            "product_name": "Aceitunas verdes manzanilla rellenas de anchoa Extra Grandes",
+            "product_brand": "Dani",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-verdes-manzanillas-rellenas-anchoas-dani-150gr-dani-150-g",
+            "product_image_url": "https://a0.soysuper.com/35be677b6c4b41c6a53253a06c49348b.110.110.0.min.wmark.aab63581.jpg",
+            "product_price": "1,12€  / Lata 150 g neto escurrido",
+            "product_unitprice": "7,47€ / 1 kg"
+         },
+         {
+            "product_id": "4fc9166dcc75fa2a3501b699",
+            "product_name": "Aceitunas verdes manzanilla rellenas de anchoa",
+            "product_brand": "Serpis",
+            "product_variant": "150 g",
+            "product_pathname": "/p/gran-seleccion-rellena-de-anchoa-serpis-150-g",
+            "product_image_url": "https://a2.soysuper.com/cdb69520134eb6eb15446c9bc9a3162b.110.110.0.min.wmark.91293395.jpg",
+            "product_price": "1,72€  / 150 g",
+            "product_unitprice": "11,47€ / 1 kg"
+         },
+         {
+            "product_id": "6078007b0932f757cb61166c",
+            "product_name": "Valientes aceitunas rellenas de trocitos de chili neto escurrido",
+            "product_brand": "La Española",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-chilli-valientes-la-espanola-3x50-grs-pne-la-espanola-3x50-grs",
+            "product_image_url": "https://a0.soysuper.com/e41460e55e97693657c5b863a1129854.110.110.0.min.wmark.a54ad798.jpg",
+            "product_price": "4,10€  / Pack 3 latas 50 g",
+            "product_unitprice": "27,33€ / 1 kg"
+         },
+         {
+            "product_id": "5767c1181452a020525cab4d",
+            "product_name": "Aceitunas manzanilla rellenas de pimiento",
+            "product_brand": "Escamilla",
+            "product_variant": "Frasco 190 g",
+            "product_pathname": "/p/aceitunas-manzanilla-rellenas-de-pimiento-escamilla-frasco-190-g",
+            "product_image_url": "https://a1.soysuper.com/1da5bbfd6aa6f317c57278aa01048a62.110.110.0.min.wmark.94c74fb2.jpg",
+            "product_price": "1,89€  / Frasco 190 g",
+            "product_unitprice": "9,95€ / 1 kg"
+         },
+         {
+            "product_id": "6408ebb80932f77dd372270a",
+            "product_name": "Aceitunas verdes partidas aliñadas Exóticas La Española sin gluten",
+            "product_brand": "La Española",
+            "product_variant": "185 g",
+            "product_pathname": "/p/exoticas-aceitunas-verdes-partidas-alinadas-lata-185-g-neto-escurrido-la-espanola-lata-185-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/f91d98b2b6fbc11af2b06f2733ec0a45.110.110.0.min.wmark.90c62581.jpg",
+            "product_price": "2,32€  / 185 g",
+            "product_unitprice": "12,54€ / 1 kg"
+         },
+         {
+            "product_id": "5cf846500932f70f6e0a98c9",
+            "product_name": "Deluxe aceitunas verdes rellenas de anchoa neto escurrido",
+            "product_brand": "La Española",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/deluxe-aceitunas-verdes-rellenas-de-anchoa-neto-escurrido-la-espanola-pack-3-latas-50-g",
+            "product_image_url": "https://a1.soysuper.com/12edfd656cf72d86eea957332ca15154.110.110.0.min.wmark.ff2ac24d.jpg",
+            "product_price": "4,58€  / Pack 3 latas 50 g",
+            "product_unitprice": "30,53€ / 1 kg"
+         },
+         {
+            "product_id": "594e7ac71452a02d186265c1",
+            "product_name": "Aceitunas verdes manzanilla sin hueso",
+            "product_brand": "Escamilla",
+            "product_variant": "Bolsa de 150 gramos",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-sin-hueso-escamilla-bolsa-de-80-grs",
+            "product_image_url": "https://a0.soysuper.com/ad088f6a4ec529b178443940e4fb3852.110.110.0.min.wmark.98912722.jpg",
+            "product_price": "0,43€  / Bolsa de 150 gramos",
+            "product_unitprice": "2,87€ / 1 kg"
+         },
+         {
+            "product_id": "5ef83a132508c166352a46e7",
+            "product_name": "Aceituna verde manzanilla fina con hueso neto escurrido",
+            "product_brand": "Jolca",
+            "product_variant": "Pack 3 bolsas 65 g",
+            "product_pathname": "/p/aceituna-verde-manzanilla-fina-con-hueso-pack-3-bolsas-65-g-neto-escurrido-jolca-pack-3-bolsas-65-g",
+            "product_image_url": "https://a2.soysuper.com/b796be976d72ce50e3de1aecc3f92439.110.110.0.min.wmark.0e53c676.jpg",
+            "product_price": "1,76€  / Pack 3 bolsas 65 g",
+            "product_unitprice": "9,03€ / 1 kg"
+         },
+         {
+            "product_id": "5a73f7ab0932f7427c21879d",
+            "product_name": "Gran Selección aceitunas con hueso sabor anchoa",
+            "product_brand": "Fragata",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-con-hueso-sabor-anchoa-fragata-180-g",
+            "product_image_url": "https://a2.soysuper.com/d36c5993dcd997be5591c77ac6c75326.110.110.0.min.wmark.24ff1099.jpg",
+            "product_price": "1,73€  / Lata 150 g neto escurrido",
+            "product_unitprice": "11,53€ / 1 kg"
+         },
+         {
+            "product_id": "5ab01a2953c97b4934334ab9",
+            "product_name": "Aceitunas rellenas al limón",
+            "product_brand": "El Torreón",
+            "product_variant": "Lata 130 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-rellena-de-limon-el-torreon-lata-130-gr",
+            "product_image_url": "https://a0.soysuper.com/77691ba3c4801883d2c4e946c3d6526d.110.110.0.min.wmark.2c7636ea.jpg",
+            "product_price": "1,34€  / Lata 130 g neto escurrido",
+            "product_unitprice": "10,31€ / 1 kg"
+         },
+         {
+            "product_id": "62b2182d0932f766020d5af6",
+            "product_name": "Aceitunas verdes rellenas de anchoa Carbonell",
+            "product_brand": "Carbonell",
+            "product_variant": "Pack de 3 unidades de 50 g",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-pack-3-latas-50-g-neto-escurrido-carbonell-pack-3-latas-50-g-1",
+            "product_image_url": "https://a2.soysuper.com/973db2e6907663cbbf6340232cbd85a7.110.110.0.min.wmark.5ba5c6b4.jpg",
+            "product_price": "2,62€  / Pack de 3 unidades de 50 g",
+            "product_unitprice": "17,47€ / 1 kg"
+         },
+         {
+            "product_id": "6078007b53c97b7337660845",
+            "product_name": "Aceitunas verdes rellenas de trocitos de jalapeño Pícaras La Española sin gluten",
+            "product_brand": "La Española",
+            "product_variant": "Pack de 3 latas de 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-jalapenos-picaras-la-espanola-3x50-grs-pn-la-espanola-3x50-grs",
+            "product_image_url": "https://a2.soysuper.com/55a1532519ff305fd680066c7de107c2.110.110.0.min.wmark.565c6e1a.jpg",
+            "product_price": "3,21€  / Pack de 3 latas de 50 g",
+            "product_unitprice": "21,40€ / 1 kg"
+         },
+         {
+            "product_id": "63b33b6c1452a0425f1cea4e",
+            "product_name": "Gourmet aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "La Explanada",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/gourmet-aceitunas-rellenas-de-anchoa-pack-3-latas-50-g-neto-escurrido-la-explanada-pack-3-latas-50-g",
+            "product_image_url": "https://a1.soysuper.com/53d43931ec53caaeabe93bc89d81656f.110.110.0.min.wmark.9a0f332b.jpg",
+            "product_price": "2,30€  / Pack 3 latas 50 g",
+            "product_unitprice": "15,33€ / 1 kg"
+         },
+         {
+            "product_id": "5bd7676198ec911d3c6a1cbe",
+            "product_name": "Olivas arbequina Blai Peris",
+            "product_brand": "Blai Peris",
+            "product_variant": "180 g",
+            "product_pathname": "/p/aceitunas-arbequinas-blai-peris-160-gr-blai-peris-160-gr",
+            "product_image_url": "https://a0.soysuper.com/b3a7868e77285e93cb65699b248ab97c.110.110.0.min.wmark.d80d776a.jpg",
+            "product_price": "2,38€  / 180 g",
+            "product_unitprice": "13,22€ / 1 kg"
+         },
+         {
+            "product_id": "501573dbc1608aae76000009",
+            "product_name": "Aceitunas de Campo Real con hueso",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 950 g neto escurrido",
+            "product_pathname": "/p/aceituna-camporeal-guerra-1400-g-escurrido",
+            "product_image_url": "https://a0.soysuper.com/8e3970d6b50d3155cf2259c327584452.110.110.0.min.wmark.494c64a0.jpg",
+            "product_price": "7,48€  / Envase 950 g neto escurrido",
+            "product_unitprice": "7,87€ / 1 kg"
+         },
+         {
+            "product_id": "524601ea4a53847b1000000e",
+            "product_name": "Aceitunas partidas al ajo",
+            "product_brand": "1946",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-partida-al-ajo-sarasa",
+            "product_image_url": "https://a1.soysuper.com/0c54622e75facda206603ca4894d5ec4.110.110.0.min.wmark.36771210.jpg",
+            "product_price": "1,69€  / 200 g",
+            "product_unitprice": "8,45€ / 1 kg"
+         },
+         {
+            "product_id": "56269b7f1452a00e11481b8e",
+            "product_name": "Aceitunas arbequinas con hueso",
+            "product_brand": "La Masrojana",
+            "product_variant": "450 g",
+            "product_pathname": "/p/aceitunas-arbequinas-verdes-con-hueso-la-masrojana-450-g",
+            "product_image_url": "https://a1.soysuper.com/74a8debabf40dd97a478de69a4117f38.110.110.0.min.wmark.ade28988.jpg",
+            "product_price": "2,21€  / 450 g",
+            "product_unitprice": "4,91€ / 1 kg"
+         },
+         {
+            "product_id": "524601ea4a53847b1000000f",
+            "product_name": "Aceitunas gazpachas",
+            "product_brand": "1946",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-gazpachera-sarasa",
+            "product_image_url": "https://a2.soysuper.com/9aa65ca6fa5a92bd1d9a5a6e2461775e.110.110.0.min.wmark.e41ced40.jpg",
+            "product_price": "1,72€  / 200 g",
+            "product_unitprice": "8,60€ / 1 kg"
+         },
+         {
+            "product_id": "5ac3a6ec98ec91225d579b3b",
+            "product_name": "Aceitunas de manzanilla",
+            "product_brand": "La Masrojana",
+            "product_variant": "Frasco 220 g",
+            "product_pathname": "/p/aceitunas-de-manzanilla-frasco-220-g-la-masrojana-frasco-220-g",
+            "product_image_url": "https://a2.soysuper.com/7f49bfeb96584467382a5af6b2513bb0.110.110.0.min.wmark.2e8a068a.jpg",
+            "product_price": "1,95€  / Frasco 220 g",
+            "product_unitprice": "8,86€ / 1 kg"
+         },
+         {
+            "product_id": "63894c241452a068de3dc940",
+            "product_name": "Aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "El Faro",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-pack-3-latas-50-g-neto-escurrido-el-faro-pack-3-latas-50-g-1",
+            "product_image_url": "https://a0.soysuper.com/5772d0f747e08775b2c5e511299c7f21.110.110.0.min.wmark.42960d83.jpg",
+            "product_price": "1,94€  / Pack 3 latas 50 g",
+            "product_unitprice": "12,93€ / 1 kg"
+         },
+         {
+            "product_id": "5015ea0ec29ef3652200000c",
+            "product_name": "Aceitunas verdes aliñadas Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "510 g",
+            "product_pathname": "/p/aceituna-pico-limon-alino-escamilla-510-g",
+            "product_image_url": "https://a0.soysuper.com/2a45643a4292eae34595e6706a9d0c82.110.110.0.min.wmark.b0ed4404.jpg",
+            "product_price": "2,48€  / 510 g",
+            "product_unitprice": "4,86€ / 1 kg"
+         },
+         {
+            "product_id": "594e84bb98ec910e230a1122",
+            "product_name": "Pedraza Aceitunas verdial aliñadas pedraza",
+            "product_brand": "pedraza",
+            "product_variant": "Frasco de 750 g",
+            "product_pathname": "/p/aceitunas-verdial-alinadas-pedraza-frasco-de-900-grs",
+            "product_image_url": "https://a2.soysuper.com/b41fc280443fcabf4ee6d74add24141d.110.110.0.min.wmark.acc23420.jpg",
+            "product_price": "1,82€  / Frasco de 750 g",
+            "product_unitprice": "2,43€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b453",
+            "product_name": "Aceitunas verdes manzanilla sin hueso Lupy",
+            "product_brand": "Lupy",
+            "product_variant": "80 g",
+            "product_pathname": "/p/aceitunas-sin-hueso-lupy-bolsa-80-g",
+            "product_image_url": "https://a0.soysuper.com/8e998f98560fa1031f1844ee81a3e37c.110.110.0.min.wmark.d2231ce7.jpg",
+            "product_price": "0,40€  / 80 g",
+            "product_unitprice": "5€ / 1 kg"
+         },
+         {
+            "product_id": "55a9164698ec917c917e5623",
+            "product_name": "Aceitunas verdes manzanilla fina sin hueso",
+            "product_brand": "Jolca",
+            "product_variant": "Bolsa de 3 uds",
+            "product_pathname": "/p/aceituna-verde-manzanilla-sin-hueso-jolca-3x50-g",
+            "product_image_url": "https://a1.soysuper.com/9414a1dfeca98ac8f8a83e68a1276033.110.110.0.min.wmark.1164df59.jpg",
+            "product_price": "1,31€  / Bolsa de 3 uds",
+            "product_unitprice": "0,44€ / 1 unidad"
+         },
+         {
+            "product_id": "63b33b6c0932f766b8734629",
+            "product_name": "Gigante aceitunas verdes rellenas de anchoa",
+            "product_brand": "El Faro",
+            "product_variant": "Lata 255 g neto escurrido",
+            "product_pathname": "/p/gigante-aceitunas-verdes-rellenas-de-anchoa-lata-255-g-neto-escurrido-el-faro-lata-255-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/fa82e8d39c72c6df8e18c8320b8e3b10.110.110.0.min.wmark.8f64660e.jpg",
+            "product_price": "3,01€  / Lata 255 g neto escurrido",
+            "product_unitprice": "11,80€ / 1 kg"
+         },
+         {
+            "product_id": "5d994ded0932f771130da20a",
+            "product_name": "Deluxe aceitunas verdes rellenas de anchoa suaves con menos sal",
+            "product_brand": "La Española",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/deluxe-aceitunas-verdes-rellenas-de-anchoa-suaves-con-menos-sal-pack-3-latas-50-g-la-espanola-pack-3-latas-50-g-1",
+            "product_image_url": "https://a0.soysuper.com/bc052bcc56cdf0aa691e1615d2fdbd53.110.110.0.min.wmark.0762fdcc.jpg",
+            "product_price": "4,87€  / Pack 3 latas 50 g",
+            "product_unitprice": "32,47€ / 1 kg"
+         },
+         {
+            "product_id": "584c8cdd53c97b38c3281825",
+            "product_name": "Oro aceitunas verdes rellenas de anchoa",
+            "product_brand": "La Española",
+            "product_variant": "Lata 600 g neto escurrido",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-la-espanola-lata-600-g-1",
+            "product_image_url": "https://a1.soysuper.com/6bf283069789635db6ceabb81c293f59.110.110.0.min.wmark.f36bdf42.jpg",
+            "product_price": "14,04€  / Lata 600 g neto escurrido",
+            "product_unitprice": "23,40€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3f9",
+            "product_name": "Deluxe aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "La Española",
+            "product_variant": "Pack 2 latas 85 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-luxe-la-espanola-pack-2",
+            "product_image_url": "https://a2.soysuper.com/66eac43fdacb4627907adbc50c44ae22.110.110.0.min.wmark.57fd7662.jpg",
+            "product_price": "4,38€  / Pack 2 latas 85 g",
+            "product_unitprice": "25,76€ / 1 kg"
+         },
+         {
+            "product_id": "536eb018f49301eb4f006e84",
+            "product_name": "Aceitunas rellenas con pimiento del Piquillo",
+            "product_brand": "Artes de jolca",
+            "product_variant": "Bote de 350 gr neto",
+            "product_pathname": "/p/aceitunas-rellenas-con-pimiento-del-piquillo-artes-de-jolca-lata-150-g",
+            "product_image_url": "https://a2.soysuper.com/421619786d37d7ffa5555b2fbdebd549.110.110.0.min.wmark.7be21b68.jpg",
+            "product_price": "2,04€  / Bote de 350 gr neto",
+            "product_unitprice": "5,83€ / 1 kg"
+         },
+         {
+            "product_id": "570ff2022508c130935d2259",
+            "product_name": "Deluxe aceitunas rellenas de anchoa",
+            "product_brand": "La Española",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-la-espanola-deluxe-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/e4bc9171e278b49a0dcf889825b6bd1b.110.110.0.min.wmark.2e359d66.jpg",
+            "product_price": "2,85€  / Lata 150 g neto escurrido",
+            "product_unitprice": "19€ / 1 kg"
+         },
+         {
+            "product_id": "621cc10e53c97b751c456613",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Rossello",
+            "product_variant": "Lata 125 g neto escurrido",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-lata-125-g-neto-escurrido-rossello-lata-125-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/87358310ee31e06081a1c9a96dcb972c.110.110.0.min.wmark.76f304f1.jpg",
+            "product_price": "1,43€  / Lata 125 g neto escurrido",
+            "product_unitprice": "11,44€ / 1 kg"
+         },
+         {
+            "product_id": "6545a18998ec9103e4677eb9",
+            "product_name": "Aceitunas verdial aliñadas Los Hechizos del Sur",
+            "product_brand": "Sarasa",
+            "product_variant": "Frasco 550 g neto escurrido",
+            "product_pathname": "/p/aceitunas-verdial-alinadas-los-hechizos-del-sur-frasco-550-g-neto-escurrido-sarasa-frasco-550-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/ba9f4606bf1906770eca808ed6fb6a3e.110.110.0.min.wmark.a7f007da.jpg",
+            "product_price": "5,32€  / Frasco 550 g neto escurrido",
+            "product_unitprice": "9,67€ / 1 kg"
+         },
+         {
+            "product_id": "5b19ba0753c97b3ac915f59e",
+            "product_name": "Aceitunas seleccionadas variedad Arbequina",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-seleccionadas-variedad-arbequina-la-real-100-gramos-1",
+            "product_image_url": "https://a2.soysuper.com/4513b3ba15a7f14eaa9f56f105c6d53f.110.110.0.min.wmark.fd511ad9.jpg",
+            "product_price": "0,97€  / 100 gramos",
+            "product_unitprice": "9,70€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b39d",
+            "product_name": "Aceitunas manzanilla verdes",
+            "product_brand": "Ybarra",
+            "product_variant": "120 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-de-piquillo-ybarra-frasco-120-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/4994fbf839bc1dfdf5048f1461b5203c.110.110.0.min.wmark.f840c40b.jpg",
+            "product_price": "1,92€  / 120 g",
+            "product_unitprice": "16€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b495",
+            "product_name": "Aceitunas verdes manzanilla sin hueso Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "455 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-sin-hueso-escamilla-frasco-de-455-g",
+            "product_image_url": "https://a1.soysuper.com/05f45a471cb22d6d21c3f93dfc3d3682.110.110.0.min.wmark.c6b8f287.jpg",
+            "product_price": "2,73€  / 455 g",
+            "product_unitprice": "6€ / 1 kg"
+         },
+         {
+            "product_id": "5677ee06c240646f877f1eb7",
+            "product_name": "Aceitunas aliñada",
+            "product_brand": "Maestranza",
+            "product_variant": "550 g",
+            "product_pathname": "/p/aceituna-verde-alinadas-maestranza-550-g",
+            "product_image_url": "https://a1.soysuper.com/1e0ae1b9434cf049fced56a450f34e02.110.110.0.min.wmark.7f4cdf4c.jpg",
+            "product_price": "3,36€  / 550 g",
+            "product_unitprice": "6,11€ / 1 kg"
+         },
+         {
+            "product_id": "5943c9d498ec9126fd60a4bf",
+            "product_name": "Aceitunas verdes con aceite de oliva",
+            "product_brand": "Sarasa",
+            "product_variant": "185 gr",
+            "product_pathname": "/p/aceituna-verde-con-aceitua-de-oliva-sarasa-lata-de-185g",
+            "product_image_url": "https://a1.soysuper.com/d8b920801d99d07d2a03372d15f3db91.110.110.0.min.wmark.81046352.jpg",
+            "product_price": "1,68€  / 185 gr",
+            "product_unitprice": "9,08€ / 1 kg"
+         },
+         {
+            "product_id": "621cbed50932f714de09f303",
+            "product_name": "Aceitunas manzanilla extra",
+            "product_brand": "Rossello",
+            "product_variant": "Frasco 550 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-extra-frasco-550-g-neto-escurrido-rossello-frasco-550-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/1f2cb4e11cf773bc050c0d4c6dceb509.110.110.0.min.wmark.1db446ab.jpg",
+            "product_price": "4,35€  / Frasco 550 g neto escurrido",
+            "product_unitprice": "7,91€ / 1 kg"
+         },
+         {
+            "product_id": "55e89d101452a043be710b68",
+            "product_name": "Aceitunas rellenas de anchoa suaves 35% menos sal",
+            "product_brand": "Aliada",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-suaves-35-menos-sal-aliada-lata-150-g-1",
+            "product_image_url": "https://a1.soysuper.com/92670aaa53db51cf67151406b57931ee.110.110.0.min.wmark.2d72ff3b.jpg",
+            "product_price": "1,07€  / Lata de 150 g",
+            "product_unitprice": "7,13€ / 1 kg"
+         },
+         {
+            "product_id": "505dc7c369d11e6f67000136",
+            "product_name": "Aceitunas sabor anchoa",
+            "product_brand": "Lupy",
+            "product_variant": "Frasco 550 g",
+            "product_pathname": "/p/aceituna-con-sabor-anchoa-tarro-lupy-550-g",
+            "product_image_url": "https://a0.soysuper.com/60b6bb43b95f35b0d159138792b3edb2.110.110.0.min.wmark.217bc8d7.jpg",
+            "product_price": "2,93€  / Frasco 550 g",
+            "product_unitprice": "5,33€ / 1 kg"
+         },
+         {
+            "product_id": "5890b566c240640ac5418bb8",
+            "product_name": "Aceitunas verdes manzanilla enteras con sabor a anchoa",
+            "product_brand": "Roselló",
+            "product_variant": "Frasco de 550 gramos",
+            "product_pathname": "/p/aceituna-sabor-anchoa-rosello-550-g-1",
+            "product_image_url": "https://a2.soysuper.com/66a414b16890a8ed2160b694316c883e.110.110.0.min.wmark.3a15c5bf.jpg",
+            "product_price": "2,46€  / Frasco de 550 gramos",
+            "product_unitprice": "4,47€ / 1 kg"
+         },
+         {
+            "product_id": "5088623e0e65abfb57000000",
+            "product_name": "Aceitunas gazpacha aliñadas",
+            "product_brand": "La Sota",
+            "product_variant": "Frasco 250 g neto escurrido",
+            "product_pathname": "/p/aceitunas-gazpacha-alinadas-la-sota-frasco-250-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/d615b4f088d8e51677fb2f3029b96391.110.110.0.min.wmark.c16d64bd.jpg",
+            "product_price": "4,01€  / Frasco 250 g neto escurrido",
+            "product_unitprice": "16,04€ / 1 kg"
+         },
+         {
+            "product_id": "55e4dcfb98ec9147e8069e3c",
+            "product_name": "Aceitunas arbequina",
+            "product_brand": "Románico",
+            "product_variant": "Frasco de 195 g neto escurrido",
+            "product_pathname": "/p/aceitunas-arbequina-romanico-frasco-195-g-neto-escurrido-1",
+            "product_image_url": "https://a2.soysuper.com/c3c3603bf9928d8aa8a4735003af75d7.110.110.0.min.wmark.e64523b5.jpg",
+            "product_price": "3,09€  / Frasco de 195 g neto escurrido",
+            "product_unitprice": "15,85€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b422",
+            "product_name": "Aceitunas sabor manzanilla sin hueso eroski",
+            "product_brand": "Eroski",
+            "product_variant": "Frasco 250 g",
+            "product_pathname": "/p/aceitunas-de-manzanilla-sin-hueso-eroski-300-g",
+            "product_image_url": "https://a1.soysuper.com/29ff5d5376df289949b38eb23abe7520.110.110.0.min.wmark.326ad3ba.jpg",
+            "product_price": "2,71€  / Frasco 250 g",
+            "product_unitprice": "10,84€ / 1 kg"
+         },
+         {
+            "product_id": "57019edf2508c1764d7e7fa8",
+            "product_name": "aceitunas verdes gordal",
+            "product_brand": "El Corte Inglés",
+            "product_variant": "frasco 500 g",
+            "product_pathname": "/p/aceitunas-verdes-gordal-el-corte-ingles-frasco-500-g-1",
+            "product_image_url": "https://a2.soysuper.com/efcc9d48c79df3a95ae9dc006fd39899.110.110.0.min.wmark.90e8b907.jpg",
+            "product_price": "5,55€  / frasco 500 g",
+            "product_unitprice": "11,10€ / 1 kg"
+         },
+         {
+            "product_id": "5e459e380932f71e020c3500",
+            "product_name": "Aceituna manzanilla con hueso ecológica Carrefour Bio",
+            "product_brand": "Carrefour Bio",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-ecologica-carrefour-bio-160-g-340-g",
+            "product_image_url": "https://a2.soysuper.com/bf1245160413a121cd9f2e0976ac4acb.110.110.0.min.wmark.ba85d33c.jpg",
+            "product_price": "0,93€  / 200 g",
+            "product_unitprice": "4,65€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b477",
+            "product_name": "Aceitunas verdes sin hueso eroski",
+            "product_brand": "Eroski",
+            "product_variant": "Frasco 400 g",
+            "product_pathname": "/p/aceitunas-verdes-sin-hueso-eroski-frasco-490-g",
+            "product_image_url": "https://a0.soysuper.com/e616480847233c158284abd70a5b27f5.110.110.0.min.wmark.d88e0d76.jpg",
+            "product_price": "2,82€  / Frasco 400 g",
+            "product_unitprice": "7,05€ / 1 kg"
+         },
+         {
+            "product_id": "55e89cd698ec91111e498946",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "Aliada",
+            "product_variant": "Lata de 130 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-aliada-lata-130-g",
+            "product_image_url": "https://a2.soysuper.com/a203ae4036b7bb79868ca5621e17fcf8.110.110.0.min.wmark.4528b409.jpg",
+            "product_price": "0,77€  / Lata de 130 g",
+            "product_unitprice": "5,92€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b420",
+            "product_name": "Aceitunas gordal picante eroski",
+            "product_brand": "Eroski",
+            "product_variant": "Tarrina 300 g",
+            "product_pathname": "/p/aceitunas-gordal-picante-eroski-300-g",
+            "product_image_url": "https://a0.soysuper.com/fc38aef3d1e1ab6fcb2b58fbe86c6bfd.110.110.0.min.wmark.c279e164.jpg",
+            "product_price": "2,70€  / Tarrina 300 g",
+            "product_unitprice": "9€ / 1 kg"
+         },
+         {
+            "product_id": "508dc425d1068b727d00008b",
+            "product_name": "Aceituna gordal aliñada",
+            "product_brand": "Jolca",
+            "product_variant": "Frasco 360 gr",
+            "product_pathname": "/p/aceitunas-gordal-alinadas-sin-hueso-artes-de-jolca-frasco-360-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/f92c7f8c709cb9c97c526274332c5e08.110.110.0.min.wmark.f96e6a87.jpg",
+            "product_price": "5,09€  / Frasco 360 gr",
+            "product_unitprice": "14,14€ / 1 kg"
+         },
+         {
+            "product_id": "5733b1622508c169de6c7236",
+            "product_name": "aceitunas rellenas de anchoa neto escurrido",
+            "product_brand": "El Corte Inglés",
+            "product_variant": "pack 3 latas 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-neto-escurrido-el-corte-ingles-pack-3-latas-50-g",
+            "product_image_url": "https://a0.soysuper.com/2e304eb8af1741a0c2d88f4dd2eceabd.110.110.0.min.wmark.e7775d69.jpg",
+            "product_price": "3,05€  / pack 3 latas 50 g",
+            "product_unitprice": "20,33€ / 1 kg"
+         },
+         {
+            "product_id": "5ac3a6ea1452a0421f4649e0",
+            "product_name": "Drops oliva esférica creada por Albert Adriá",
+            "product_brand": "Caviaroli",
+            "product_variant": "Tarro 60 g",
+            "product_pathname": "/p/drops-aceituna-esferica-creada-por-albert-adria-tarro-60-g-caviaroli-tarro-60-g",
+            "product_image_url": "https://a1.soysuper.com/7c71ae3fdd07fe14e0aa16463ae11acc.110.110.0.min.wmark.572d8398.jpg",
+            "product_price": "13,90€  / Tarro 60 g",
+            "product_unitprice": "231,67€ / 1 kg"
+         },
+         {
+            "product_id": "56d5f6b82508c106fb21a5ba",
+            "product_name": "aceitunas manzanilla enteras",
+            "product_brand": "El Corte Inglés",
+            "product_variant": "frasco 500 g",
+            "product_pathname": "/p/aceitunas-manzanilla-enteras-el-corte-ingles-frasco-500-g-1",
+            "product_image_url": "https://a2.soysuper.com/721fdcea73a0e9236b8f29cbecd33ba6.110.110.0.min.wmark.5ad86724.jpg",
+            "product_price": "4,81€  / frasco 500 g",
+            "product_unitprice": "9,62€ / 1 kg"
+         },
+         {
+            "product_id": "5ac3a6eb53c97b5a2d64c5c9",
+            "product_name": "Drops aceituna esférica creada por Albert Adriá picante",
+            "product_brand": "Caviaroli",
+            "product_variant": "Tarro 60 g",
+            "product_pathname": "/p/drops-aceituna-esferica-creada-por-albert-adria-picante-tarro-60-g-caviaroli-tarro-60-g",
+            "product_image_url": "https://a1.soysuper.com/f1d66af135dfafe7568b001fb93351df.110.110.0.min.wmark.b5418434.jpg",
+            "product_price": "13,90€  / Tarro 60 g",
+            "product_unitprice": "231,67€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91664cc75fa2a3501b41c",
+            "product_name": "Aceitunas sabor manzanilla",
+            "product_brand": "Eroski",
+            "product_variant": "300 g",
+            "product_pathname": "/p/aceitunas-sabor-manzanilla-eroski-300-g",
+            "product_image_url": "https://a1.soysuper.com/f419550eebb96bfef1b672d121ae8276.110.110.0.min.wmark.e6893273.jpg",
+            "product_price": "2,71€  / 300 g",
+            "product_unitprice": "9,03€ / 1 kg"
+         },
+         {
+            "product_id": "55e89d0098ec9111264bf932",
+            "product_name": "Aceitunas rellenas de pimiento neto escurrido",
+            "product_brand": "El Corte Inglés",
+            "product_variant": "Pack 3 latas 50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-morron-neto-escurrido-el-corte-ingles-pack-3-latas-51-g",
+            "product_image_url": "https://a0.soysuper.com/6e5df5ec7425140563c121bbd2524a98.110.110.0.min.wmark.07da7a37.jpg",
+            "product_price": "3,05€  / Pack 3 latas 50 g",
+            "product_unitprice": "20,33€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b469",
+            "product_name": "Aceitunas gordal eroski",
+            "product_brand": "Eroski",
+            "product_variant": "Frasco 570 g",
+            "product_pathname": "/p/aceitunas-gordal-eroski-570-g",
+            "product_image_url": "https://a2.soysuper.com/38024e43b9126af97b0bb4b23c47ea7b.110.110.0.min.wmark.7b8bc0e2.jpg",
+            "product_price": "3,34€  / Frasco 570 g",
+            "product_unitprice": "5,86€ / 1 kg"
+         },
+         {
+            "product_id": "541b6d23f7ae3432570039c8",
+            "product_name": "Aceitunas verdes partidas aliñadas",
+            "product_brand": "Moya",
+            "product_variant": "750 g",
+            "product_pathname": "/p/aceitunas-partidas-moya-750-g",
+            "product_image_url": "https://a1.soysuper.com/9d02dc71065a3fad34d4437d19ba2378.110.110.0.min.wmark.51d5cdb7.jpg",
+            "product_price": "2,30€  / 750 g",
+            "product_unitprice": "3,07€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91667cc75fa2a3501b500",
+            "product_name": "Aceitunas partidas Román Durán",
+            "product_brand": "Román Durán",
+            "product_variant": "800 g",
+            "product_pathname": "/p/aceitunas-partidas-roman-duran-800-g",
+            "product_image_url": "https://a0.soysuper.com/4bbbbf06c013709c5b93e864dc3a8824.110.110.0.min.wmark.f190fa41.jpg",
+            "product_price": "2,30€  / 800 g",
+            "product_unitprice": "2,88€ / 1 kg"
+         },
+         {
+            "product_id": "6244b3050932f740856732d6",
+            "product_name": "Aceitunas verdes con hueso Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-verdes-con-hueso-rosello-500-g-500-g",
+            "product_image_url": "https://a0.soysuper.com/c4f7bca033b6da6a326b560b455e7164.110.110.0.min.wmark.da8e0b4c.jpg",
+            "product_price": "1,53€  / 500 g",
+            "product_unitprice": "3,06€ / 1 kg"
+         },
+         {
+            "product_id": "5fc0e38c722d6a0de97f2aa8",
+            "product_name": "Aceitunas manzanilla sin hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "Pack de 3 unidades de 75 g",
+            "product_pathname": "/p/aceitunas-manzanilla-sin-hueso-carrefour-pack-de-3-unidades-de-75-g-pack-de-3-unidades-de-75-g",
+            "product_image_url": "https://a2.soysuper.com/f7402363323385f4b6de0af8115936b4.110.110.0.min.wmark.f8469c2e.jpg",
+            "product_price": "0,75€  / Pack de 3 unidades de 75 g",
+            "product_unitprice": "3,33€ / 1 kg"
+         },
+         {
+            "product_id": "568e505c53c97b213401e1a8",
+            "product_name": "Aceitunas verdes manzanilla gazpacha gran gourmet",
+            "product_brand": "Maestranza",
+            "product_variant": "Frasco de 575 g",
+            "product_pathname": "/p/aceituna-manzanilla-gazpacha-gran-gourmet-maestranza-575-gramos",
+            "product_image_url": "https://a1.soysuper.com/5f94b060579ecd479e535a7876782e9d.110.110.0.min.wmark.01633eb4.jpg",
+            "product_price": "3,90€  / Frasco de 575 g",
+            "product_unitprice": "6,78€ / 1 kg"
+         },
+         {
+            "product_id": "5db6543d722d6a4d4738f510",
+            "product_name": "Aceitunas verdes manzanilla rellenas de anchoa",
+            "product_brand": "Ybarra",
+            "product_variant": "Lata de 150 g",
+            "product_pathname": "/p/aceitunas-manzanilla-verdes-rellenas-de-anchoa-lata-150-g-neto-escurrido-ybarra-lata-150-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/0a15fb28e472858be1cb464e9f9d6496.110.110.0.min.wmark.2034b89e.jpg",
+            "product_price": "1,30€  / Lata de 150 g",
+            "product_unitprice": "8,67€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91279cc75fa2a3500c57a",
+            "product_name": "Aceitunas verdes con pepinillos Román Durán",
+            "product_brand": "Román Durán",
+            "product_variant": "600 g",
+            "product_pathname": "/p/kimbos-bote-600-gr-roman-duran-600-g",
+            "product_image_url": "https://a0.soysuper.com/1d1db748aa8e50f9ef228a4210ce7bc6.110.110.0.min.wmark.6a2a94f9.jpg",
+            "product_price": "2,90€  / 600 g",
+            "product_unitprice": "4,83€ / 1 kg"
+         },
+         {
+            "product_id": "63812266722d6a588502104b",
+            "product_name": "Aceitunas manzanillas finas rellenas de anchoa del Cantábrico",
+            "product_brand": "Rioverde",
+            "product_variant": "Lata 150 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanillas-finas-rellenas-de-anchoa-del-cantabrico-lata-150-g-neto-escurrido-rioverde-lata-150-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/224e0b67d16a493d2c988158768dc007.110.110.0.min.wmark.280f7538.jpg",
+            "product_price": "2,25€  / Lata 150 g neto escurrido",
+            "product_unitprice": "15€ / 1 kg"
+         },
+         {
+            "product_id": "54947855a0ccbe281500682b",
+            "product_name": "Aceitunas partidas aliñadas variedad Aloreñas de Malaga",
+            "product_brand": "Castillo de Holanda",
+            "product_variant": "tarro 700 g",
+            "product_pathname": "/p/aceitunas-partidas-alinadas-variedad-alorenas-de-malaga-castillo-tarro-700-g",
+            "product_image_url": "https://a2.soysuper.com/80aaa8609c12db394aa236c41516210d.110.110.0.min.wmark.c7a40c42.jpg",
+            "product_price": "5,19€  / tarro 700 g",
+            "product_unitprice": "7,41€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b3b8",
+            "product_name": "Aceitunas arbequina enteras",
+            "product_brand": "Germanor",
+            "product_variant": "Frasco 430 g neto escurrido",
+            "product_pathname": "/p/aceitunas-arbequina-enteras-germanor-frasco-430-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/122de74bd9de7232d77495fc401803a8.110.110.0.min.wmark.f23fba68.jpg",
+            "product_price": "5,24€  / Frasco 430 g neto escurrido",
+            "product_unitprice": "12,19€ / 1 kg"
+         },
+         {
+            "product_id": "553cc1fb1452a05d19458c8e",
+            "product_name": "Aceitunas verdes sin hueso Roman Duran",
+            "product_brand": "Román Durán",
+            "product_variant": "450 g",
+            "product_pathname": "/p/aceitunas-deshuesadas-roman-duran-450-g",
+            "product_image_url": "https://a0.soysuper.com/0672c8db6cd7ffd4a48745bd1ec32a40.110.110.0.min.wmark.db689ef7.jpg",
+            "product_price": "1,98€  / 450 g",
+            "product_unitprice": "4,40€ / 1 kg"
+         },
+         {
+            "product_id": "60005a271452a044765955dd",
+            "product_name": "Aceitunas verdes aliñadas al estilo del abuelo Pedraza sin gluten",
+            "product_brand": "pedraza",
+            "product_variant": "1150 g",
+            "product_pathname": "/p/aceituna-verdial-alinada-p-esc-1150gr-y-p-neto-2200gr-pedraza-1150gr",
+            "product_image_url": "https://a0.soysuper.com/0d594b6754a039dd5def3b9ad635a3c1.110.110.0.min.wmark.75af059e.jpg",
+            "product_price": "2,38€  / 1150 g",
+            "product_unitprice": "2,07€ / 1 kg"
+         },
+         {
+            "product_id": "5ee4f06a0932f75e477e371a",
+            "product_name": "Aceitunas rellenas de pimientos Carrefour sin gluten y sin lactosa",
+            "product_brand": "Carrefour",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimientos-carrefour-sin-gluten-y-sin-lactosa-150-g",
+            "product_image_url": "https://a0.soysuper.com/f9ad09adf9fa1337572a0ea819f1d13a.110.110.0.min.wmark.22495b9e.jpg",
+            "product_price": "0,75€  / 150 g",
+            "product_unitprice": "5€ / 1 kg"
+         },
+         {
+            "product_id": "64e5e89a722d6a077b403b22",
+            "product_name": "Aceitunas hechizos del sur Sarasa",
+            "product_brand": "Sarasa",
+            "product_variant": "Lata 160 g",
+            "product_pathname": "/p/aceitunas-hechizos-del-sur-sarasa-peso-escurrido-160g-peso-n-sarasa-peso-escurrido-160g",
+            "product_image_url": "https://a0.soysuper.com/02347c81d45127b09f365a4c2488048d.110.110.0.min.wmark.109319ea.jpg",
+            "product_price": "1,12€  / Lata 160 g",
+            "product_unitprice": "7€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa1d791871dd9778fb8",
+            "product_name": "Aceitunas gordal sin hueso aliñadas",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 200 g neto escurrido",
+            "product_pathname": "/p/aceitunas-gordal-sin-hueso-alinadas-envase-200-g-neto-escurrido-guerra-envase-200-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/8ccfe3d199d8106232a7bcb8d03dfa70.110.110.0.min.wmark.ef8a2c68.jpg",
+            "product_price": "3,99€  / Envase 200 g neto escurrido",
+            "product_unitprice": "19,95€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b497",
+            "product_name": "Aceitunas verdes manzanilla sin hueso sabor anchoa Lauroliva",
+            "product_brand": "Lauroliva",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceitunas-s-hueso-sabor-anchoa-lauroliva-600-g",
+            "product_image_url": "https://a2.soysuper.com/b63d5285d8ff6a14fe04ef7117435fa2.110.110.0.min.wmark.b32b5f28.jpg",
+            "product_price": "5,20€  / 600 g",
+            "product_unitprice": "8,67€ / 1 kg"
+         },
+         {
+            "product_id": "553b8c851452a05d19453f78",
+            "product_name": "Aceitunas verdes aliñadas Jose Lou",
+            "product_brand": "Jose Lou",
+            "product_variant": "550 g",
+            "product_pathname": "/p/aceitunas-alinadas-jose-lou-550-g",
+            "product_image_url": "https://a2.soysuper.com/1a2e553a6d4edb1cfeed09e87e1e7096.110.110.0.min.wmark.7bfefe3c.jpg",
+            "product_price": "2,88€  / 550 g",
+            "product_unitprice": "5,24€ / 1 kg"
+         },
+         {
+            "product_id": "50fdd2e7b46025ee2d000000",
+            "product_name": "LA española Aceitunas verdes rellenas de anchoa LA española Clásicas",
+            "product_brand": "La Española",
+            "product_variant": "Lata de 130 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-rellenas-de-anchoa-la-espanola-lata-de-130-gramos",
+            "product_image_url": "https://a0.soysuper.com/2299d3047bf7c23c8ae1d8741b1e0a8c.110.110.0.min.wmark.fc03f94f.jpg",
+            "product_price": "2,47€  / Lata de 130 g",
+            "product_unitprice": "19€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91663cc75fa2a3501b3e8",
+            "product_name": "Aceitunas rellenas pimiento",
+            "product_brand": "Eroski",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-pimiento-eroski-lata-150-g",
+            "product_image_url": "https://a1.soysuper.com/fbea9b802f0892f3a1a9c1db1db22e07.110.110.0.min.wmark.33843b98.jpg",
+            "product_price": "1,50€  / 150 g",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbf942508c112311804dc",
+            "product_name": "Aceitunas verdes manzanilla sin hueso bajo contenido en sal Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "400 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-sin-hueso-bajo-contenido-en-sal-carrefour-400-g-carrefour",
+            "product_image_url": "https://a2.soysuper.com/ad070f457619204fd8c5d262cab787c5.110.110.0.min.wmark.e9671611.jpg",
+            "product_price": "1,55€  / 400 g",
+            "product_unitprice": "3,88€ / 1 kg"
+         },
+         {
+            "product_id": "5f04a8402508c127d52f5313",
+            "product_name": "Aceitunas manzanilla sabor anchoa Miguel Casado",
+            "product_brand": "miguel-casado",
+            "product_variant": "750 g",
+            "product_pathname": "/p/aceitunas-manzanilla-sabor-anchoa-750-g-750-g",
+            "product_image_url": "https://a1.soysuper.com/eac0ed9418f1f328c3210a930c4bf516.110.110.0.min.wmark.9bda3d0a.jpg",
+            "product_price": "2,40€  / 750 g",
+            "product_unitprice": "3,20€ / 1 kg"
+         },
+         {
+            "product_id": "5d797c9a1452a02510722c5b",
+            "product_name": "Aceitunas gordales verdes rotas sin hueso La Reina del Verdeo",
+            "product_brand": "REINA DEL VERDEO",
+            "product_variant": "1.500 g",
+            "product_pathname": "/p/aceitunas-gordales-verdes-rotas-sin-hueso-la-reina-del-verdeo-1-450-g-1-450-g",
+            "product_image_url": "https://a1.soysuper.com/de93f99a00a4259ad95fde87d097b384.110.110.0.min.wmark.d9937637.jpg",
+            "product_price": "4,80€  / 1.500 g",
+            "product_unitprice": "3,20€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91668cc75fa2a3501b527",
+            "product_name": "Aceitunas verdes aliñadas Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "200 g",
+            "product_pathname": "/p/aceituna-alinada-alorena-rosello-220-g",
+            "product_image_url": "https://a2.soysuper.com/d998d2f0414eb8cdfb39a499e2ce3dc8.110.110.0.min.wmark.6cdefe09.jpg",
+            "product_price": "1,56€  / 200 g",
+            "product_unitprice": "7,80€ / 1 kg"
+         },
+         {
+            "product_id": "50162235c29ef3652200001d",
+            "product_name": "Aceitunas gordal picante Lupy",
+            "product_brand": "Lupy",
+            "product_variant": "100 g",
+            "product_pathname": "/p/aceituna-picante-bolsa-lupy-100-g",
+            "product_image_url": "https://a2.soysuper.com/c38abb27e5479cfe7d0fd46e2f382477.110.110.0.min.wmark.3abe566d.jpg",
+            "product_price": "0,35€  / 100 g",
+            "product_unitprice": "3,50€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91275cc75fa2a3500c4ed",
+            "product_name": "Aceitunas gordal con hueso De Nuestra Tierra",
+            "product_brand": "De Nuestra Tierra",
+            "product_variant": "190 g",
+            "product_pathname": "/p/aceitunas-verdes-gordal-con-hueso-carrefour-190-g",
+            "product_image_url": "https://a2.soysuper.com/efd2269068162050375fc266728c98f8.110.110.0.min.wmark.2045498e.jpg",
+            "product_price": "2,54€  / 190 g",
+            "product_unitprice": "13,37€ / 1 kg"
+         },
+         {
+            "product_id": "5a989dba0932f77b6c09ccb9",
+            "product_name": "Aceitunas seleccionadas aliñadas estilo Mozárabe",
+            "product_brand": "Aperitivos La Real",
+            "product_variant": "100 gramos",
+            "product_pathname": "/p/aceitunas-alinadas-con-pimenton-cayena-ajo-en-salmuera-aceite-pimiento-rojo-laurel-al-estilo-mozarabe-la-real-100-gramos-1",
+            "product_image_url": "https://a0.soysuper.com/b414ee35683f605c11cccf918d0f8f5e.110.110.0.min.wmark.033b5b4a.jpg",
+            "product_price": "1,27€  / 100 gramos",
+            "product_unitprice": "12,70€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa12508c16725403720",
+            "product_name": "Aceitunas manzanilla con hueso aliño gazpacha",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 250 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-con-hueso-alino-gazpacha-envase-250-g-neto-escurrido-guerra-envase-250-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/efb5fd3c68c43f473909f1af659ce7a8.110.110.0.min.wmark.37c8ee67.jpg",
+            "product_price": "3,87€  / Envase 250 g neto escurrido",
+            "product_unitprice": "15,48€ / 1 kg"
+         },
+         {
+            "product_id": "5494775bd219bf4b6d002aee",
+            "product_name": "Aceitunas manzanilla de Campo Real con hueso",
+            "product_brand": "Guerra",
+            "product_variant": "envase 250 g",
+            "product_pathname": "/p/aceitunas-manzanilla-de-campo-real-con-hueso-guerra-envase-250-g",
+            "product_image_url": "https://a2.soysuper.com/f576e63fc533cf7cc7a4a8bf7a6ce3ab.110.110.0.min.wmark.90e81828.jpg",
+            "product_price": "3,13€  / envase 250 g",
+            "product_unitprice": "12,52€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91662cc75fa2a3501b39f",
+            "product_name": "Aceitunas manzanilla rellenas de pimiento",
+            "product_brand": "Escamilla",
+            "product_variant": "Bolsa 95 g",
+            "product_pathname": "/p/aceitunas-manzanilla-rellenas-de-pimiento-bolsa-95-g-escamilla-bolsa-95-g",
+            "product_image_url": "https://a1.soysuper.com/413d55a346b25eee031d4d1c3fa761bb.110.110.0.min.wmark.bea9c352.jpg",
+            "product_price": "0,66€  / Bolsa 95 g",
+            "product_unitprice": "6,95€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa2722d6a6cb06a1740",
+            "product_name": "Aceituna manzanilla deshuesada aliñada",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 225 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-deshuesada-alinada-envase-225-g-neto-escurrido-guerra-envase-225-g-neto-escurrido",
+            "product_image_url": "https://a1.soysuper.com/d7dd415dd85e091e682e86f06b15403e.110.110.0.min.wmark.a74d0a81.jpg",
+            "product_price": "3,99€  / Envase 225 g neto escurrido",
+            "product_unitprice": "17,73€ / 1 kg"
+         },
+         {
+            "product_id": "5266e846b337b4257e000021",
+            "product_name": "Aceitunas verdes sabor anchoa Eroski",
+            "product_brand": "Eroski Seleqtia",
+            "product_variant": "Frasco 200 g",
+            "product_pathname": "/p/aceituna-sabor-anchoa-eroski-seleqtia-200-gr",
+            "product_image_url": "https://a0.soysuper.com/58149607813778018914d2f739c8496a.110.110.0.min.wmark.fb4a1670.jpg",
+            "product_price": "2,28€  / Frasco 200 g",
+            "product_unitprice": "11,40€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91668cc75fa2a3501b53f",
+            "product_name": "Aceitunas verdes manzanilla sin hueso Rosselló",
+            "product_brand": "Rossello",
+            "product_variant": "175 g",
+            "product_pathname": "/p/aceituna-sin-hueso-rosello-220-g",
+            "product_image_url": "https://a1.soysuper.com/cc08a4c2fbe6152128c6db90b25ba1d5.110.110.0.min.wmark.2ae5c74f.jpg",
+            "product_price": "1,25€  / 175 g",
+            "product_unitprice": "7,14€ / 1 kg"
+         },
+         {
+            "product_id": "5e9fbfdd1452a063e577a576",
+            "product_name": "Aceitunas verdes gordal sin hueso Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "400 g",
+            "product_pathname": "/p/aceitunas-verdes-gordal-sin-hueso-carrefour-400-g-carrefour",
+            "product_image_url": "https://a1.soysuper.com/8e3e24726571e20c8de9e177336f74f8.110.110.0.min.wmark.3ed81cdb.jpg",
+            "product_price": "2,10€  / 400 g",
+            "product_unitprice": "5,25€ / 1 kg"
+         },
+         {
+            "product_id": "55c0f3e42508c119b84ad7e5",
+            "product_name": "Aceitunas verdes manzanilla con hueso Jolca",
+            "product_brand": "Jolca",
+            "product_variant": "Pack de 3 bolsas de 65 g",
+            "product_pathname": "/p/aceituna-verde-manzanilla-con-hueso-jolca-3x65-g",
+            "product_image_url": "https://a1.soysuper.com/e2a2cdc8e5c98e52392a36e6ad145944.110.110.0.min.wmark.e96f7da6.jpg",
+            "product_price": "1,01€  / Pack de 3 bolsas de 65 g",
+            "product_unitprice": "5,18€ / 1 kg"
+         },
+         {
+            "product_id": "5ee94eedd7918751fa0b55d4",
+            "product_name": "Aceitunas verdes manzanilla sabor anchoa Perezsol",
+            "product_brand": null,
+            "product_variant": "2,5 kg",
+            "product_pathname": "/p/aceitunas-verdes-sabor-anchoa-perezsol-2-5-kg-2-5-kg",
+            "product_image_url": "https://a2.soysuper.com/2b7500a51b923bb6191b9bf674641471.110.110.0.min.wmark.a28fd1f0.jpg",
+            "product_price": "4,56€  / 2,5 kg",
+            "product_unitprice": "1,82€ / 1 kg"
+         },
+         {
+            "product_id": "64da43778ca63c5c6b66e5ca",
+            "product_name": "Aceitunas gordal aliñada sin hueso Classic Carrefour sin gluten",
+            "product_brand": "Carrefour",
+            "product_variant": "400 g",
+            "product_pathname": "/p/aceitunas-gordal-alinada-sin-hueso-classic-carrefour-sin-gluten-400-g-400-g",
+            "product_image_url": "https://a2.soysuper.com/2e9efef2424e4d519580cbdafb1d9abb.110.110.0.min.wmark.f8332bd2.jpg",
+            "product_price": "2,04€  / 400 g",
+            "product_unitprice": "5,10€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91275cc75fa2a3500c4ec",
+            "product_name": "Aceitunas verdes manzanilla con hueso De Nuestra Tierra",
+            "product_brand": "De Nuestra Tierra",
+            "product_variant": "210 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-con-hueso-carrefour-seleccion-190-g",
+            "product_image_url": "https://a1.soysuper.com/b7321ff4a66c63e12a1032f8ca97b1b0.110.110.0.min.wmark.8da39926.jpg",
+            "product_price": "0,96€  / 210 g",
+            "product_unitprice": "4,57€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91668cc75fa2a3501b539",
+            "product_name": "Aceitunas verdes rellenas de pimiento Escamilla",
+            "product_brand": "Escamilla",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceituna-manzanilla-rellena-de-pimiento-escamilla-frasco-de-600-g",
+            "product_image_url": "https://a1.soysuper.com/9fc8856d904ffcf0e0030692db73868f.110.110.0.min.wmark.908c6e68.jpg",
+            "product_price": "2,81€  / 600 g",
+            "product_unitprice": "4,68€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91668cc75fa2a3501b535",
+            "product_name": "Aceitunas verdes manzanilla con hueso sabor anchoa Lauroliva",
+            "product_brand": "Lauroliva",
+            "product_variant": "800 g",
+            "product_pathname": "/p/aceitunas-con-hueso-lauroliva-800-g",
+            "product_image_url": "https://a1.soysuper.com/f410e6b0a40aa4965fb7cdc0d2fdaad4.110.110.0.min.wmark.f19a2839.jpg",
+            "product_price": "4,97€  / 800 g",
+            "product_unitprice": "6,21€ / 1 kg"
+         },
+         {
+            "product_id": "5e2612b353c97b314266cec7",
+            "product_name": "Aceitunas manzanilla rellenas de anchoa",
+            "product_brand": "Fragata",
+            "product_variant": "Lata 350 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-rellenas-de-anchoa-lata-350-g-neto-escurrido-fragata-lata-350-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/4b96b03c72b8f607c3a0ae07a29781c5.110.110.0.min.wmark.18badaf0.jpg",
+            "product_price": "1€  / Lata 350 g neto escurrido",
+            "product_unitprice": "2,86€ / 1 kg"
+         },
+         {
+            "product_id": "5767c1201452a020077960bb",
+            "product_name": "aceitunas manzanilla con hueso",
+            "product_brand": "El Bote de Oro",
+            "product_variant": "frasco 550 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-con-hueso-el-bote-de-oro-frasco-550-g-neto-escurrido-1",
+            "product_image_url": "https://a0.soysuper.com/4406fa5d01a6be4087ddaba9f50bfa73.110.110.0.min.wmark.3f11e0b6.jpg",
+            "product_price": "3,59€  / frasco 550 g neto escurrido",
+            "product_unitprice": "6,53€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91666cc75fa2a3501b4b2",
+            "product_name": "Aceitunas manzanilla sin hueso ecológicas Campomar Nature",
+            "product_brand": "Campomar Nature",
+            "product_variant": "170 g",
+            "product_pathname": "/p/aceitunas-manzanilla-ecologicas-sin-hueso-sabor-natural-campomar-170-g",
+            "product_image_url": "https://a1.soysuper.com/78455b6fd4c07133a51e6372822b6164.110.110.0.min.wmark.ccd2b9b0.jpg",
+            "product_price": "1,01€  / 170 g",
+            "product_unitprice": "5,94€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa1d791871dfd21050a",
+            "product_name": "Aceitunas manzanilla de Campo Real sin hueso",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 700 g neto escurrido",
+            "product_pathname": "/p/aceitunas-manzanilla-de-campo-real-sin-hueso-envase-700-g-neto-escurrido-guerra-envase-700-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/e9eaa026e9fae152e59d4168c812efbc.110.110.0.min.wmark.38243d3a.jpg",
+            "product_price": "8,99€  / Envase 700 g neto escurrido",
+            "product_unitprice": "12,84€ / 1 kg"
+         },
+         {
+            "product_id": "6455eebc722d6a59e76a18e2",
+            "product_name": "Aceitunas rellenas de jalapeños La Española sin gluten",
+            "product_brand": "La Española",
+            "product_variant": "50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-jalapenos-la-espanola-sin-gluten-50-g-50-g",
+            "product_image_url": "https://a2.soysuper.com/50072e16dd61e0f90f6f31e6a56eb450.110.110.0.min.wmark.eb33013d.jpg",
+            "product_price": "0,50€  / 50 g",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "5f114e272508c11832541a5b",
+            "product_name": "Aceitunas verdes manzanilla con hueso bajo contenido en sal Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-verdes-manzanilla-con-hueso-bajo-contenido-en-sal-carrefour-500-g-500-g",
+            "product_image_url": "https://a2.soysuper.com/a2338dc026c80337515d1fd32ec05c57.110.110.0.min.wmark.e62b7fad.jpg",
+            "product_price": "1,32€  / 500 g",
+            "product_unitprice": "2,64€ / 1 kg"
+         },
+         {
+            "product_id": "6359174f53c97b7d535dfffe",
+            "product_name": "Aceitunas rellenas de anchoas del Cantábrico Extra Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "150 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-del-cantabrico-carrefour-peso-n-carrefour",
+            "product_image_url": "https://a1.soysuper.com/6ff1faa0e5270d3daf6be6fb7668f007.110.110.0.min.wmark.726b557a.jpg",
+            "product_price": "0,74€  / 150 g",
+            "product_unitprice": "4,93€ / 1 kg"
+         },
+         {
+            "product_id": "6255d53ee93cdf4bdc0d2231",
+            "product_name": "Aceitunas rellenas de anchoa La Española sin gluten",
+            "product_brand": "La Española",
+            "product_variant": "50 g",
+            "product_pathname": "/p/aceitunas-rellenas-de-anchoa-la-espanola-sin-gluten-50-g-50-g",
+            "product_image_url": "https://a0.soysuper.com/3719b95909214262e9088e2ee1d18f9f.110.110.0.min.wmark.6b4d896b.jpg",
+            "product_price": "0,50€  / 50 g",
+            "product_unitprice": "10€ / 1 kg"
+         },
+         {
+            "product_id": "5eea1afa0932f75cf61ba421",
+            "product_name": "Aceituna arbequina con hueso De Nuestra Tierra",
+            "product_brand": "De Nuestra Tierra",
+            "product_variant": "210 g",
+            "product_pathname": "/p/aceituna-arbequina-con-hueso-de-nuestra-tierra-220-g-220-g",
+            "product_image_url": "https://a2.soysuper.com/1455c73e1f23739983d844a322e60333.110.110.0.min.wmark.6cecea15.jpg",
+            "product_price": "2,01€  / 210 g",
+            "product_unitprice": "9,57€ / 1 kg"
+         },
+         {
+            "product_id": "614b8b2d2508c1279151d0bd",
+            "product_name": "Aceituna gordal rellena de cebollita Classic Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "320 g",
+            "product_pathname": "/p/aceituna-gordal-rellena-de-cebollita-classic-carrefour-320-g-320-g",
+            "product_image_url": "https://a1.soysuper.com/3e37204b87b10e684b5654d40b87cc97.110.110.0.min.wmark.34c749eb.jpg",
+            "product_price": "1,87€  / 320 g",
+            "product_unitprice": "5,84€ / 1 kg"
+         },
+         {
+            "product_id": "62e19731e93cdf323d50f562",
+            "product_name": "Aceitunas verdes sabor anchoa Sarasa sin gluten",
+            "product_brand": "Sarasa",
+            "product_variant": "190 g",
+            "product_pathname": "/p/aceitunas-verdes-sabor-anchoa-sarasa-sin-gluten-190-g-190-g",
+            "product_image_url": "https://a1.soysuper.com/6f304e0e1c7e3bb6feb61fc2a4b237d3.110.110.0.min.wmark.8be651a8.jpg",
+            "product_price": "0,87€  / 190 g",
+            "product_unitprice": "4,58€ / 1 kg"
+         },
+         {
+            "product_id": "6176baa198ec9127911bba37",
+            "product_name": "Aceituna manzanilla con hueso sabor anchoa",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 250 g neto escurrido",
+            "product_pathname": "/p/aceituna-manzanilla-con-hueso-sabor-anchoa-envase-250-g-neto-escurrido-guerra-envase-250-g-neto-escurrido",
+            "product_image_url": "https://a0.soysuper.com/50a3e541c9c9b37063963858621e0615.110.110.0.min.wmark.b7d5c0d3.jpg",
+            "product_price": "3,87€  / Envase 250 g neto escurrido",
+            "product_unitprice": "15,48€ / 1 kg"
+         },
+         {
+            "product_id": "5d1006ad722d6a6c3d34ad39",
+            "product_name": "Aceitunas gordal con pepinillo",
+            "product_brand": "Guerra",
+            "product_variant": "Envase 200 g neto escurrido",
+            "product_pathname": "/p/aceitunas-gordal-con-pepinillo-envase-200-g-neto-escurrido-guerra-envase-200-g-neto-escurrido",
+            "product_image_url": "https://a2.soysuper.com/594dabb1a25e8f43d066ff653f1504bc.110.110.0.min.wmark.d59e16e1.jpg",
+            "product_price": "6,61€  / Envase 200 g neto escurrido",
+            "product_unitprice": "33,05€ / 1 kg"
+         },
+         {
+            "product_id": "4fc9166ccc75fa2a3501b635",
+            "product_name": "Aceitunas gordal con guindilla",
+            "product_brand": "Eroski",
+            "product_variant": "Frasco 180 g",
+            "product_pathname": "/p/aceituna-gordal-con-guindilla-eroski-frasco-180-g",
+            "product_image_url": "https://a2.soysuper.com/efd19ff7f2f57fd547a1004fd114cfe7.110.110.0.min.wmark.93d714ba.jpg",
+            "product_price": "1,90€  / Frasco 180 g",
+            "product_unitprice": "10,56€ / 1 kg"
+         },
+         {
+            "product_id": "4fc91665cc75fa2a3501b47c",
+            "product_name": "Aceitunas manzanilla Eroski seleqtia",
+            "product_brand": "Eroski Seleqtia",
+            "product_variant": "Frasco 200 g",
+            "product_pathname": "/p/aceitunas-sabor-manzanilla-eroski-seleqtia-frasco-150-g",
+            "product_image_url": "https://a2.soysuper.com/187b5506a1829b6215760d38c4d89c0f.110.110.0.min.wmark.0b316da5.jpg",
+            "product_price": "2,07€  / Frasco 200 g",
+            "product_unitprice": "10,35€ / 1 kg"
+         },
+         {
+            "product_id": "5e333af02508c115e813bd5f",
+            "product_name": "Aceitunas verdes rellenas de anchoa Carrefour",
+            "product_brand": "Carrefour",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceitunas-verdes-rellenas-de-anchoa-carrefour-600-g-600-g",
+            "product_image_url": "https://a0.soysuper.com/7cc77ff5facfa465bf583b3be76b38cd.110.110.0.min.wmark.7367a718.jpg",
+            "product_price": "1,89€  / 600 g",
+            "product_unitprice": "3,15€ / 1 kg"
+         },
+         {
+            "product_id": "5a22d1c7722d6a608c4eecb2",
+            "product_name": "Aceitunas macha aliñadas a la extremeña",
+            "product_brand": "Linoliva",
+            "product_variant": "envase 500 g neto escurrido",
+            "product_pathname": "/p/aceitunas-macha-alinadas-a-la-extremena-linoliva-envase-500-g-neto-escurrido-1",
+            "product_image_url": "https://a1.soysuper.com/4cd7ed6a83f1ffddab0909b601868e30.110.110.0.min.wmark.dabc146f.jpg",
+            "product_price": "7,09€  / envase 500 g neto escurrido",
+            "product_unitprice": "14,18€ / 1 kg"
+         },
+         {
+            "product_id": "505dc7c3c9b385746700010b",
+            "product_name": "Aceitunas verdes rellenas de anchoa Lupy",
+            "product_brand": "Lupy",
+            "product_variant": "550 g",
+            "product_pathname": "/p/aceituna-rellena-de-anchoa-lupy-550-g",
+            "product_image_url": "https://a0.soysuper.com/c0d8ce8e3876d17e3551b6d439c7597a.110.110.0.min.wmark.65290f92.jpg",
+            "product_price": "6,92€  / 550 g",
+            "product_unitprice": "12,58€ / 1 kg"
+         },
+         {
+            "product_id": "553cc1fb1452a05d19458c8d",
+            "product_name": "Aceitunas verdes Roman Duran",
+            "product_brand": "Román Durán",
+            "product_variant": "600 g",
+            "product_pathname": "/p/aceitunas-roman-duran-600-g",
+            "product_image_url": "https://a1.soysuper.com/da4d86c0953a04e80f04f353c95104bc.110.110.0.min.wmark.5b008aec.jpg",
+            "product_price": "1,98€  / 600 g",
+            "product_unitprice": "3,30€ / 1 kg"
+         },
+         {
+            "product_id": "526edd9b97d8068a50000008",
+            "product_name": "Aceitunas rellenas de anchoa",
+            "product_brand": "La Española",
+            "product_variant": "Lata 100 g",
+            "product_pathname": "/p/aceitun-rell-anch-espanola-100",
+            "product_image_url": "https://a0.soysuper.com/2b34b5e99fbb63cd92eb021a565eee28.110.110.0.min.wmark.7228aed4.jpg",
+            "product_price": "1,97€  / Lata 100 g",
+            "product_unitprice": "19,70€ / 1 kg"
+         },
+         {
+            "product_id": "505dc7c4d4378f601500010d",
+            "product_name": "Aceitunas verdes con sabor anchoa Lupy",
+            "product_brand": "Lupy",
+            "product_variant": "550 g",
+            "product_pathname": "/p/aceituna-con-sabor-anchoa-lupy-550-g",
+            "product_image_url": "https://a2.soysuper.com/120aee7a4fbfd82f0357da53c651684a.110.110.0.min.wmark.acf8b830.jpg",
+            "product_price": "2,25€  / 550 g",
+            "product_unitprice": "4,09€ / 1 kg"
+         },
+         {
+            "product_id": "63b7350d98ec91354d35f664",
+            "product_name": "Aceitunas gazpacha La Explanada",
+            "product_brand": "La Explanada",
+            "product_variant": "500 g",
+            "product_pathname": "/p/aceitunas-gazpacha-la-explanada-500-g-500-g",
+            "product_image_url": "https://a2.soysuper.com/248331e3bb0cf15b79acee3513cb04b6.110.110.0.min.wmark.7ae81d3a.jpg",
+            "product_price": "3,05€  / 500 g",
+            "product_unitprice": "6,10€ / 1 kg"
+         },
+         {
+            "product_id": "63c222cfd7918735e8365198",
+            "product_name": "Aceitunas verdes chupadero sin hueso La Reina del Verdeo",
+            "product_brand": "la-reina-del-verdeo",
+            "product_variant": "595 g",
+            "product_pathname": "/p/aceitunas-verdes-chupadero-sin-hueso-la-reina-del-verdeo-595-g-595-g",
+            "product_image_url": "https://a2.soysuper.com/7fa39f1b3ddf58a65a8ed92bf0f35996.110.110.0.min.wmark.da3a9747.jpg",
+            "product_price": "3,21€  / 595 g",
+            "product_unitprice": "5,39€ / 1 kg"
+         },
+         {
+            "product_id": "60005a27d79187551067d982",
+            "product_name": "Aceitunas chupadeos Pedraza sin gluten",
+            "product_brand": "pedraza",
+            "product_variant": "1,15 kg",
+            "product_pathname": "/p/aceitunas-chupadeos-pedraza-peso-escurrido-1-15-kg-peso-neto-pedraza-peso-escurrido-1-15-kg",
+            "product_image_url": "https://a0.soysuper.com/d5ee87f5cbecc44fea558506bb3b367f.110.110.0.min.wmark.4e5c84ba.jpg",
+            "product_price": "2,38€  / 1,15 kg",
+            "product_unitprice": "2,07€ / 1 kg"
+         },
+         {
+            "product_id": "5d956db80932f73d6206bc4e",
+            "product_name": "Aceituna partida verde aliñada",
+            "product_brand": "Bravo",
+            "product_variant": "1,8 kg",
+            "product_pathname": "/p/aceituna-partida-verde-alinada-bravo-1-7-kg-bravo",
+            "product_image_url": "https://a1.soysuper.com/3d1e48d1559fe61067372945ea7a7afd.110.110.0.min.wmark.05690137.jpg",
+            "product_price": "2,53€  / 1,8 kg",
+            "product_unitprice": "1,41€ / 1 kg"
+         }
+      ]
+   }
+]
