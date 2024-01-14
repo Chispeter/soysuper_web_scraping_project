@@ -1,4 +1,4 @@
-# Importar las bibliotecas
+# LIBRARIES
 import time
 from project_functions import get_list_of_dictionaries, write_json
 
@@ -6,7 +6,7 @@ from project_functions import get_list_of_dictionaries, write_json
 start_time = time.time()
 
 # Extraer la información de la página web y guardarla en una lista de diccionarios
-soysuper_list = get_list_of_dictionaries()
+soysuper_list = get_list_of_dictionaries(pathname="/c/pasta-arroz-y-legumbres")
 
 # Guardar toda la información obtenida en un archivo JSON
 write_json(input=soysuper_list)
