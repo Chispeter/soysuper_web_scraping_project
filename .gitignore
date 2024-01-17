@@ -3,3 +3,6 @@ venv
 
 # pycache
 __pycache__
+
+# personal notes
+notes.txt
