@@ -1,12 +1,68 @@
-### LIBRARIES
-import json
+from bs4 import BeautifulSoup
+import utils.utils
 import requests
 import os
-from bs4 import BeautifulSoup
 
-### FUNCTIONS
-## Función para obtener la sopa principal del nombre de ruta introducido
-def get_main_soup(hostname: str = "https://soysuper.com", pathname: str = "", parser: str = "html.parser") -> BeautifulSoup:
+
+## Esta función es la función principal del proyecto, ya que se encarga de extraer los datos de los productos de una categoría
+def get_dictionaries(hostname: str, data_dirname: str, pathname: str = "", current_list: list = [], current_dictionary: dict = {}, current_dir: str = "") -> list:
+
+    # Crear la carpeta data donde se van a guardar los datos
+    if len(current_dictionary) == 0:
+        current_dir = utils.create_directory(data_dirname=data_dirname)
+
+    # Obtener la sopa principal del nombre de ruta introducido
+    main_soup = get_main_soup(hostname=hostname, pathname=pathname)
+    
+    # Obtener la sopa específica para cada categoría
+    categories_soup_array = get_soup_array(main_soup=main_soup, extract_mode="categories", pathname=pathname)
+
+    # Preparar la búsqueda de los datos para cada categoría
+    for obj in categories_soup_array:
+        # Buscar el elemento <a> que contiene la información de la categoría
+        category = obj.find("a")
+        
+        # Registrar los datos de las categorías, excepto la última, que no tendrá más categorías posteriores
+        if category != (-1):
+            # Registrar el nombre de la categoría, el nombre de la ruta y el número de productos; y guardarlos en un diccionario
+            current_list.append({
+                "nombre_de_categoría": category["title"].strip(),
+                "nombre_de_ruta": category["href"].replace("#products", "").strip(),
+                "numero_de_productos": category.find("span", class_="number").text.strip(),
+                "subcategorías": []
+                })
+            
+            # Crear un directorio para cada categoría
+            current_dir = utils.create_directory(data_dirname=data_dirname, current_dir=current_dir, current_category_name=current_list[-1]["nombre_de_categoría"])
+            
+            # Mostrar mensaje de carga
+            print(f"Extrayendo categoría {current_list[-1]['nombre_de_categoría']} ...")
+            
+            # Realizar el web scraping de las categorías aguas abajo
+            get_dictionaries(hostname=hostname, data_dirname=data_dirname, pathname=current_list[-1]["nombre_de_ruta"], current_list=current_list[-1]["subcategorías"], current_dictionary=current_list[-1], current_dir=current_dir)
+            
+            # Mostrar mensaje de éxito
+            print(f"¡Categoría {current_list[-1]['nombre_de_categoría']} extraída con éxito!")
+            
+        # Registrar los datos de los productos de cada categoría final (la última contendrá los datos de los productos) y guardarlos en un JSON
+        else:
+            # Comprobar si ya se han extraído los datos de cada producto
+            if not utils.is_data_extracted(current_dir=current_dir, current_category_name=current_dictionary["nombre_de_categoría"]):
+                
+                # Registrar los datos de los productos de cada categoría final en el diccionario
+                extract_products(current_dictionary=current_dictionary, main_soup=main_soup, hostname=hostname, pathname=pathname)
+                
+                # Registrar los datos obtenidos en un JSON al terminar una categoría
+                utils.write_json(data_input=current_dictionary, current_dir=current_dir, data_dirname=data_dirname)
+            
+        # Obtener la ruta del directorio anterior (parent_dir) para las siguientes categorías
+        current_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
+
+    return current_list  
+
+
+## Esta función se utiliza para obtener una sopa HTML del nombre de ruta introducido
+def get_main_soup(hostname: str, pathname: str = "", parser: str = "html.parser") -> BeautifulSoup:
 
     # Control de excepciones
     try:
@@ -28,56 +84,8 @@ def get_main_soup(hostname: str = "https://soysuper.com", pathname: str = "", pa
         # Mostrar un mensaje de error si el código anterior no se ejecuta por completo
             print("Error en la función get_main_soup(). No se puede acceder a la página web debido a un error tipográfico")
 
-## Función para obtener los diccionarios con los datos de la página web (función principal)
-def get_dictionaries(pathname: str = "", current_list: list = [], current_dictionary: dict = {}, current_dir: str = "") -> list:
 
-    # Obtener la sopa principal del nombre de ruta introducido
-    main_soup = get_main_soup(pathname=pathname)
-    
-    # Obtener la sopa específica para cada categoría
-    categories_soup_array = get_soup_array(main_soup=main_soup, extract_mode="categories", pathname=pathname)
-
-    # Preparar la búsqueda de los datos para cada categoría
-    for obj in categories_soup_array:
-        # Buscar el elemento <a> que contiene la información de la categoría
-        category = obj.find("a")
-        
-        # Registrar los datos de las categorías, excepto la última, que no tendrá más categorías posteriores
-        if category != (-1):
-            # Registrar el nombre de la categoría, el nombre de la ruta y el número de productos; y guardarlos en un diccionario
-            current_list.append({
-                "nombre_de_categoría": category["title"].strip(),
-                "nombre_de_ruta": category["href"].replace("#products", "").strip(),
-                "numero_de_productos": category.find("span", class_="number").text.strip(),
-                "subcategorías": []
-                })
-            
-            # Crear un directorio para cada categoría
-            current_dir = create_directory(current_dir=current_dir, current_category_name=current_list[-1]["nombre_de_categoría"])
-            
-            # Mostrar mensaje de carga
-            print(f"Extrayendo categoría {current_list[-1]['nombre_de_categoría']} ...")
-            
-            # Realizar el web scraping de las categorías aguas abajo
-            get_dictionaries(pathname=current_list[-1]["nombre_de_ruta"], current_list=current_list[-1]["subcategorías"], current_dictionary=current_list[-1], current_dir=current_dir)
-            
-            # Mostrar mensaje de éxito
-            print(f"¡Categoría {current_list[-1]['nombre_de_categoría']} extraída con éxito!")
-            
-        # Registrar los datos de los productos de cada categoría final (la última contendrá los datos de los productos) y guardarlos en un JSON
-        else:
-            # Registrar los datos de los productos de cada categoría final en el diccionario
-            extract_products(current_dictionary=current_dictionary, main_soup=main_soup, pathname=pathname)
-            
-            # Registrar los datos obtenidos en un JSON al terminar una categoría
-            write_json(data_input=current_dictionary, current_dir=current_dir)
-            
-        # Obtener la ruta del directorio anterior (parent_dir) para las siguientes categorías
-        current_dir = os.path.abspath(os.path.join(current_dir, os.pardir))
-
-    return current_list  
-
-## Función para obtener el array de la sopa introducida
+## Esta función se utiliza para obtener un array de objetos BeautifulSoup de una sopa HTML
 def get_soup_array(main_soup: BeautifulSoup, extract_mode: str = "categories" or "products" or "supermarkets", pathname: str = "") -> any:
     
     # Extraer los datos de la categorías
@@ -127,8 +135,8 @@ def get_soup_array(main_soup: BeautifulSoup, extract_mode: str = "categories" or
     return soup_array
 
 
-## Función para registrar los datos de los productos de una categoría para la primera página
-def extract_products(current_dictionary: dict, main_soup: any, pathname: str) -> dict:
+## Esta función se utiliza para extraer los datos de los productos de una categoría
+def extract_products(current_dictionary: dict, main_soup: any, hostname: str, pathname: str) -> dict:
     
     # Mostrar mensaje de carga
     print(f"Extrayendo productos de la categoría {current_dictionary['nombre_de_categoría']} ...")
@@ -152,26 +160,25 @@ def extract_products(current_dictionary: dict, main_soup: any, pathname: str) ->
     products_soup_array = get_soup_array(main_soup=main_soup, extract_mode="products")
     
     # Registrar en el diccionario todos los productos de la primera página (siempre va a haber una primera página)
-    extract_products_from_page(products_soup_array=products_soup_array, current_dictionary=current_dictionary)
+    extract_products_from_page(hostname=hostname, products_soup_array=products_soup_array, current_dictionary=current_dictionary)
     
     # Registrar en el diccionario todos los productos del resto de páginas (si existen)
     if total_number_of_pages != "1":
         for number_of_page in range(2, int(total_number_of_pages)+1):
             # Extraer la sopa principal en cada página
-            new_soup = get_main_soup(pathname=pathname+"?page="+str(number_of_page)+"#products")
+            new_soup = get_main_soup(hostname=hostname, pathname=pathname+"?page="+str(number_of_page)+"#products")
             
             # Extraer la sopa específica para los productos
             new_soup_array = get_soup_array(main_soup=new_soup, extract_mode="products")
             
             # Extraer
-            extract_products_from_page(products_soup_array=new_soup_array, current_dictionary=current_dictionary)
+            extract_products_from_page(hostname=hostname, products_soup_array=new_soup_array, current_dictionary=current_dictionary)
 
     print(f"¡Productos de la categoría {current_dictionary['nombre_de_categoría']} extraídos con éxito!")
 
 
-
-## Función para registrar los datos de todos los productos por cada página de productos
-def extract_products_from_page(products_soup_array: any, current_dictionary: dict):
+## Esta función se utiliza para extraer los datos de los productos de una categoría por cada página de productos
+def extract_products_from_page(hostname: str, products_soup_array: any, current_dictionary: dict):
     
     # Obtener los datos de los productos en cada página
     for product in products_soup_array:
@@ -255,14 +262,14 @@ def extract_products_from_page(products_soup_array: any, current_dictionary: dic
             })
 
         # Registrar los supermercados del producto en cada página
-        extract_supermarkets_from_product_page(current_dictionary=current_dictionary["productos"][-1])
+        extract_supermarkets_from_product_page(hostname=hostname, current_dictionary=current_dictionary["productos"][-1])
 
 
-# Función para registrar los datos de los supermercados de un producto en cada página
-def extract_supermarkets_from_product_page(current_dictionary: dict):
+## Esta función se utiliza para extraer los datos de los supermercados de un producto
+def extract_supermarkets_from_product_page(hostname: str, current_dictionary: dict):
     
         # Extraer la sopa principal de los supermercados
-        supermarket_main_soup = get_main_soup(pathname=current_dictionary["product_pathname"])
+        supermarket_main_soup = get_main_soup(hostname=hostname, pathname=current_dictionary["product_pathname"])
         
         # Extraer la sopa específica de los supermercados del producto
         supermarket_soup_array = get_soup_array(main_soup=supermarket_main_soup, extract_mode="supermarkets")
@@ -291,43 +298,3 @@ def extract_supermarkets_from_product_page(current_dictionary: dict):
                 
         except:
             current_dictionary["product_in_supermarkets"].append(None)
-
-
-## Función para crear una serie de directorios donde se van a guardar los datos
-def create_directory(main_data_dir: str = "data", current_dir: str = "", current_category_name: str = "") -> str:
-
-    # Obtener la ruta del directorio donde se ubica este archivo de python
-    project_dir = os.path.dirname(__file__)
-    
-    if len(current_category_name) == 0:
-        # Guardar la ruta de la carpeta donde van a almacenarse los datos
-        current_dir = os.path.join(project_dir, main_data_dir)
-        
-    else:
-        # Guardar la ruta de la carpeta donde van a almacenarse los datos
-        current_dir = os.path.join(current_dir, current_category_name.lower().replace(" ", "_").replace(",", ""))
-    
-    # Crear la carpeta de los datos (si existe)
-    if not os.path.exists(current_dir):
-        os.mkdir(current_dir)
-    
-    return current_dir
-
-## Función para guardar toda la información obtenida en un archivo JSON
-def write_json(data_input: any, current_dir: str, main_data_dir: str = "data", indent: int = 3) -> str:
-    
-    # Obtener la ruta del directorio donde se ubica este archivo de python
-    project_dir = os.path.dirname(__file__)
-    
-    
-    # Unir la ruta con el nombre de la carpeta y el archivo
-    file_path = os.path.join(project_dir, main_data_dir, current_dir, data_input['nombre_de_categoría'].lower().replace(" ", "_").replace(",", "") + ".json")
-    
-    # Escribir los datos en un archivo JSON
-    with open(file_path, "w", encoding="utf-8") as file:
-        
-        # Usar la función dump para convertir el diccionario en JSON y escribirlo en el archivo
-        json.dump(obj=data_input, fp=file, ensure_ascii=False, indent=indent)
-
-    # Cerrar el archivo
-    file.close()
