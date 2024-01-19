@@ -1,5 +1,5 @@
-from config.config import get_configuration
-from web_scraping.web_scraping import get_dictionaries
+from config import get_configuration
+from web_scraping import get_dictionaries
 
 # Extraer la información de la configuración del proyecto
 [hostname, data_dirname] = get_configuration()
