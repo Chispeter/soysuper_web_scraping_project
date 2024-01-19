@@ -22,7 +22,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • **`main.py`:** Contiene el código principal que ejecuta el web scraping.
 
 ## ¿Cómo se utiza? ⚙️
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Para usar este proyecto, se necesita tener instalado python 3 y las librerías [requests](https://pypi.org/project/requests/) y [BeautifulSoup](https://pypi.org/project/beautifulsoup4/). Los pasos son los siguientes:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Para usar este proyecto, se necesita tener instalado [Python 3](https://www.python.org/downloads/) y las librerías [requests](https://pypi.org/project/requests/) y [BeautifulSoup](https://pypi.org/project/beautifulsoup4/). Los pasos son los siguientes:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **1.** Clonar o descargar este repositorio.
 
