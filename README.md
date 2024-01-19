@@ -11,7 +11,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; El objetivo es extraer los datos de los productos (como el nombre, la marca y el precio) que aparecen en la web y guardarlos en archivos JSON.
 
 ## ¿Cómo funciona? 🛠️
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; El proyecto usa la librería [requests](https://pypi.org/project/requests/) para hacer peticiones HTTP a la página web de [Soysuper](https://soysuper.com/), y la librería [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) para parsear el HTML y extraer los datos de interés. El proyecto está dividido en varios módulos:
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; El proyecto usa la librería [requests](https://pypi.org/project/requests/) para hacer peticiones HTTP a la página web de [Soysuper](https://soysuper.com/), y la librería [BeautifulSoup](https://pypi.org/project/beautifulsoup4/) para parsear el HTML y extraer los datos de interés para, posteriormente, guardarlos en archivos JSON en diferentes directorios con ayuda de las librerías json y os. El proyecto está dividido en varios módulos:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; • **`config.py:`** Contiene una función que lee el archivo de configuración `config.json` y devuelve los parámetros del proyecto, como el nombre del host de la página web y el nombre del directorio en el que se van a guardar los datos.
 
