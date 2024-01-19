@@ -42,9 +42,9 @@ def write_json(data_input: any, current_dir: str, data_dirname: str, indent: int
     file.close()
     
 
-## Esta función se utiliza para limpiar un string y eliminar caracteres que generan problemas
+## Esta función se utiliza para limpiar un string y eliminar un caracter que genera problemas
 def get_cleaned_str(str_input: str) -> str:
-    return str_input.replace(" \ ", " - ").replace(" / ", " - ")
+    return str_input.replace(" / ", " - ")
 
 
 ## Esta función se utiliza para comprobar si ya se habían extraído los datos de los productos anteriormente
