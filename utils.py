@@ -4,11 +4,11 @@ import os
 
 ## Esta función se utiliza para crear una serie de directorios donde se van a guardar los datos
 def create_directory(data_dirname: str, current_dir: str = "", current_category_name: str = "") -> str:
-
-    # Obtener la ruta del directorio donde se ubica este archivo de python
-    project_dir = os.path.dirname(__file__)
     
     if len(current_category_name) == 0:
+        # Obtener la ruta del directorio donde se ubica este archivo de python
+        project_dir = os.path.dirname(__file__)
+    
         # Guardar la ruta de la carpeta donde van a almacenarse todos los datos
         current_dir = os.path.join(project_dir, data_dirname)
         
