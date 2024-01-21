@@ -2,7 +2,7 @@ import json
 import os
 
 # Esta función se encarga de obtener los parámetros del proyecto de un archivo de configuración en formato JSON
-def get_configuration():
+def get_configuration() -> any:
     
     project_dir = os.path.dirname(__file__)
     
@@ -13,4 +13,4 @@ def get_configuration():
     
     file.close()
     
-    return [data["hostname"], data["data_dirname"]]
+    return data

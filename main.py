@@ -2,8 +2,8 @@ from config import get_configuration
 from web_scraping import get_dictionaries
 
 # Extraer la información de la configuración del proyecto
-[hostname, data_dirname] = get_configuration()
+config_data = get_configuration()
 
 # Extraer la información de la página web y guardarla en archivos JSON
-get_dictionaries(hostname=hostname, data_dirname=data_dirname)
+get_dictionaries(hostname=config_data["hostname"], data_dirname=config_data["data_dirname"])
 
